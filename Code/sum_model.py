@@ -6,10 +6,13 @@ from load_dataset import train_ds, val_ds, test_ds
 #using sentence transformer to embed sentences
 embeddings = SentenceTransformer("sentence-transformers/all-MiniLM-L12-v2")
 
-#using stanza for tokenization
+#using stanza for tokenization of every lanaguage
 for languages in val_ds.features:
     #print(languages)
     stanza.download(languages, package="craft")
     pipeline = stanza.Pipeline('en', package='craft')
 
 #def summarization():
+# find similarity: cosine similarity
+# cluster
+# choose similar sentences for summmary
