@@ -15,4 +15,5 @@ train_ds = load_dataset("masakhane/AfriDocMT", "doc_health_10", split="train")
 val_ds= load_dataset("masakhane/AfriDocMT", "doc_health_10", split="validation")
 test_ds= load_dataset("masakhane/AfriDocMT", "doc_health_10", split="test")
 
-print(val_ds)
+lang_list=list(val_ds.features)
+print(lang_list)
