@@ -1,12 +1,8 @@
-# Use a pipeline as a high-level helper
-#from transformers import pipeline
-
-#pipe = pipeline("translation", model="facebook/nllb-200-3.3B")
-
 # Load model directly
 
-from load_dataset import train_ds, val_ds, test_ds
+from load_dataset import train_ds, val_ds, test_ds, lang_list
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
+import re
 
 
 nllb="facebook/nllb-200-3.3B"
@@ -16,15 +12,51 @@ model = AutoModelForSeq2SeqLM.from_pretrained(nllb)
 
 def translation(source_lang, target_lang, text):
     #map dataset language code to model language code
+    language_map={
+        'am': 'amh_Ethi',
+        'en':'eng_Latn',
+        'ha': 'hau_Latn',
+        'sw': 'swh_Latn',
+        'yo': 'yor_Latn',
+        'zu': 'zul_Latn'
+    }
 
-    #source_lang= 'yor_Latn'
-    #target_lang='eng_latn'
-    translator = pipeline('translation', model=model, tokenizer=tokenizer, src_lang=source_lang, tgt_lang=target_lang, max_length = 400)
-    output = translator(text)
-    translated_text=output[0]['translation_text']
-    print(translated_text)
+    source_code = language_map[source_lang]
+    target_code = language_map[target_lang]
 
-text='Imbangela evame kakhulu ye-anaemia ngokuphathelene nomsoco, nakuba ukuntuleka kwe-folate, amavithamini B12 no-A nawo ayimbangela ebalulekile.'
-translation('zul_Latn', 'eng_Latn', text)
+    translator = pipeline('translation', model=model, tokenizer=tokenizer, src_lang=source_code, tgt_lang=target_code)
+    # Split into sentences
+    sentences = re.split(r'(?<=[.!?])\s+', text)
+    translated_chunks = []
+    for sent in sentences:
+        sent = sent.strip()
+        if sent:
+            result = translator(sent)
+            translated_chunks.append(result[0]['translation_text'])
+
+    return " ".join(translated_chunks)
+
+# with open("trans_output.txt", "w", encoding="utf-8") as f:
+#     for row in val_ds:
+#         #for lang in lang_list:  # lang_list is ['am', 'en', 'ha', 'sw', 'yo', 'zu']
+#             text = row['en']
+
+#             translated_text= translation(lang_list[5], lang_list[1], text)
+
+#             f.write(f"Translation for language {lang_list[5]} to {lang_list[1]}:\n")
+#             for sentence in translated_text:
+#                 f.write(sentence + "\n")
+#             f.write("\n---\n\n")
+
+with open("trans_output.txt", "w", encoding="utf-8") as f:
+    text='Ama-Biological Uhlolojikelele: Okokwelapha kwama-Biological, okubizwa nangokuthi ama-Biological, yilezo zigaba zemithi ezikhulayo bese zihlanzwa enqubweni yokukhulisa amangqamuzana endaweni elawulwayo okubizwa phecelezi nge-cell culture okwenziwa ngenani elikhulu lamabhaktheriya noma imvubelo, noma amangqamuzana ezitshalo noma ezilwane. Ama-biological yiqembu lemithi ehlukahlukene ehlanganisa imithi yokugoma, izici eziphathelene nokukhula, ama-modulator amasosha omzimba, izivikeli mzimba ze-monoclonal, kanye nemikhiqizo etholakala egazini lomuntu kanye ne-plasma. Okuhlukanisa ama-biological kanye neminye imithi ukuthi ngokuvamile lawa amaprotheni ahlanjululwe ezinhlelweni zokukhulisa amangqamuzana aphilayo endaweni elawulwayo noma egazini, kuyilapho eminye imithi ibhekwa ‘njengama-molecule amancane’ futhi enziwa ngendlela yokwenziwa (sythetically) noma ahlanjululwe ethathwa ezitshalweni. Ngenxa yokungafani kwesimo sawo kanye nendlela akhiqizwa ngayo, okokwelapha kwama-bilogical kuyagunyazwa, kuhlolwe, futhi kulawulwe ngendlela ehlukile kuneminye imithi. Ukuze kuqinisekiswe ikhwalithi, ukuphepha, kanye nokusebenza kahle kwawo, iqoqo ngalinye lomkhiqizo wokwelapha ngama-biological kufanele lihlolwe kabanzi esigabeni ngasinye sokukhiqiza ukuze kuqinisekiswe ukuvumelana namaqoqo aphambilini. Ukusetshenziswa kwamazinga erefurensi omhlaba wonke e-WHO kusiza ekuqinisekiseni ngokuqhubekayo ukungaguquguquki komkhiqizo kumaqoqo amaningi kanye nokuvumela ukuqhathaniswa kwama-biological phakathi kwabakhiqizi kanye/noma amazwe. Ukusungulwa kwezimfuneko ezivamile ezisebenza ezinhlotsheni ezihlukahlukene zamaqoqo omkhiqizo alawula izinto zokuqalisa, ukukhiqiza nokwengamela okulawulayo kuyisici esibalulekile sale nqubo. Nakuba kungase kusungulwe imihlahlandlela yama-biological athile ukuze kusizwe . Umthelela: Umthelela ohlomulisayo wama-biological uhlukahlukile njengezinhlobo zemikhiqizo ngokwayo: Imithi yokugoma ingenye yezindlela ezinamandla kakhulu futhi ezingabizi kakhulu zokunciphisa umthwalo wezifo emhlabeni wonke futhi kulinganiselwa ekutheni isindisa izimpilo eziyizigidi ezi-2 ukuya kwezi-3 minyaka yonke. Ezinye izifo, njengengxibongo nezinhlobo ezimbili zesifo sovendle, ziye zaqedwa ngenxa yemizamo yomhlaba wonke yokugoma nokulawula ukubhebhetheka kwazo. Kodwa-ke, njengoba izifo eziningi ezithathelanayo ziqhubeka nokuthatha izigidi zezimpilo minyaka yonke, ukuthuthukiswa kwemithi yokugoma emisha neminye imikhiqizo yebhayoloji, nezindlela ezintsha zokuthuthukisa ikhwalithi, amandla, ukuphepha kanye nokusebenza ngendlela efanele kwayo, kuseyizinselele ezinkulu emkhakheni wezempilo yomphakathi. Imikhiqizo yegazi yimikhiqizo esindisa impilo esetshenziswa kabanzi ngesikhathi sokuhlinzwa, ezigulini ezilimele, noma kulabo abanezifo zokopha, nakubantu abelashwa ngamakhemikhali ekwelapheni umdlavuza. Igazi eliningi elinikelwe lihlukaniswa ngezingxenye zalo ezihlukene ngakho iyunithi eyodwa ingasetshenziselwa ukusiza iziguli eziningi ezidinga usizo. Leli qoqo le-ejenti liphinde lihlanganise amangqamuzana omzimba kanye nezinye izindlela zokwelapha ngezakhi zofuzo. Kunokunye okuningana kokwelapha ngama-biological, njenge-insulin esetshenziswa ekwelapheni isifo sikashukela, ama-interferon okutheleleka ngamagciwane kanye nokwelashwa komdlavuza, izivikeli mzimba ze-monoclonal ezisetshenziswayo futhi ekwelapheni ezinye izifo zomdlavuza noma izifo zokuhlaselana kwamasosha omzimba omuntu (autoimmune). Ngokubambisana, le mikhiqizo iyimpumelelo enkulu yabantu nezibonelo ezincomekayo zamandla ama-biological kwezokwelapha. Impendulo yeWHO I-WHO isebenza namazwe angamalungu, Izikhungo Zokubambisana, ophathina nochwepheshe ngohlelo lwayo lokulinganisa ama-biological ukuze isungule futhi ibuyekeze isiqondiso semikhiqizo ye-biotherapeutic futhi isungule izindinganiso zamarefurense amazwe omhlaba. Iziqondiso ezikhiqizwayo zikhuthazwa ngokushicilelwa kwazo kuwebhusayithi ye-WHO, kanye nangemihlangano yokucobelelana ngolwazi kanye namaseshini okuqeqesha ukuze kube lula ukuqaliswa kwazo. Lokhu kufinyelela kuye kwaba usizo ekukhuthazeni izincomo ze-WHO ezikukhuthaza ukuvumelanisa iziqondiso zomhlaba wonke zokwelapha ngama-biological. Ngokufanayo, ukuthuthukiswa kanye nokugqugquzelwa kwamazinga asemazweni omhlaba amarefurensi e-WHO kusiza ekuqinisekiseni ukuthi izindlela zokwelapha zama-biological zivumelekile phakathi kwabakhiqizi, amazwe kanye namalabhorethri ahlukahlukene. Kusetshenziswa kakhulu ekuqinisekiseni ikhwalithi nokusebenza ngendlela efanele kwama-bilogical, kanye nasekulinganisweni kokuhlola kokuxilonga. Izinhlelo eziningana ezibalulekile zibonisa ukubaluleka kwe-WHO emithini yama-biological njengama-ejenti anamandla okunciphisa umthwalo wezifo emhlabeni wonke. Lokhu kuhlanganisa i-Global Vaccine Action Plan (GVAP) kanye ne-Blood Regulators Network (BRN), equkethe iziphathimandla ezihamba phambili zamazwe omhlaba ngokuphathelene negazi, imikhiqizo yegazi kanye namadivayisi okuxilonga i-in vitro. I-WHO futhi igubha Iviki Lomhlaba Lokugoma njalo ngoMbasa, nemicimbi ehlobene nayo ehloselwe ukukhuthaza ukusetshenziswa nokuqondwa kwemithi yokugoma kanye nokulwa nokungatshazwa komgomo emhlabeni jikelele.'
+    translated_text= translation(lang_list[5], lang_list[1], text)
+    f.write(translated_text)
+
+print("Translation saved to trans_output.txt")
+
+# text='Ama-Biological Uhlolojikelele: Okokwelapha kwama-Biological, okubizwa nangokuthi ama-Biological, yilezo zigaba zemithi ezikhulayo bese zihlanzwa enqubweni yokukhulisa amangqamuzana endaweni elawulwayo okubizwa phecelezi nge-cell culture okwenziwa ngenani elikhulu lamabhaktheriya noma imvubelo, noma amangqamuzana ezitshalo noma ezilwane. Ama-biological yiqembu lemithi ehlukahlukene ehlanganisa imithi yokugoma, izici eziphathelene nokukhula, ama-modulator amasosha omzimba, izivikeli mzimba ze-monoclonal, kanye nemikhiqizo etholakala egazini lomuntu kanye ne-plasma. Okuhlukanisa ama-biological kanye neminye imithi ukuthi ngokuvamile lawa amaprotheni ahlanjululwe ezinhlelweni zokukhulisa amangqamuzana aphilayo endaweni elawulwayo noma egazini, kuyilapho eminye imithi ibhekwa ‘njengama-molecule amancane’ futhi enziwa ngendlela yokwenziwa (sythetically) noma ahlanjululwe ethathwa ezitshalweni. Ngenxa yokungafani kwesimo sawo kanye nendlela akhiqizwa ngayo, okokwelapha kwama-bilogical kuyagunyazwa, kuhlolwe, futhi kulawulwe ngendlela ehlukile kuneminye imithi. Ukuze kuqinisekiswe ikhwalithi, ukuphepha, kanye nokusebenza kahle kwawo, iqoqo ngalinye lomkhiqizo wokwelapha ngama-biological kufanele lihlolwe kabanzi esigabeni ngasinye sokukhiqiza ukuze kuqinisekiswe ukuvumelana namaqoqo aphambilini. Ukusetshenziswa kwamazinga erefurensi omhlaba wonke e-WHO kusiza ekuqinisekiseni ngokuqhubekayo ukungaguquguquki komkhiqizo kumaqoqo amaningi kanye nokuvumela ukuqhathaniswa kwama-biological phakathi kwabakhiqizi kanye/noma amazwe. Ukusungulwa kwezimfuneko ezivamile ezisebenza ezinhlotsheni ezihlukahlukene zamaqoqo omkhiqizo alawula izinto zokuqalisa, ukukhiqiza nokwengamela okulawulayo kuyisici esibalulekile sale nqubo. Nakuba kungase kusungulwe imihlahlandlela yama-biological athile ukuze kusizwe . Umthelela: Umthelela ohlomulisayo wama-biological uhlukahlukile njengezinhlobo zemikhiqizo ngokwayo: Imithi yokugoma ingenye yezindlela ezinamandla kakhulu futhi ezingabizi kakhulu zokunciphisa umthwalo wezifo emhlabeni wonke futhi kulinganiselwa ekutheni isindisa izimpilo eziyizigidi ezi-2 ukuya kwezi-3 minyaka yonke. Ezinye izifo, njengengxibongo nezinhlobo ezimbili zesifo sovendle, ziye zaqedwa ngenxa yemizamo yomhlaba wonke yokugoma nokulawula ukubhebhetheka kwazo. Kodwa-ke, njengoba izifo eziningi ezithathelanayo ziqhubeka nokuthatha izigidi zezimpilo minyaka yonke, ukuthuthukiswa kwemithi yokugoma emisha neminye imikhiqizo yebhayoloji, nezindlela ezintsha zokuthuthukisa ikhwalithi, amandla, ukuphepha kanye nokusebenza ngendlela efanele kwayo, kuseyizinselele ezinkulu emkhakheni wezempilo yomphakathi. Imikhiqizo yegazi yimikhiqizo esindisa impilo esetshenziswa kabanzi ngesikhathi sokuhlinzwa, ezigulini ezilimele, noma kulabo abanezifo zokopha, nakubantu abelashwa ngamakhemikhali ekwelapheni umdlavuza. Igazi eliningi elinikelwe lihlukaniswa ngezingxenye zalo ezihlukene ngakho iyunithi eyodwa ingasetshenziselwa ukusiza iziguli eziningi ezidinga usizo. Leli qoqo le-ejenti liphinde lihlanganise amangqamuzana omzimba kanye nezinye izindlela zokwelapha ngezakhi zofuzo. Kunokunye okuningana kokwelapha ngama-biological, njenge-insulin esetshenziswa ekwelapheni isifo sikashukela, ama-interferon okutheleleka ngamagciwane kanye nokwelashwa komdlavuza, izivikeli mzimba ze-monoclonal ezisetshenziswayo futhi ekwelapheni ezinye izifo zomdlavuza noma izifo zokuhlaselana kwamasosha omzimba omuntu (autoimmune). Ngokubambisana, le mikhiqizo iyimpumelelo enkulu yabantu nezibonelo ezincomekayo zamandla ama-biological kwezokwelapha. Impendulo yeWHO I-WHO isebenza namazwe angamalungu, Izikhungo Zokubambisana, ophathina nochwepheshe ngohlelo lwayo lokulinganisa ama-biological ukuze isungule futhi ibuyekeze isiqondiso semikhiqizo ye-biotherapeutic futhi isungule izindinganiso zamarefurense amazwe omhlaba. Iziqondiso ezikhiqizwayo zikhuthazwa ngokushicilelwa kwazo kuwebhusayithi ye-WHO, kanye nangemihlangano yokucobelelana ngolwazi kanye namaseshini okuqeqesha ukuze kube lula ukuqaliswa kwazo. Lokhu kufinyelela kuye kwaba usizo ekukhuthazeni izincomo ze-WHO ezikukhuthaza ukuvumelanisa iziqondiso zomhlaba wonke zokwelapha ngama-biological. Ngokufanayo, ukuthuthukiswa kanye nokugqugquzelwa kwamazinga asemazweni omhlaba amarefurensi e-WHO kusiza ekuqinisekiseni ukuthi izindlela zokwelapha zama-biological zivumelekile phakathi kwabakhiqizi, amazwe kanye namalabhorethri ahlukahlukene. Kusetshenziswa kakhulu ekuqinisekiseni ikhwalithi nokusebenza ngendlela efanele kwama-bilogical, kanye nasekulinganisweni kokuhlola kokuxilonga. Izinhlelo eziningana ezibalulekile zibonisa ukubaluleka kwe-WHO emithini yama-biological njengama-ejenti anamandla okunciphisa umthwalo wezifo emhlabeni wonke. Lokhu kuhlanganisa i-Global Vaccine Action Plan (GVAP) kanye ne-Blood Regulators Network (BRN), equkethe iziphathimandla ezihamba phambili zamazwe omhlaba ngokuphathelene negazi, imikhiqizo yegazi kanye namadivayisi okuxilonga i-in vitro. I-WHO futhi igubha Iviki Lomhlaba Lokugoma njalo ngoMbasa, nemicimbi ehlobene nayo ehloselwe ukukhuthaza ukusetshenziswa nokuqondwa kwemithi yokugoma kanye nokulwa nokungatshazwa komgomo emhlabeni jikelele.'
+# translation('zul_Latn', 'eng_Latn', text)
+
 #reference?
 #https://medium.com/@FaridSharaf/text-translation-using-nllb-and-huggingface-tutorial-7e789e0f7816 
