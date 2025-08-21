@@ -25,3 +25,27 @@ If you use one of the multilingual models, feel free to cite our publication Mak
     publisher = "Association for Computational Linguistics",
     url = "https://arxiv.org/abs/2004.09813",
 }
+
+ROUGE reference:
+@inproceedings{lin-2004-rouge,
+    title = "{ROUGE}: A Package for Automatic Evaluation of Summaries",
+    author = "Lin, Chin-Yew",
+    booktitle = "Text Summarization Branches Out",
+    month = jul,
+    year = "2004",
+    address = "Barcelona, Spain",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W04-1013",
+    pages = "74--81",
+}
+
+QAGS reference:
+@article{wang2020asking,
+   title={Asking and Answering Questions to Evaluate the Factual Consistency of Summaries},
+   url={http://dx.doi.org/10.18653/v1/2020.acl-main.450},
+   DOI={10.18653/v1/2020.acl-main.450},
+   journal={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+   publisher={Association for Computational Linguistics},
+   author={Wang, Alex and Cho, Kyunghyun and Lewis, Mike},
+   year={2020}
+}
