@@ -1,165 +1,1386 @@
-Summary for language=en:
-Primary health care is a whole-of-society approach to effectively organize and strengthen national health systems to bring services for health and wellbeing closer to communities.
+Summary for language=am:
+የመጀመሪያ ደረጃ የጤና እንክብካቤ ብሔራዊ የጤና ስርአቶችን በብቃት ለማደራጀት እና ለማጠናከር ለጤና እና ለደህንነት አገልግሎቶችን ከማህበረሰቦች ጋር ለማቀራረብ አጠቃላይ የህብረተሰብ አቀራረብ ነው።
+ይህ ስልት የጤና እንክብካቤን በሰዎች ፍላጎት ላይ ያማከለ እና ምርጫቸውን በሚያከብር መንገድ መሰጠቱን ያረጋግጣል።
+የመጀመሪያ ደረጃ የጤና ክብካቤ እነዚህን ነገሮች አንድ ላይ የሚያመጣቸው ከፍተኛውን የጤና ፣ ደህንነት ደረጃ እና ፍትሃዊ ስርጭታቸውን ለማረጋገጥ ነው።
 
 ---
 
 Summary for language=en:
+Primary health care Overview: All people, everywhere, have the right to achieve the highest attainable level of health.
+It has 3 components: integrated health services to meet people’s health needs throughout their lives addressing the broader determinants of health through multisectoral policy and action empowering individuals, families and communities to take charge of their own health.
+It is also key to strengthening the resilience of health systems to prepare for, respond to and recover from shocks and crises.
+
+---
+
+Summary for language=ha:
+Ana ɗaukar kula da lafiya na farko a matsayin hanya mafi haɗaka, daidaito da farashi mai tsada don cimma ɗaukar hoto na duniya.
+A shekara mai zuwa, a babban taron Majalisar Dinkin Duniya kan batun kiwon lafiya na duniya, kasashe sun bayyana kudurinsu na "fadada isar da ba da fifiko ga kiwon lafiya na farko a matsayin ginshiƙi na ci gaba da ci gaba da tsarin kiwon lafiya na jama'a, tushen al'umma da haɗin gwiwar tsarin kiwon lafiya da kuma tushen samun damar samar da lafiya ta duniya."
+Don tallafawa ƙasashe membobin wajen fassara wannan alƙawarin zuwa ayyuka masu amfani waɗanda suka yi daidai da mahallin ƙasa da abubuwan da suka fi dacewa, waɗanda suka kafa shirin na musamman kan kula da lafiya na farko kuma, tare da UNICEF, sun fitar da tsarin aiki don kula da lafiya na farko da tsarin ma'aunin kula da lafiya na farko da alamomi.
+
+---
+
+Summary for language=sw:
+Huduma ya afya ya msingi inachukuliwa kuwa njia jumuishi zaidi, yenye usawa na ya gharama nafuu ya kufikia huduma ya afya kwa wote.
+Athari: Huduma ya afya kwa wote itawezekana tu wakati kila mtu, kila mahali anaweza kufikia huduma za afya anazohitaji.
+Huduma ya afya ya msingi huleta mambo haya pamoja ili kuhakikisha kiwango cha juu zaidi cha afya na ustawi na usambazaji wao sawa.
+
+---
+
+Summary for language=yo:
+Ìtọ́jú ìlera abẹ́lé jẹ́ ìlànà gbogbo àwùjọ láti ṣètò àti ìrónilágbára àwọn ètò ìlera orílẹ̀ èdè kíkún láti mú àwọn ìpèsè fún ìlera àti àlàáfíà sún mọ́ àwọn àwùjọ.
+Ọgbọ́n yìí tún fààyè gba ìtọ́jú ìlera jẹ́ pípèsè ní ọ̀nà kan tí ó dá lórí àìní àwọn ènìyàn àti ìbọ̀wọ̀ fún ìfẹ́ wọn.
+Ìtọ́jú ìlera àti àwọn ìpín mìíràn nílò láti ṣiṣẹ́ papọ̀ láti rí i dájú pé gbogbo àwọn ìpinnu tí wọ́n ń kojú ìlera ní wọ́n yanjú ní ọ̀nà àṣepọ̀.
+
+---
+
+Summary for language=zu:
+Lesi yisisekelo sokunakekelwa kwezempilo iprimary health care (PHC).
+Kuwukhiye futhi ekuqiniseni ukuqina kwezinhlelo zezempilo ukuze uzilungiselele, uphendule futhi ululame ekushaqekeni nasezinkingeni.
+Izinhlelo zezempilo ezigxile ekunakekelweni kwezempilo okuyisisekelo zihlala zikhiqiza imiphumela engcono, ukulingana okuthuthukisiwe kanye nokusebenza kahle okuthuthukisiwe.
+
+---
+
+Summary for language=am:
+ምንም እንኳን አንድ ጊዜ በህክምና ምልክቶች ከታዩ ገዳይ ቢሆንም ፣ የእብድ ውሻ በሽታ ሙሉ በሙሉ ሊወገድ የሚችል ነው።
+በውሾች አማካይነት በሰው ላይ የሚከሰተውን የውሻ በሽታ መንስኤውን ማለትም በበሽታው የተያዙ ውሾችን በማጥፋት ማስወገድ ይቻላል።
+ከጠቅላላው የሰው ልጆች ቁጥር 20 በመቶውን የሚይዘው ሽባዊ የውሻ በሽታ ከቁጣው ቅርጽ ያነሰ ድራማዊ እና ብዙ ጊዜ የሚዘልቅ አካሄድ ነው።
+
+---
+
+Summary for language=en:
+The paralytic form of rabies is often misdiagnosed, contributing to the under-reporting of the disease.
+Apply an iodine-containing or anti-viral medication to the wound 15 minutes after it has been washed and flushed.
 WHO continues to promote human rabies prevention through the elimination of rabies in dogs, dog bite prevention strategies, and more widespread use of the intradermal route for post-exposure prophylaxis, which reduces volume and therefore the cost of cell-cultured vaccine by 60% to 80%.
 
 ---
 
-Summary for language=en:
-Artificial radiation sources are used for nuclear power generation and many other industrial and research applications, with the medical use of ionizing radiation being today the highest contributor to people’s exposure (e.g.
+Summary for language=ha:
+Ko da yake m da zarar alamun asibiti sun bayyana, rabies gaba ɗaya ba za a iya kauce masa ba; an daɗe ana samun alluran rigaƙafi, magunguna da fasahohi don hana mutuwa daga kamuwa da cutar sanƙarau.
+A hankali tsoƙoƙi suna ratsewa, suna farawa daga wurin cizon ko ƙarce.
+Fita a hayyaci yana tasowa sannu a hankali kuma a ƙarshe mutuwa tana faruwa.
+
+---
+
+Summary for language=sw:
+Ugonjwa wa kichaa cha mbwa unaosababishwa na mbwa unaweza kuondolewa kwa kukabiliana na ugonjwa huo katika chanzo chake: mbwa walioambukizwa.
+Aina ya kichaa cha mbwa ya kupooza mara nyingi hutambuliwa vibaya, na kuchangia uripoti hafifu kwa ugonjwa.
+Epuka kupaka viwasho kwenye majeraha kama vile unga wa pilipili, juisi za mimea, asidi na alkali.
+
+---
+
+Summary for language=yo:
+Bí ó tilẹ̀ jẹ́ pé ó léwu ní kété tí àwọn àmì àìsàn bá ti hàn, àìsàn dìgbòlugi ṣe é yàgò fún pátápátá; abẹ́rẹ́ àjẹsára, òògùn àti ìmọ̀ ẹ̀rọ ti wà tipẹ́tipẹ́ láti dènà ikú láti ara àìsàn dìgbòlugi.
+Ikú máa ń wáyé lẹ́yìn ọjọ́ díẹ̀ nítorí ìdíwọ́ ẹ̀jẹ̀-mópòónà-ìmí.
+Ẹ̀yà àrùn dìgbòlugi rọpárọsẹ̀ ni wọ́n sáábà máa ń ṣe àṣìṣe nínú àyẹ̀wò rẹ̀, èyí tí ó ń nípa lórí àìkún ìròyìn lórí àìsàn náà.
+
+---
+
+Summary for language=zu:
+Ngokomtholampilo, inamafomu amabili: Amarabi athukuthele - abonakala ngokudlamaza kanye nokubona izinto ezingekho.
+Izimpawu: Izimpawu zakuqala zesifo samarabi zingabandakanya imfiva enobuhlungu kanye nokugedla okungavamile noma okungachazwanga, ukuhlaba noma ukuzwa ukushisa (iparaesthesia) endaweni yenxeba.
+Uhlobo lwamarabi olukhubazekile luvame ukuhlonzwa ngendlela engafanele, okunomthelela ekubikweni kancane kwesifo.
+
+---
+
+Summary for language=am:
+ሰዎች ከጠፈር ጨረሮች እንዲሁም በአፈር፣ በውኃ፣ በምግብ፣ በአየር እና በሰውነት ውስጥ ከሚገኙ ሬዲዮአክቲቭ ቁሳቁሶች ለጨረር ይጋለጣሉ።
+አዮኒዚንግ ጨረር፡- አዮኒዚንግ ጨረር በኤሌትሮ መግነጢሳዊ ሞገዶች (ጋማ ወይም ኤክስ ሬይ) ወይም ቅንጣቶች (ኒውትሮን፣ ቤታ ወይም አልፋ) በሚጓዙ አቶሞች የሚለቀቅ የኃይል ዓይነት ነው።
+ኢዮኒዝንግ ያልሆኑ ጨረሮች ሁለቱንም የተፈጥሮ እና ሰው ሰራሽ የኤሌክትሮ መግነጢሳዊ መስኮች ምንጮችን ያጠቃልላል።
 
 ---
 
 Summary for language=en:
-Radon levels in existing homes can be reduced by, for example, improving the ventilation of the house and sealing floors and walls.In many countries, drinking water is obtained from groundwater sources such as springs and wells.
+There are two types of radiation: ionizing and non-ionizing radiation.
+Artificial radiation sources are used for nuclear power generation and many other industrial and research applications, with the medical use of ionizing radiation being today the highest contributor to people’s exposure (e.g. diagnostic radiology, image-guided interventions, nuclear medicine and radiotherapy).
+Non-ionizing radiation encompasses both natural and human-made sources of electromagnetic fields.
+
+---
+
+Summary for language=ha:
+Tartsatsin haske na nukiliya na iya fitar da lantarki daga sinadarin atom.
+Shi kuma tatsatsin haske wanda ba na nukiliya ba ya ƙunshi wanda yake na asali da wanda yake samuwa daga ɗan'adam.
+Samar da wutar lantarki da kayan lantarki su ne hanyoyin da suka fi samar da mafi ƙanƙantar haske a muhallin da muke rayuwa.
+
+---
+
+Summary for language=sw:
+Watu wanakabiliwa na mionzi kutoka kwa miale ya cosmic, pamoja na vifaa vya mionzi vinavyopatikana kwenye udongo, maji, chakula, hewa na pia ndani ya mwili.
+wanaweza.
+Mionzi isiyo ya ionizing hujumuisha vyanzo vya asili na vilivyotengenezwa na binadamu vya maeneo ya sumaku umeme.
+
+---
+
+Summary for language=yo:
+Wọ́n máa ń lo àwọn orísun ìfẹ́wẹ́lẹ́ àtọọ́dá nínú ìṣègùn, ilé-iṣẹ́, àti ìwádìí.
+Ìfẹ́wẹ́lẹ́ aláìlágbára: Ìfẹ́wẹ́lẹ́ aláìlágbára ni ìfẹ́wẹ́lẹ́ ní ara ìtànsàn ìgbì ẹ̀múná níbi tí agbára tí ó tó ti wà láti fa agbára.
+Àwọn èròjà àti ohun èlò oníná mọ̀nàmọ́ná ní wọ́n jẹ́ àwọn orísun agbègbè iná mọ̀nàmọ́ná àti òòfà onípele kékeré tí wọ́n wọ́pọ̀ jùlọ ní àyíká tí a ń gbé.
+
+---
+
+Summary for language=zu:
+Imisebe Uhlolojikelele: Imisebe ingamandla ahamba ngendlela yamagagasi noma izinhlayiya futhi ayingxenye yendawo yethu yansuku zonke.
+Abantu bachayeka emisebeni ye-cosmic, kanye nezinto ezikhipha imisebe ezitholakala emhlabathini, emanzini, ekudleni, emoyeni nangaphakathi emzimbeni.
+Imisebe engeyona i-ionizing ihlanganisa kokubili imithombo yemvelo kanye neyenziwe umuntu yezinkambu ze-electromagnetic.
+
+---
+
+Summary for language=am:
+የራዶን መጠን ርካሽ እና ቀላል በሆነ መንገድ ሊለካ ይችላል።
+በተለምዶ ከፍ ያለ የራዶን መጠን የሚወሰደው ራዶን ወደ ውስጥ ከማስገባት ጋር ሲነፃፀር ራዶን በመተንፈስ ነው።
+የዓለም ጤና ድርጅት ከራዶን ፖሊሲዎች፣ ከራዶን ቅነሳ እና መከላከል እንዲሁም ከራዶን አደጋ ግንኙነት ጋር የተዛመዱ ብሔራዊ ራዶን ዝግጅቶች እና እንቅስቃሴዎችን ይደግፋል።
 
 ---
 
 Summary for language=en:
+Radon Overview: Radon is a naturally occurring radioactive gas.
+Radon gas escapes easily from the ground into the air.
+Well-tested, durable and cost-efficient methods exist for preventing radon in new houses and reducing radon in existing dwellings.
+
+---
+
+Summary for language=ha:
+Gas na radon yakan iya fita cikin sauƙi daga ƙasa zuwa iska.
+Radon shi ne yake haifar da kaso 3 zuwa 14 na duk wata kansar hunhu, ya danganta da matakin randon da kuma yawan hayaƙi a ƙasa.
+Akwai wanzazzun dabaru wajen rage amfani da sinadarin randon wajen smar da ruwan sha ta hanyar amfani da matata da musamman.
+
+---
+
+Summary for language=sw:
+Uingizaji wa gesi ya udongo unatambuliwa kama chanzo muhimu zaidi cha radon ya makazi.
+Radoni huoza na kutoa chembe zaidi za mionzi.
+Radoni ina uwezekano mkubwa wa kusababisha saratani ya mapafu kwa watu wanaovuta sigara: wavutaji sigara wako hatarini mara 25 zaidi kutokana na radon kuliko wasio wavuta sigara.
+
+---
+
+Summary for language=yo:
+Ìlúpọ̀ gáàsì mọ́ ilẹ̀ ni ó jẹ́ orísun rádọ́ọ̀nù tí ó ṣe pàtàkì jùlọ.
+Ìdènà rádọ́ọ̀nù gbọ́dọ̀ jẹ́ èyí tí wọ́n wò nígbà tí wọ́n bá ń kọ̀ ilé tuntun, pàápàá jùlọ ní àwọn àgbègbè tí rádọ́ọ̀nù pọ̀ sí.
+Èsì WHO: WHO ń ṣiṣẹ́ pẹ̀lú àwọn alábàáṣiṣẹ́pọ̀ àgbáyé láti mú ìlọsíwájú bá níní òye àwọn ipa ìfaragbá rádọ́ọ̀nù lórí ìlera àti láti ṣe àgbéga àwọn àṣàyàn ìlànà dídára fún ìdènà àti àdínkù ìfaragbá rádọ́ọ̀nù.
+
+---
+
+Summary for language=zu:
+Ayinalo iphunga, umbala noma ukunambitheka, futhi ikhiqizwa ngokubola kwemvelo okunemisebe ye-uranium emadwaleni nasenhlabathini.
+Iradon iyabola futhi ikhiqize ezinye izinhlayiya ezinemisebe.
+Izindlela ezihlolwe kahle, ezihlala isikhathi eside futhi ezongayo zikhona zokuvimbela iradon ezindlini ezintsha kanye nokunciphisa i-radon ezindaweni zokuhlala ezikhona.
+
+---
+
+Summary for language=am:
+የተባበሩት መንግስታት የስድተኞች ከፍተኛ ኮሚስሽን በአለም አቀፍ ደረጃ በሚሊዮን የሚቆጠሩ ሀገር አልባ ሰዎች እንዳሉ ይገምታል።
+የዓለም ጤና ድርጅት ምላሽ: የዓለም ጤና ድርጅት ዓለም አቀፋዊ የድርጊት መርሃ ግብር: የጤና ወይም የጥገኞች እና ስደተኞች(ጂኤፒ) ማስተዋወቅ እ.ኤ.አ በ2019 በአለም ጤና ጉባኤ ተስማምቷል።
+የአጭር ጊዜ እና የረዥም ጊዜ የህዝብ ጤና ጣልቃገብነቶችን በመጠቀም የጥገኞችን እና የስደተኞችን ጤና ማሳደግ።
+
+---
+
+Summary for language=en:
+Refugee and migrant health Overview: Today there are some 1 billion migrants globally, about 1 in 8 of the global population.
 Refugee and migrant health are also strongly related to the social determinants of health in host communities (e.g., employment, income, education and housing).
+The WHO Global action plan has six key priorities: promote the health of refugees and migrants through a mix of short-term and long-term public health interventions; promote continuity and quality of essential health care, while developing, reinforcing and implementing occupational health and safety measures; advocate the mainstreaming of refugee and migrant health into global, regional and country agendas and the promotion of refugee-sensitive and migrant-sensitive health policies and legal and social protection; the health and well-being of refugee and migrant women, children and adolescents; gender equality and empowerment of refugee and migrant women and girls; and partnerships and intersectoral, intercountry and interagency coordination and collaboration mechanisms; enhance capacity to tackle the social determinants of health and to accelerate progress towards achieving the Sustainable Development Goals, including universal health coverage; strengthen health monitoring and health information systems; and support measures to improve evidence-based health communication and to counter misconceptions about migrant and refugee health.
+
+---
+
+Summary for language=ha:
+Suna da 'yancin samun lafiya, hakkin kasashe ne akan su su samar masu da kiwan lafiyar da suke bukata.
+yan gudun hijira da 'yan cirani naɗa alaka mai karfi da ababan da ke da laka da zaman takewa da samun kiwan lafiya a cikin alumma( kamar samun aikin yi,kudin shiga, ilimi, da mahalli).
+Kudirin bangare ne na tsarin majalisar ɗinkin duniya don alkinta harkar 'yan cirani na duniya wanda ya kunshi cimma muradin kasashen duniya mai dorewa da tsaruka guda biyu na kula da 'yan gudun hijira(GRC) da kuma tsarin kasa da kasa wanda zai samar da aminci, tsari da kaura a cikin tsari(GCM).
+
+---
+
+Summary for language=sw:
+Uzoefu wa uhamiaji ni kigezo muhimu cha afya na ustawi.
+Aidha, wakimbizi na wahamiaji wako katika hatari ya kupata matokeo duni ya afya ya akili.
+Afya ya wakimbizi na wahamiaji pia inahusiana sana na viambajengo vya kijamii vya afya katika jumuiya zinazowapokea (k.m., ajira, mapato, elimu na makazi).
+
+---
+
+Summary for language=yo:
+UNHCR ṣírò pé ọ̀pọ̀lọpọ̀ àwọn ẹgbẹ̀lẹ́gbẹ̀ ènìyàn ni wọn kò nílùú lágbàáyé.
+Wọ́n ní ẹ̀tọ́ ọmọnìyàn sí ìlera, bẹ́ẹ̀ sì ni àwọn orílẹ̀ èdè ní ojúṣe láti pèsè ìtọ́jú ìlera pàtàkì fún àwọn asásàálà àti asípòká.
+Àwọn asásàálà àti aṣípòká tún ń kópa iṣẹ́ ṣíṣe pàtàkì nínú àwọn ìpèsè iṣẹ́ ìlera àti àwùjọ, àti níní àǹfààní sí àwọn iṣẹ́ ìlera fún àwọn ènìyàn ṣe ìdámọ̀ àwọn àǹfààní àti ipa sí àlàáfíà àwùjọ àti ìsọ̀kan.
+
+---
+
+Summary for language=zu:
+Banelungelo lomuntu lezempilo, futhi amazwe anesibopho sokuhlinzeka ngezinsizakalo zokunakekelwa kwezempilo ezibucayi zababaleki kanye nabafuduki.
+Ababaleki nabafuduki nabo badlala indima ebalulekile yokuqashwa ekuhlinzekweni kwezinsizakalo zezempilo nezenhlalakahle, futhi ukufinyelela ezinsizeni zezempilo kubantu bayawuqaphela lo mnikelo futhi unomthelela enhlalakahleni yomphakathi kanye nokubumbana.
+Uhlelo lweWHO Health and Migration Programme (PHM) lusebenza namazwe ukukhuthaza ilungelo lomuntu lezempilo kanye nokufinyelela ezinsizeni zezempilo ezisezingeni nezifanele ngokwamasiko, ngokuvikelwa okwanele kwezenhlalo nezezimali.
+
+---
+
+Summary for language=am:
+በዓለም አቀፍ ደረጃ በአሁኑ ወቅት ከ3 ሰዎች መካከል አንዱ በማገገም ተጠቃሚ ሊሆን በሚችል የጤና ሁኔታ ውስጥ እንደሚገኝ ይገመታል።
+ተጽዕኖ: ምንም እንኳን የማገገም ፍላጐት በዓለም አቀፍ ደረጃ እየጨመረ ቢመጣም ብዙ ሀገሮች አሁን ላሉት ፍላጐቶች ምላሽ ለመስጠት ብቁ አይደሉም።
+ማገገሚያ በግለሰቦች ላይ የበሽታ እና የአካል ጉዳት ተጽእኖዎችን ለመቀነስ ይረዳል፣እንዲሁም ሌሎች የጤና ጣልቃገብነቶችን ያሟላል።
 
 ---
 
 Summary for language=en:
+Impact: Although the need for rehabilitation is increasing globally, many countries are unequipped to respond to existing needs.
 Emergencies disproportionately effect weaker health systems and the most vulnerable, but early and ongoing access to rehabilitation reduces complications, optimizes functioning and reduces disability in those affected, supporting individuals, families and communities in their recovery.
+WHO response: WHO views rehabilitation as an essential part of achieving both universal health coverage and goal 3 of the Sustainable Development Goals.
+
+---
+
+Summary for language=ha:
+Ko kan iya bukatar a kula a wani lokaci a cikin rayiwarsu ko da sun taba samun rauni, cuta,rashin lafiya ko rashin aikin wata gaba daga cikin gabban jikinsu sabo da tsawan rayiwarsu.
+an kiyasta mutum 1 cikin 3 a duniya a ayu suna rayuwa da wata matsala a lafiyar su wadda samun kula wajen farfadowa zai anfane su.
+Hakar kula da farfadowar mara lafiya bayan samun kuda dan daya makata ya samu mussamman a kasashen da babu tsarin kiwan lafiya mai karfi.
+
+---
+
+Summary for language=sw:
+Ukarabati Muhtasari: Urekebishaji hushughulikia athari za hali ya afya kwenye maisha ya kila siku ya mtu kwa kuboresha utendakazi wao na kupunguza uzoefu wao wa ulemavu.
+Athari: Ingawa hitaji la ukarabati linaongezeka duniani kote, nchi nyingi hazina vifaa vya kukabiliana na mahitaji yaliyopo.
+Urekebishaji husaidia kupunguza athari za magonjwa na majeraha kwa watu binafsi, huku pia ukipongeza hatua zingine za kiafya.
+
+---
+
+Summary for language=yo:
+Ìsọdọ̀tun máa ń gbòòrò àfojúsùn ìlera tayọ ìtọ́jú ìdènà àti ìwòsàn láti rí i dájú pé àwọn ènìyàn tí wọ́n ní àìlera lè wà ní òmìnira fúnra wọn kí wọ́n sì kópa nínú ètò ẹ̀kọ́, iṣẹ́ àti àwọn ipa ayé tí ó ní ìtumọ̀.
+Àwọn iṣẹ́ ìsọdọ̀tun kì í sáábà rí owó ìrànwọ́ tí ó tó bẹ́ẹ̀ sì ni wọ́n kì í bu iyì tí ó tó fún un, pàápàá jùlọ ní àwọn orílẹ̀ èdè tí kò ní àwọn ètò ìlera tí wọ́n lágbára tó.
+WHO ń tẹ̀síwájú láti ṣe àtìlẹ́yìn fún àwọn orílẹ̀ èdè láti ṣàmúlò àwọn iṣẹ́ wọ̀nyí nípasẹ̀ pípèsè àtìlẹ́yìn ìmọ̀, àgbékalẹ̀ àwọn irinṣẹ́ ìtọ́nisọ́nà àti ajẹmọ́ṣe, àti mímú ìlọsíwájú bá ìdàgbàsókè ẹ̀rí ńlá fún ìsọdọ̀tun.
+
+---
+
+Summary for language=zu:
+Noma ubani angase adinge ukuhlunyeleliswa esikhathini esithile ekuphileni kwakhe, kungakhathaliseki ukuthi uke wabhekana nokulimala, isifo, ukugula, noma ngenxa yokuthi ukusebenza kwakhe kwehlile ngenxa yobudala.
+Umthelela: Nakuba isidingo sokuvuselelwa sikhula emhlabeni wonke, amazwe amaningi awakuhlomele ukuphendula ezidingweni ezikhona.
+IWHO iyaqhubeka nokweseka amazwe ukuthi enze lezi zenzo ngokunikeza ukwesekwa kwezobuchwepheshe, ukuthuthukisa isiqondiso namathuluzi asebenzayo, nokwandisa ukuthuthukiswa kobufakazi obuqinile bokuvuselela.
+
+---
+
+Summary for language=am:
+በተመሳሳይም እንደ ከባድ አጣዳፊ የመተንፈሻ አካላት ደምረህመም፣ የኢቦላ ቫይረስ በሽታ፣ የዚካ ቫይረስ እና የአዕዋፍ ኢንፍሉዌንዛ ላሉ ዓለም አቀፍ አደጋዎች ተጋላጭነት የተጋሩ ዓለም አቀፍ የምርምር ጥረቶች ዝግጁነትን እና ምላሽ የመስጠት አቅምን ለማጐልበት ድጋፍ አድርገዋል።
+በጤና ምርምር ላይ በተቀመጠው የዓለም ጤና ድርጅት ስልት መሠረት ድርጅቱ የምርምር ቅድሚያ የሚሰጣቸውን ጒዳዮች ለመለየት እና የሚከተሉትን 4 ግቦች በመከተል ምርምርን ለማስተዋወቅ እና ለማካሄድ ይሠራል።
+ቅድሚያ የሚሰጣቸው ጉዳዮች - በተለይ ዝቅተኛ እና መካከለኛ ገቢ ባላቸው አገሮች ውስጥ የጤና ፍላጎቶችን የሚያሟሉ የምርምር ቅድሚያ የሚሰጣቸውን ጉዳዮች መደገፍ።
 
 ---
 
 Summary for language=en:
 Research Overview: Research is indispensable for resolving public health challenges – whether it be tackling diseases of poverty, responding to rise of chronic diseases, or ensuring that mothers have access to safe delivery practices.
+Research for health spans 5 generic areas of activity: measuring the magnitude and distribution of the health problem; understanding the diverse causes or the determinants of the problem, whether they are due to biological, behavioural, social or environmental factors; developing solutions or interventions that will help to prevent or mitigate the problem; implementing or delivering solutions through policies and programmes; and evaluating the impact of these solutions on the level and distribution of the problem.
+Under the “WHO strategy on research for health”, the Organization works to identify research priorities, and promote and conduct research with the following 4 goals: Capacity - build capacity to strengthen health research systems within Member States.
+
+---
+
+Summary for language=ha:
+Bincike A Takaice : Bincike abu ne da ba'a iya wadatuwa da shi wajen warware kalubalan lafiyar da tashafi alumma ko dai abin da shafi kawar da cutar talauci, kawar da karuwar cuttutuka masu tsanani ko tabbatar da cewa mata masu juna biyu sun samu damar haihuwa cikin aminci.
+Alakar gomnati ka kanfanoni masu zaman kansu da sauran hanyoyin fasaha don bincike sun maida hankali wajen kula da cuttutukan da akayi banza da su don zaburar da sake samar da rigakafi,magunguna da bincike wayin da 'yan kasuwa sukayi karanci.
+Daya daga cikin baban aikin ƙungiyar shi ne ta shirya tsari da dokoki a duniya wanda ya kunshi tsara sharuddan bincike.
+
+---
+
+Summary for language=sw:
+Ushirikiano wa sekta ya umma na binafsi na mbinu nyingine bunifu za utafiti zinaangazia magonjwa yaliyosahaulika ili kuchochea maendeleo ya chanjo, dawa na uchunguzi ambapo nguvu za soko pekee hazitoshi.
+Utafiti wa afya unahusisha maeneo 5 ya jumla ya shughuli: kupima ukubwa na usambazaji wa tatizo la afya; kuelewa sababu mbalimbali au viashiria vya tatizo, iwe ni kwa sababu ya kibayolojia, kitabia, kijamii au kimazingira; kuandaa suluhu au afua ambazo zitasaidia kuzuia au kupunguza tatizo; kutekeleza au kutoa suluhu kupitia sera na programu; na kutathmini athari za suluhu hizi kwenye kiwango na usambazaji wa tatizo.
+Vipaumbele - vinasaidia uwekaji wa vipaumbele vya utafiti ambavyo vinakidhi mahitaji ya afya hasa katika nchi zenye kipato cha chini na cha kati.
+
+---
+
+Summary for language=yo:
+Bákan náà, àjọpín ewu fún àwọn ìṣòro káríayé, bí àìsàn ajẹmọ́ òpónà ìmí líle, Kòkòrò àrùn Ebola, Kòkòrò àrùn Zika àti ọ̀fìnkìn-olóde ẹyẹ tí mú àwọn akitiyan káríayé wà ní àtìlẹ́yìn mímú àgbéga bá agbára fún ìgbáradì àti ìfèsì.
+Àwọn òṣùwọ̀n - ṣe àgbékalẹ̀ àyíká aláyè fún ìwádìí nípasẹ̀ ìṣẹ̀dá àwọn àṣà àti òṣùwọ̀n fún iṣẹ́ ìwádìí dáradára.
+Lára àwọn iṣẹ́ ìwádìí WHO ni ṣíṣe ìrónilágbára fún àṣà ìwádìí fún ìpinnu adálórí-ẹ̀rí láàrin Àjọ kí ìwádìí lè ṣe àtìlẹ́yìn àwọn iṣẹ́ ìmọ̀, àwọn ìpinnu ìlànà àti ìmọ̀ràn wa.
+
+---
+
+Summary for language=zu:
+Ngokufanayo, ukuba sengozini okwabelwana ngakho ezinsongweni zomhlaba wonke, njengesifo esibi kakhulu sokuphefumula, isifo segciwane le-Ebola, igciwane leZika kanye nomkhuhlane wezinyoni kugqugquzele imizamo yocwaningo lomhlaba wonke ekusekeleni ukuthuthukiswa kwamandla okulungiselela nokusabela.
+Ubambiswano lukahulumeni nezizimele kanye nezinye izindlela ezintsha zocwaningo zigxile ezifweni ezinganakiwe ukuze kugqugquzelwe ukuthuthukiswa kwemithi yokugoma, izidakamizwa kanye nokuxilongwa lapho amandla emakethe ewodwa enganele.
+Okubalulekile - kusekela ukumiswa kwezinto ezibalulekile zocwaningo ezihlangabezana nezidingo zezempilo ikakhulukazi emazweni anemali engenayo ephansi naphakathi.
+
+---
+
+Summary for language=am:
+በሰዎች ላይ በሽታው ከቀላል ጉንፋን መሰል ህመም እስከ ገዳይነት ያለው ከፍተኛ የደም መፍሰስ ትኩሳት ይደርሳል።
+እንደ እረኞች፣ አርሶ አደሮች፣ የእርድ ሠራተኞች እና የእንስሳት ሐኪሞች ያሉ የሙያ ቡድኖች ለበሽታው የመጋለጥ እድላቸው ከፍተኛ ነው።
+ምልክቶች፡ በሰዎች ላይ መጠነኛ የሆነ የስምጥ ሸለቆ ትኩሳት ከአልፎ የሚይዝ በሽታ እስከ ስምጥ ሸለቆ ትኩሳት (አርቪኤፍ) ምልክቶች እስከሚጀምርበት ጊዜ ያለው ልዩነት ከ2 እስከ 6 ቀናት ይለያያል።
 
 ---
 
 Summary for language=en:
+Symptoms: Mild form of Rift Valley Fever in humans The interval from infection to onset of symptoms for Rift Valley fever (RVF) varies from 2 to 6 days.
 RVF is difficult to distinguish from other viral haemorrhagic fevers as well as from many other diseases that cause fever, including malaria and typhoid fever.
+Risk of animal-to-human transmission of infection can be reduced by avoiding unsafe animal husbandry and slaughtering practices by maintaining good hygiene, and avoiding unsafe consumption of fresh blood, raw milk or animal tissue in affected regions.
+
+---
+
+Summary for language=ha:
+cutar RVF naɗa wahalar banban cewa ita da sauran cuttutukan da kwayoyin cutta kan haifar wanda ya hada da shawara, maleriya.
+ana anfani da su a matsayin gwaji don kare ma'aikatan kiwan lafiyar dabbobi da masu aikin dakunan bincike waɗanda ke fuskantar hadarin kamuwa da cutar.
+Wasu magungunan rigakafin har yanzu suna kan gwaji.
+
+---
+
+Summary for language=sw:
+Vikundi vya kazi kama vile wafugaji, wakulima, wafanyikazi wa machinjio na madaktari wa mifugo wako kwenye hatari kubwa ya kuambukizwa.
+Dalili: Aina ndogo ya Homa ya Bonde la Ufa kwa binadamu Muda kutoka kwa maambukizi hadi kuanza kwa dalili za homa ya Bonde la Ufa (RVF) hutofautiana kutoka siku 2 hadi 6.
+RVF ni vigumu kutofautisha na homa nyingine za virusi vya kuvuja damu na pia magonjwa mengine mengi ambayo husababisha homa, ikiwa ni pamoja na malaria na homa ya matumbo.
+
+---
+
+Summary for language=yo:
+Àwọn ẹ̀fọn àti kòkòrò amùjẹ̀ ni wọ́n máa ń tàn án ká.
+Àmì Àìsàn: Ẹ̀yà ìwọ̀n kékeré Ibà Rift Valley láàrin àwọn ènìyàn.
+Àwọn àmì àìsàn IRV sáábà máa ń lò tó ọjọ́ 4 sí 7.
+
+---
+
+Summary for language=zu:
+Amaqembu asebenzayo afana nabelusi, abalimi, abasebenza esilaheni kanye nodokotela bezilwane basengozini enkulu yokutheleleka.
+Ukuxilongwa: Ngenxa yokuthi izimpawu zeRift Valley Fever (RVF) ziyahlukahluka futhi aziqondile, ukuxilongwa komtholampilo kuvame ukuba nzima, ikakhulukazi ekuqaleni kwalesi sifo.
+Ukwelashwa: Njengoba izimo eziningi zabantu zeRVF zithambile futhi zinesikhathi esifushane, iziguli ezinalolu hlobo lwesifo azidingi ukwelashwa okuqondile.
+
+---
+
+Summary for language=am:
+ከጠቅላላው የመንገድ ትራፊክ ሞት ውስጥ ከግማሽ በላይ የሚሆኑት ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች እንደ እግረኞች፣ ብስክሌተኞች እና ሞተር ሳይክል ነጂዎች ናቸው።
+በከፍተኛ ፍጥነት ማሽከርከር ለአደጋ የመጋለጥ ዕድልን እና የሚያስከትለውን መዘዝ ከባድነት በእጅጉ ይጨምራል።
+ለእያንዳንዱ 1 በመቶ አማካይ ፍጥነት መጨመር ገዳይ የሆነ የአደጋ ስጋት 4 በመቶ ይጨምራል።
 
 ---
 
 Summary for language=en:
 Road traffic injuries Overview: Road traffic crashes result in the deaths of approximately 1.19 million people around the world each year and leave between 20 and 50 million people with non-fatal injuries.
+Risk factors Many factors increase both the risk of road traffic crashes and the risk of death or injury they result in.
+WHO chairs the United Nations Road Safety Collaboration, and organizes and hosts, with key partners, high profile advocacy events such as UN road safety weeks and the annual World Day of Remembrance for Road Traffic Victims.
+
+---
+
+Summary for language=ha:
+Ababan da ke kawo fargaba Ababe da dama kan iyan haifar da hadurran kan hanya da kuma rasa rayuka a sakamakon raunuka.
+duk lokacin da mutum ya kara gudun mota da kashi daya akwai yiwiwar samun mummunan hadari na kashi 4. yiwowar samun rashi ga masu tafiyar kafa wanda mota ke bige wa kan karo a lokacin da gudun ababan hawa ya karu.
+game da tuki cikin maye, hadurran kan karu matuka dai dai da yanda tasirin da ƙwayar yi masa.
+
+---
+
+Summary for language=sw:
+Ajali za barabarani Muhtasari: Ajali za barabarani husababisha vifo vya takriban watu milioni 1.19 kote ulimwenguni kila mwaka na kuacha kati ya watu milioni 20 na 50 na majeraha yasiyoweza kusababisha kifo.
+Ajali za barabarani ndio sababu kuu ya vifo vya watoto na vijana wa umri wa miaka 5-29.
+Jibu la WHO: WHO inafanya kazi na Nchi Wanachama na washirika kusaidia tathmini, utekelezaji na mipango ya usalama barabarani.
+
+---
+
+Summary for language=yo:
+Mẹ́sàn-án nínú 10 àwọn ikú ìjàm̀bá lójú pópó máa ń ṣẹlẹ̀ láàárín àwọn orílẹ̀ èdè elérè pínnísín àti alábọ́dé èrè, bí ó tilẹ̀ jẹ́ pé àwọn orílẹ̀ èdè wọ̀nyí ní ìdá 50% àwọn ọkọ̀ àgbáyé.
+Ní àfikún sí ìjìyà ọmọnìyàn tí àwọn ìfarapa ojú pópó ń fà, wọ́n tún ń fa àjàgà ọrọ̀ ajé tí ó wúwo sórí àwọn afaragbá àti ẹbí wọn, nípasẹ̀ ìnáwó ìtọ́jú fún afarapa àti nípasẹ̀ àdánù ìpèsè àwọn tí wọ́n kú tàbí di aláàbọ̀ ara.
+Àwọn onírúurú okùnfà ewu ńlá mìíràn wà.
+
+---
+
+Summary for language=zu:
+Ngaphezu kwesigamu sakho konke ukufa kwabantu emgwaqeni kwenzeka phakathi kwabasebenzisi bomgwaqo abasengozini, njengabahamba ngezinyawo, abashayeli bamabhayisikili nabashayeli bezithuthuthu.
+Ukushayela uphuzile noma ezinye izinto ezithinta ingqondo kuletha ingozi enkulu yokulimala komgwaqo.
+Lokhu kuhlanganisa ukuhlanganisa inethiwekhi yomhlaba wonke Yezinhloko Zezinkampani Zikazwelonke Zezokuphepha Emgwaqeni, ukukhiqiza Imibiko Yesimo Somhlaba Wonke ukuze kulandelelwe inqubekelaphambili, nokuhlinzeka ngosizo lobuchwepheshe.
+
+---
+
+Summary for language=am:
+የእከክ በሽታ የሚከሰተው በቆዳው ላይ በማይክሮስኮፕ ሚት( ሳርኮፕቴስ ስካቢይ ቫር ሆሚኒስ) ወረርሽኝ በመከሰቱ ሲሆን በማሳከክ እና በቆዳ መፋቅ ተለይቶ ይታወቃል።
+ሀብት በሌላቸው አካባቢዎች ፣የእከክ በሽታ እና ውስብስቦቹ በጤና እንክብካቤ ሥርዓቶች ላይ ከፍተኛ ወጪ ያስከትላሉ።
+ህክምና: የተጐዱ ግለሰቦች የመጀመሪያ ደረጃ አያያዝ እንደ 5 በመቶ ፐርሜትሪን፣ 0.5 በመቶ ማላቲዮን በውኃ መሠረት፣ ከ10 እስከ 25 በመቶ ቤንዚል ቤንዞአት ጉሽ ወይም ከ5 እስከ 10 በመቶ ሰልፈር ቅባት ያሉ አካባቢያዊ ስካቢሳይድ አጠቃቀምን ያካትታል።
 
 ---
 
 Summary for language=en:
 Scabies Overview: Scabies is one of the commonest dermatological conditions, accounting for a substantial proportion of skin disease in many low- and middle-income countries.
+In resource-poor settings, scabies and its complications impose a major cost on health care systems.
+Repeating treatment in the time frame appropriate for the chosen medication (typically after 7–14 days) will lead to a higher efficacy, particularly for oral ivermectin, which does not kill mite eggs.
+
+---
+
+Summary for language=ha:
+Abin da ke haifar da cutar karzuwa shi ne idan fata ta kamu cutar microscopic mite wadda ta ke da alamun kay kaki da kunburin fata.
+alamomin cutar karzuwa shi ne kuraraji da sassan jiki wanda ya hada da tsakanin 'yan yatsu, na hannu da kafa, tsintsiyar hannu, mazaunai , nono ga mata da kuma gaba.
+A kananan yara da tsofaffi akan sami karzuwar a tafin hannu kafa da fatan kai.
+
+---
+
+Summary for language=sw:
+Upele pia huathiri ubora wa maisha: kuwasha na vipele vinavyoonekana mara nyingi husababisha usingizi duni, unyanyapaa na kutengwa na jamii, kukatiza mahudhurio ya shule na kazini.
+Katika mazingira duni ya rasilimali, upele na matatizo yake huweka gharama kubwa kwa mifumo ya huduma za afya.
+Ivermectin ya mdomo pia inafaa sana na imeidhinishwa katika nchi kadhaa.
+
+---
+
+Summary for language=yo:
+Káríayé, wọ́n ṣírò rẹ̀ pé ó ń mú ó lé ní 200 mílíọ̀nù ènìyàn ní èyíkéyìí àsìkò àti ó lé ní 400 mílíọ̀nù ènìyàn lọ́dọọdún.
+Ní àwọn àgbègbè tí kò sí ìtọ́jú, kúrúnà àti àwọn ìṣòro rẹ̀ ń fa ìnáwó ńlá lórí àwọn ètò ìtọ́jú ìlera.
+Ìtọ́jú: Àmójútó abẹ́lé àwọn ènìyàn tí wọ́n jẹ́ aláìsàn ni lílo abágbàmu òògùn apakúrúnà bí 5% pamatiríìn, 0.5% malatíọ̀nù nínú ìpìlẹ̀ olómi, 10-25% ìpara benzyl benzoate tàbí 5-10% ìpara imí ọjọ́.
+
+---
+
+Summary for language=zu:
+Utwayi Uhlolojikelele: Ukhwekhwe ngesinye sezimo ezivame kakhulu zesikhumba, okubalela ingxenye enkulu yesifo sesikhumba emazweni amaningi anemali engenayo ephansi naphakathi.
+Utwayi luthinta abantu ababencishwe amathuba kakhulu emhlabeni, ikakhulukazi abantu abahlala ezimeni eziminyene futhi ezimpofu, kusukela emiphakathini yeziqhingi zasePacific kuya kuma-favelas aseLatin America, imiphakathi ekude neyasemaphandleni kulo lonke elase-Afrika nase-Australia, kanye nabantu abafudukayo abahlala emakamu.
+Ngenxa yokuthi abantu abasesigabeni sokuqala sokutheleleka okusha bangase bangabi nazimpawu, kubalulekile ukwelapha umuzi wonke ngesikhathi esifanayo nesimo esitholakele.
+
+---
+
+Summary for language=am:
+የአይቢኔ ቢሮ ስለ ወረርሽኙ ስምምነት ጽሑፍ ለመደራደር ሀሳብ ለማዘጋጀት የአለም ጤና ድርጅት ስምምነት፣ ስምምነት ወይም ሌላ አለም አቀፍ የወረርሽኝ መከላከል፣ ዝግጁነት እና ምላሽ መሳሪያ (የደብሊውኤችኦ ሲኤ+) ለማዘጋጀት እና ለመደራደር የመንግስታት ተደራዳሪ አካል (አይቢኔ) ከ 4 – 6 ሴፕቴምበር 2023 ድረስ ውይይቶችን እና መደበኛ ያልሆነ ስብሰባዎችን አድርጓል።
+አንቀጽ 9 (ምርምር እና ልማት) በሜክሲኮ እና በኖርዌይ በጋራ አመቻችቷል; በኮሎምቢያ፣ ፊሊፒንስ እና ሳውዲ አረቢያ የተቀናጀ አንቀጽ 11 (የቴክኖሎጅ ልማት እና ሽግግር እና ዕውቀት) አንቀጽ 12 (መዳረሻ እና ጥቅማ ጥቅም መጋራት) በአውስትራሊያ እና በኢትዮጵያ ትብብር; እና አንቀፅ 13 (የአቅርቦት ሰንሰለት እና ሎጂስቲክስ) በኢንዶኔዥያ እና በፓኪስታን በጋራ አመቻችቷል።
+ለመደራደር የቀረበው ሀሳብ የትኛውም አባል ሀገር የፅሁፍ ሀሳቦችን የማቅረብ መብት እና የተጠናቀረ ሰነዱ ያለበትን ሁኔታ ሳይነካ እንደሚሆን መግባባት ላይ ተደርሷል።
 
 ---
 
 Summary for language=en:
-The INB Bureau will develop a proposal for negotiating text of the WHO CA+ for the consideration of the INB at its next meeting, based on the discussions of the INB from its fourth, fifth, and sixth meetings, as well as the meeting of the INB Drafting Group, including its informal meetings, and the reports of the co-facilitators of those informal meetings.
+INB Bureau to develop a proposal for negotiating text of the pandemic accord The Drafting Group of the Intergovernmental Negotiating Body (INB) to draft and negotiate a WHO convention, agreement or other international instrument on pandemic prevention, preparedness and response (WHO CA+) held discussions and informal meetings from 4 – 6 September 2023 in order to advance work on a pandemic accord.
+The INB will hold additional co-facilitated informal meetings of the drafting group on Articles 4 and 5 (jointly), 11, and 12 by 22 September 2023, when the INB Drafting Group will resume its work to take stock of progress achieved through these informal meetings.
+It was agreed that the proposal for negotiating text would be without prejudice to the right of any Member State to present textual proposals and to the status of the compilation document.
+
+---
+
+Summary for language=ha:
+Ofishin INB zai samar da tsari don tattaunawa kan rubutun yarjejeniyar cutar.
+A yayin taron, tarurrukan da bana hukuma ba na ƙungiyar ta INB Drafting Group sun tattauna batutuwa masu zuwa na rubutun ofishin INB: ƙudiri na 4 (Rigakafin Annoba da Kula da Lafiyar Jama'a), ƙudiri na 5 ('Ƙarfafa rigakafin kamuwa da cuta da shirye-shirye ta hanyar Kiwon lafiya ɗaya) (a haɗin gwiwa) waɗanda Indiya, Ƙasar Jamhuriyar Tanzaniya da Ingila suka kawo; Kudiri na 9 (Bincike da cigaba), wanda haɗin gwiwar Mexico da Norway suka kawo; Kudiri na 11 (haɓaka haɗin gwiwa da musayar fasaha da sanin ya kamata) wanda haɗin gwiwar Colombia, Philippines da Saudi Arabia suka kawo.
+An yanke shawarar cewa taro na bakwai na INB zai gudana daga 6 zuwa 10 ga Nuwamba, kuma zai ci gaba a ranakun 4 zuwa 6 Disamban 2023, don ba da damar gabatarwa da la'akari da rubutattun shawarwari na WHO CA+.
+
+---
+
+Summary for language=sw:
+Ofisi ya INB itaunda pendekezo la mjadala wa maandishi ya makubaliano ya janga Kikundi cha Waandishi wa Baraza la Majadiliano kati ya Serikali (INB) kuandaa na kujadili mkataba wa WHO, makubaliano au chombo kingine cha kimataifa kuhusu kuzuia, kujiandaa na kukabiliana na janga (WHO CA+) kilifanya majadiliano na mikutano isiyo rasmi kuanzia tarehe 4 hadi 6 Septemba 2023 kwa utaratibu.
+kuendeleza kazi ya makubaliano ya janga.
+Wakati wa mkutano, mikutano isiyo rasmi ya kikundi cha uandishi cha INB ilijadili makala zifuatazo za maandishi ya Ofisi ya INB: Kifungu cha 4 (uchunguzi wa kuzuia magonjwa na afya ya umma) na Kifungu cha 5 (kuimarisha uzuiaji na maandalizi ya ugonjwa kwa njia ya Afya Moja) (kwa pamoja) kwa ushirikiano wa India, Jamhuri ya Muungano wa Tanzania na Uingereza; Kifungu cha 9 (Utafiti na Maendeleo) kwa ushirikiano wa Mexico na Norway; Kigungu cha 11 (Maendeleo ya pamoja na uhamishaji wa maarifa na teknolojia) kilichowezeshwa kwa ushirikiano na Colombia, Ufilipino na Saudi Arabia; Kifungu cha 12 (Ufikiaji na ugawaji wa faida) kwa ushirikiano wa Australia na Ethiopia; na Kifungu cha 13 (Msururu wa Ugavi na vifaa) kwa ushirikiano wa Indonesia na Pakstani.
+
+---
+
+Summary for language=yo:
+Àjọ INB yóò ṣe àfikún ìpàdé àjọgbé-kalẹ̀ aláìlétò ti Drafting Group ní orí Átíkù kẹrin àti kárùn-ún (papọ̀), 11, àti 12 ní oṣù kẹsàn-án ní ọdún 2023, nígbà tí àjọ Ẹgbẹ́ Aṣàkọọ́lẹ̀ INB bá bẹ̀rẹ̀ ṣí ṣe ìpàdà láti gba àkómọ́ onítẹ̀síwájú àwọn ohun tí ó ti wà nílẹ̀ nìpa àwọn ìpàdé elétò.
+Àjọ INB Bureau yóò ṣe agbékalẹ̀ ìjíròrò fún ìdúnàádúrà ìwé WHO CA+ fún gbígbà wọlé INB ní ìpàdé rẹ̀ tí ó ń bọ̀, eléyìí tí ó dúró ní orí ìjíròrò ìpàdé àjọ INB láti ọ̀dọ̀ ìpàdé kẹrin, karùn-ún, àti ìkẹfà rẹ̀, àti ìpàdè ti Ẹgbẹ́ Aṣàkọọ́lẹ̀ INB, eléyìí tí àwọn ìpàdé àìgbẹ̀fẹ́ rẹ̀ náà w` níbẹ̀, àti èsì àwọn alájọ-gbé-kalẹ̀ gbogbo àwọn ìpàdé gbẹ̀fẹ́ náà.
+Ìfẹnukò wà pé ìwé-àlàkalẹ̀ fún ìjíròrò agbéjáde yóò wà láì ṣe ojùsàájú sí ẹ̀tọ́ èyíkéyìí àwọn orílẹ̀-èdè tí ó jẹ́ Ọmọ-ẹgbẹ́ láti ṣe àgbékalẹ̀ ipò tí àpapọ̀ ìwé-àlàkalẹ̀ wà.
+
+---
+
+Summary for language=zu:
+I-INB Bureau yenza isiphakamiso sokuxoxisana ngombhalo wesivumelwano sobhubhane IQembu Lokulungisa le-Intergovernmental Negotiating Body (INB) ukuze libhale futhi lixoxisane ngengqungquthela yeWHO, isivumelwano noma elinye ithuluzi lamazwe ngamazwe mayelana nokuvimbela ubhubhane, ukulungela kanye nokusabela (WHO CA+) ibambe izingxoxo nemihlangano engakahleleki kusukela mhla zizi-4 - 6 kuMandulo 2023 ukuze kuthuthukiswe ukusebenza ngesivumelwano sobhubhane.
+I-INB izobamba imihlangano eyengeziwe engakahleleki egqugquzelwe ngokubambisana yeqembu elibhalayo ku-Athikili 4 kanye ne-5 (ngokuhlangene), 11, kanye no-12 zingama-22 kuMandulo 2023, lapho i-INB Drafting Group izophinda iqalise umsebenzi wayo ukuze ihlole inqubekelaphambili efinyelelwe ngalezi ezingahlelekile.
+imihlangano.
+
+---
+
+Summary for language=am:
+የአለም ጤና ድርጅት ይግባኝ የሚመጣው በአለም ዙሪያ ህይወትን እና ኑሮን አደጋ ላይ የሚጥሉ በርካታ ሰብአዊ እና የአየር ንብረት ቀውሶች ሲገጥሟት ነው።
+ሽፋን (ዩኤችሲ) እና ቲቢን ያበቃል:: የመንግስት መሪዎች በሶስት ዋና ዋና የጤና ጉዳዮች ላይ ቃል ለመግባት ሲሰባሰቡ ጤና ኢንቬስትመንት እንጂ ወጪ እንዳልሆነ እና ለበለፀጉ ቤተሰቦች፣ ማህበረሰቦች እና ኢኮኖሚዎች መሰረታዊ መሆኑን ለማሳየት እድሉ አላቸው።
+በሴፕቴምበር 21 የሚካሄደው ሁለንተናዊ የጤና ሽፋን የከፍተኛ ደረጃ ስብሰባ ሀገራትን እና ባለድርሻ አካላትን በመሰብሰብ ለሁሉም የጤና እድገትን ለማፋጠን ነው።
 
 ---
 
 Summary for language=en:
 Unprecedented focus on global public health at UN General Assembly WHO urges world leaders to commit to progress on pandemic prevention, preparedness and response and to secure health for all, end TB, and reinvigorate SDGs WHO is urging leaders meeting at the 78th session of the United Nations General Assembly (UNGA 78) in New York to put health for all on the highest political agenda and apply lessons learned from the COVID-19 pandemic.
+WHO’s call to accelerate the achievement of health targets comes ahead of the Sustainable Development Goals Summit (SDG Summit) and an unprecedented number of health-focused high-level meetings at UNGA, aimed at strengthening pandemic prevention, preparedness, and response, delivering universal health coverage (UHC) and ending TB.
+“The fact that billions of people cannot access or afford essential health services exposes them to poverty, easily preventable and treatable diseases like TB, and to the impact of future epidemics and pandemics.
+
+---
+
+Summary for language=ha:
+Kiran na WHO ya zo ne yayin da duniya ke fuskantar matsalolin jin ƙai da yawa da suka shafi yanayi, waɗanda ke barazana ga rayuwa a faɗin duniya.
+WHO Ta Yi Tattaunawa a ranar 17 ga Satumba a Babban Filin Shaƙatawar New York, za ta fara taron UNGA78, inganta lafiyar jiki da ta hankali, sannan kuma za ta yi bikin cika shekaru 75 na WHO.
+Sakamakon zai ƙasance sanarwar da ke da nufin tara manufofin siyasa a matakin ƙasa, yanki da na ƙasa da ƙasa.
+
+---
+
+Summary for language=sw:
+Wito wa WHO unakuja wakati dunia ikikabiliana na majanga mengi ya kibinadamu na hali ya hewa ambayo yanatishia maisha na riziki kote duniani.
+Tarehe 20 Septemba, Mkutano wa Ngazi ya Juu wa Umoja wa Mataifa kuhusu kinga, maandalizi na mwitikio wa mlipuko (PPPR) unalenga kuwaandalia Nchi Wanachama kongamano la kujadili jinsi ya kuzuia na kujiandaa kwa magonjwa ya milipuko na madhara ya kiafya, kijamii na kiuchumi kwa kuhusisha sekta zote za serikali.
+Mkutano wa Ngazi ya Juu wa Septemba 21 unaohusu huduma za Afya kwa Wote unazikutanisha nchi na washikadau ili kuharakisha maendeleo kuelekea afya kwa wote.
+
+---
+
+Summary for language=yo:
+Àjọ WHO ń rọ gbogbo àwọn adarí ní ibi ìpàdé ti 78 ti àjọ Ìpàdé Igbìmọ̀ Àpapọ̀ ti Àgbáyé (UNGA 78) ní ìlú New York láti fi ètò ìlera sí òkè téńté ti òṣèlú wọn àti láti lo ẹ̀kọ́ tí wọ́n kọ́ látààrí àjàkálẹ̀ àrùn ti COVID-19.
+Àjàkálẹ̀ àrùn náà ṣe ọ̀pọ̀lọpọ̀ ìpalára fún ọrọ̀-ajé, farúdurùdu fún àwùjọ àti ètò-òṣèlú, àti ìmúdúró tàbí ìfàṣẹ́yìn ìtẹ̀síwájú sí àfojúsùn ajẹmọ́-ìlera nínú ètò Àfojúsùn Ìdàgbàsókè Alálòpẹ́.
+Àwọn abẹnugan yóò ṣe ìdámọ̀ àti ojútùú láti mú ìtẹ̀síwájú yá ní kíákíá kí òpin le dé bá àjàkálẹ̀ àrùn ikọ́ ife ní ọdún 2030 àti láti rí i wíwà ní àrọ́wọ́tó ọ̀kan-ò-jọ̀kan gbà fún ìdènà, ìṣàyẹ̀wò, àti itọ́jú àti ìkẹ́.
+
+---
+
+Summary for language=zu:
+I-UN General Assembly isikhathi sokuthi abaholi bomhlaba bakhombise ukuthi bafundile izifundo ezibuhlungu zalolu bhubhane, futhi bathathe izinyathelo ezibambekayo zokuya ezweni elinempilo, eliphephile nelinobulungiswa kubo bonke abantu.
+“Iqiniso lokuthi izigidigidi zabantu azikwazi ukuthola noma ukukhokhela izinsiza zezempilo ezibalulekile zibabeka engozini, izifo ezigwemeka kalula nezingelapheka njenge-TB, kanye nomthelela wezifo eziwubhadane nezifo eziwubhadane ezizayo.
+Ababambiqhaza bazohlonza izikhala nezisombululo zokusheshisa inqubekelaphambili ekuqedeni ubhubhane lwesifo sofuba ngo-2030 kanye nokuqinisekisa ukufinyelela okulinganayo ekuvimbeleni, ekuhlolweni, ekwelashweni nasekunakekelweni.
+
+---
+
+Summary for language=am:
+የመድሀኒት ፓተንት ገንዳ ዋና ዳይሬክተር ቻርለስ ጎር እንዳሉት፡ “አስፈላጊ መድሃኒቶችን እና የጤና ቴክኖሎጂዎችን ማግኘት በአለም አቀፍ የጤና አጀንዳ ላይ ቀዳሚ ቀዳሚ መሆን አለበት።
+በአስፈላጊ ሁኔታ ፣ የመጀመሪያው ፍቃድ ፣ በሰርሎጂካል ምርመራ ፣ የምርመራ ቴክኖሎጅዎቻቸውን ለማዳበር ባዮቴክ አፍሪካን ከሲኤስሲሲ ንዑስ ፈቃድ አግኝቷል።
+የዓለም ጤና ድርጅት የሲ-ቲኤፒ ግምገማ ግኝቶችን እና ለተሻሻለ የቴክኖሎጂ መዳረሻ ገንዳ የቀረበውን ሞዴል ለማካፈል በዝግጅት ላይ ነው።
 
 ---
 
 Summary for language=en:
+The agreement will enable licensing of IP facilitating technology transfer and staff training.
 We congratulate Medigen Vaccine Biologics Corp, CSIC and the University of Chile for licensing their products to MPP and hope it will send an important message to other originators around the world to enter into further licence agreements under the auspices of C-TAP.” During the height of the COVID-19 pandemic only two public health R&D Institutes -- the Spanish National Research Council (CSIC) and the US National Institute of Health (NIH) decided to share their key COVID-19 technologies with C-TAP.
+WHO is preparing to share findings of the review of C-TAP and a proposed model for an evolved technology access pool.
+
+---
+
+Summary for language=ha:
+Yayin da cutar ta COVID-19 ta yi tsayin daka, Cibiyoyin R&D na Kiwon Lafiyar Jama'a biyu ne kawai - Majalisar Bincike ta Spain (CSIC) da Cibiyar Kiwon Lafiya ta Amurka (NIH) sun yanke shawarar raba mahimman fasahar COVID-19 tare da C-TAP.
+Ƙara sabbin lasisin guda uku yanzu zai ba da muhimmin cigaba a ƙoƙarin na bai ɗaya.
+Kalamai daga ƙungiyoyin da ke rattaɓa hannu kan sabbin lasisin C-TAP Charles Chen, Shugaba na Medigen Vaccine Biologics Corp ya ce, "Mun yi imanin cewa mafi kyawun martani ga ɓarkewar cutar dole ne ya samo asali daga goyon baya, haɗin kai, da ƙoƙarin haɗin gwiwa na duniya.
+
+---
+
+Summary for language=sw:
+Ninashukru kwa uongozi uliyoonyeshwa na wale wenye leseni ambao wamechangia teknolojia Charles Gore, Mkurugenzi Mtendaji wa Medicines Patent Pool alisema: Upatikanaji wa dawa muhimu na teknolojia za afya unataka kuendelea kupewa kipaumbele katika ajenda (mada) ya afya ya kimataifa.
+Rosa Dev Alessandri, alisema kwa Chuo Kikuu cha Chile, mafanikio wa wanasayansi wetu, ni chanzo cha fahari na kutia moyo kwa maendeleo ya utafiti wa matibabu katika nchi yetu.
+Timu za kiufundi za WHO zinasaidia kwa kutoa tathimini ya teknolojia kwa watoaji na wapokeaji wa teknolojia.
+
+---
+
+Summary for language=yo:
+Àdéhùn yìí ní àwọn ìwé-àṣẹ yìí láti ṣe ìfiránṣẹ́ ìmọ̀-nípa, àwọn ohun èlò àti dátà ilé-ìwòsàn tí wọ́n nílò ní oríṣìíríṣìí àwọn orílẹ̀-èdè: Medigen Vaccine Biologics Corp, olùpèsè abẹ́rẹ́ aládàáni àkọ́kọ́, ń ta àwọn aláìsàn rẹ̀ ní ọrẹ àti ìmọ̀-nípa fún òògùn COVID-19 tí a ti rí ju mílíọ́nù kóró tí a ti pín káàkiri àwọn orílẹ̀-èdè méje.
+Charles Gore, Adarí Àgbà fún àjọ Medicines Patent Pool sọ pé: "Níní àǹfààní sí àwọn òògùn tí ó ṣe pàtàkì àti àwọn ìmọ̀-ẹ̀rọ ìlera nílò láti wà ní òkè ní orí èròǹgbà ìlera ní àgbáyé.
+Àwọn abẹnugan yóò ní àǹfààní láti pèṣè ìdásí ní orí èròǹgbà àkọsílẹ̀ eléyìí tí ó ní ìlànà àti àkókò fún ìfilọ́lẹ̀.
+
+---
+
+Summary for language=zu:
+Lesi sivumelwano sizokwenza ukuthi kunikezwe ilayisense ye-IP egqugquzela ukudluliswa kobuchwepheshe kanye nokuqeqeshwa kwabasebenzi.
+“Nge-C-TAP, iWHO kanye nozakwethu bazibophezele ekwenzeni lawo mathuluzi afinyeleleke kuwo wonke umuntu, yonke indawo.
+Sihalalisela i-Medigen Vaccine Biologics Corp, i-CSIC kanye neNyuvesi yaseChile ngokunikeza ilayisensi imikhiqizo yabo ku-MPP futhi sithemba ukuthi izothumela umlayezo obalulekile kwabanye abasunguli emhlabeni wonke ukuthi bangene kwezinye izivumelwano zamalayisensi ngaphansi kweC-TAP.” Ngesikhathi sokuphakama kobhubhane lweCOVID-19 yiZikhungo zeR&D zezempilo zomphakathi ezimbili kuphela - iSpanish National Research Council (CSIC) kanye ne-US National Institute of Health (NIH) banqume ukwabelana ngobuchwepheshe bazo obubalulekile beCOVID-19 neC-TAP.
+
+---
+
+Summary for language=am:
+የዓለም ጤና ድርጅት በማስረጃ የተደገፈ የውሳኔ አሰጣጥ መመሪያ፣ በተለይም በፖሊሲ/እርምጃ ዑደት ላይ ያተኩራል።
+እንዲሁም አለም አቀፋዊ ጤናን እና ፍትሃዊነትን ለማጎልበት የተደረጉ ማናቸውንም ለውጦች መገምገም፣ ማስተካከል እና ማስቀጠል ያካትታል።
+ኢቪፒኔት እና የፖሊሲ እና ተፅእኖ ዩኒት የ ኢአይዲኤም መሳሪያዎችን የመስመር ላይ ማከማቻ ከሌሎች የአቅም መጋራት ስራዎቻቸው ጋር ያዋህዳሉ።
 
 ---
 
 Summary for language=en:
-The Evidence to Policy and Impact Unit of the Research for Health Department in the Science Division, in collaboration with the Evidence-Informed Policy Network (EVIPNet), has developed the repository of tools to support its EIDM capacity-sharing work.
+It also involves evaluating, adjusting, and sustaining any achieved changes to ultimately enhance global health and equity.
+EVIPNet and the Evidence to Policy and Impact Unit will integrate the online repository of EIDM tools into their other capacity-sharing activities.
+EIDM and the work of EVIPNet aim to support WHO staff and Member States in applying rigorous, systematic, and transparent methods for the creation and application of research evidence in their day-to-day work.
+
+---
+
+Summary for language=ha:
+Ƙaddamar da Ma'ajiyar Yanar Gizo ta WHO na Kayayyakin Bayanan Hukunce-hukuncen Shaida (EIDM).
+Ɓangaren manufa/aiki yana zayyana tsarin aikace-aikacen shaida a cikin aikin EIDM, farawa da gano batutuwa masu mahimmanci da tsara yaɗawa da aiwatar da hanyoyin magance waɗannan abubuwan da aka fi ba fifiko.
+Sashin Shaida da Manufa da Tasiri zai kasance yana ƙara ƙarin kayan aiki zuwa ma'ajiyar, da yin amfani da bitar wallafe-wallafe da sauran matakai.
+
+---
+
+Summary for language=sw:
+Hazina hiyo inakamilisha ushahidi wa mfumo wa utaratibu wa matumizi ya WHO ya kila siku uliyochapishwa mwaka jana katika Ushahidi, Sera na Athari.
+Pia, inahusisha kutathimini, kurekebisha na kudumisha mabadiliko yoyote yaliyofikiwa ili hatimaye kuimarisha afya na usawa duniani.
+EVIPNet na Kitengo cha Ushahidi cha Sera na Athari zitaunganisha hazina ya mtandaoni ya zana za EIDM katika shughuli zao zingine za kugawana uwezo.
+
+---
+
+Summary for language=yo:
+Ìfilọ́lẹ̀ Ibi-ìpamọ́ orí Ayélujára ti àjọ WHO fún àwọn Irinṣẹ́-Ìṣèpinnu Ẹlẹ́rìí (EIDM) Ibi-ìpamọ́ àwọn irinṣẹ́ ìṣèpinnu ẹlẹ́rìí orí ayélujára ti àjọ WHO (EIDM) jẹ́ àkọ́kọ́ irú rẹ̀ láti ṣàfihàn àwọn irinṣẹ́ WHO àti irinṣẹ́ ti ìta tí àjọ WHO ń lò láti mú ìtúmọ̀ ìmọ̀ wáyé àti àwọn àjọ alábàáṣe tí wọ́n wà nínú ètò, ìsàkóso, àmójútó àti ìgbélósùnwọ̀n àwọn ìlànà ìlò ẹ̀rí àti ìṣàmúlò gan.
+ọ̀nà-ìrọ̀rùn -àti-gbégbà ní orí ìkànnì ayélujára máa ń ran àwọn tí ó ń lò ó lọ́wọ́ láti ní àǹfààní sí ọ̀nà EIDM àti àwọn irinṣẹ́ tí ó ń dáhùn sí ìgbéṣẹ̀ kọ̀ọ̀kan ní orí àyíká ìlànà/iṣẹ́-ṣíṣe.
+Ẹ̀ka tí ó wà fún Ìlànà àti Ipa yọ́ọ̀ máa so ọ̀pọ̀lọpọ̀ irinṣẹ́ mọ́ Ibi-ìpamọ́ náà, àti gbígbà wọlé ète iṣẹ́ ìṣaájú àti àwọn ìgbéṣẹ̀ mìíràn.
+
+---
+
+Summary for language=zu:
+Ukwethulwa kweWHO Online Repository Yamathuluzi Okwenza Izinqumo Ezinolwazi Olunolwazi (EIDM).
+Umjikelezo wenqubomgomo/isenzo uveza inqubo yokufaka isicelo sobufakazi ngaphakathi kohlelo lokusebenza lwe-EIDM, uqala ngokuhlonza izinkinga ezibaluleke kakhulu, nokuklama, ukusabalalisa, nokusebenzisa izixazululo zokubhekana nalezi zinto ezibalulekile.
+Ngokwenza kanjalo, sizohlonyiswa kangcono njengeNhlangano ukuze siphumelele ekuzibophezeleni okuvezwe kuHlelo Olujwayelekile Lomsebenzi (GPW) 13 sokuguqula ulwazi olukhiqizwa yiWHO lube yimpumelelo ukuze kufezeke imigomo “yeBhiliyoni Ezintathu”: isigidigidi sabantu abengeziwe.
+
+---
+
+Summary for language=am:
+በሕዝብ ጤና ላይ ለውጥ ለማምጣት የሲቪል ማህበረሰብ ድርጅቶች (ሲኤስኦ) ያላቸው ታሪካዊ ሚና የሚታወቅ ነው።
+የዓለም ጤና ድርጅት ዋና ዳይሬክተር ዶ/ር ቴዎድሮስ አድሃኖም ገብረእየሱስ የዛሬውን ስብሰባ የከፈቱ ሲሆን የአስተባባሪ ኮሚቴ አባላትን (ከኮሚሽኑ የተውጣጡ 22 የተለያዩ የሲቪል ማህበረሰብ ድርጅቶችን ያቀፈ ፣ በጤና እና በሌሎች ዘርፎች ላይ የሚሰሩ) ሰብስቧል።
+የማመልከቻው ሂደት ክፍት ሆኖ ይቆያል እና ኮሚሽኑን ለመቀላቀል ማመልከት የሚፈልጉ ድርጅቶች እንዲያደርጉ ይበረታታሉ።
 
 ---
 
 Summary for language=en:
+It will also provide recommendations to support WHO in this engagement at all levels (global, regional and national) towards the achievement of universal health coverage (health for all) as well as the Sustainable Development Goals.
+The launch of the Commission is the Director-General’s response to civil society requests to explore better and more meaningful ways to engage with WHO above and beyond those which already exist.
 “This is an historic opportunity for close collaboration between WHO and CSOs around the world, and we are excited that many organizations will have an active role.” Said the Steering Committee civil society co-chairs Lisa Hilmi (CORE group) and Ravi Ram (Medwise Solutions) “We welcome all civil society organizations committed to improve global health to join the WHO CSO Commission and look forward to their engagement and thought leadership for addressing critical health issues.” Background Information Organizations that meet the criteria in the Terms of Reference for the Civil Society Commission may apply to join the WHO Civil Society Commission.
+
+---
+
+Summary for language=ha:
+Hukumar, ta ba da a karon farko, damar ba da shawarwari cikin zubi da tsari daga ƙungiyoyin farar hula zuwa WHO kan abubuwan da suka fi dacewa da kiwon lafiya, da batutuwa masu alaƙa.
+Har ila yau, za ta ba da shawarwari don tallafawa WHO a cikin wannan haɗin gwiwa a kowane mataki (duniya, yanki, da na ƙasa) don cimma nasarar tsarin kiwon lafiya na duniya (kiwon lafiya ga kowa), da kuma manufofin ci gaba mai ɗorewa.
+Za a sanar da wasu a cikin makonni masu zuwa.
+
+---
+
+Summary for language=sw:
+Tume inatoa uwezo wa kusambaza ushauri na mapendekezo kwa mara ya kwanza kwa kutumia njia iliyopangwa na yenye utaratibu kutoka katika mashirika ya kiraia hadi WHO kuhusu vipaumbele vya afya na masuala yanayoendana.
+Uanachama kamili wa Tume yenyewe utatangazwa katika siku zijazo.
+Pia, inatoa mapendekezo ya kusaidia WHO katika ushirikiano huu katika ngazi zote (Kimataifa, Kikanda na kitaifa) kuelekea kufikiwa kwa huduma ya afya kwa wote (afya kwa wote) pamoja na Malengo ya endelevu.
+
+---
+
+Summary for language=yo:
+Àjọ WHO ṣe àgbékalẹ̀ Ìgbìmọ̀ WHO Tuntun tí ó jẹ mọ́ Ọ̀rọ̀-ọmọnìyàn tí wọ́n sì ṣe ìpàdé ìfilọ́lẹ̀ ayẹyẹ Ìgbìmọ̀ Adarí-iṣẹ́ rẹ̀ ní Geneva lónìí.
+Ìfilọ́lẹ̀ Àjọ náà jẹ́ ìfèsìsí Olùṣàkóso-Àgbà sí ìbéérè àwọn ẹgbẹ́ tí ó ń rí sí ọ̀rọ̀ ọmọnìyàn láti ṣe àmúlò tí ó dára tí ó sì ní ìtumọ̀ pípé sí i láti ní ìbáṣepọ̀ pẹ̀lú àjọ Elétò-ìlera Lágbàáyé ní òkè àti kọjá èyí tí ó ti wà nílẹ̀ tẹ́lẹ̀.
+Dídarapọ̀ mọ́ àjọ náà Àwọn àjọ tí ó ju 350 lọ ni o ti kọ ìwé-ìnífẹ̀ẹ́sí láti darapọ̀ mọ́ àjọ náà.
+
+---
+
+Summary for language=zu:
+Umhlangano wanamuhla uvulwe nguDkt Tedros Adhanom Ghebreyesus, uMqondisi-Jikelele weWHO, futhi wahlanganisa amalungu eKomidi Lokuqondisa (elihlanganisa izinhlangano zomphakathi ezihlukene ezingama-22 ezivela kuKhomishana, ezisebenza kwezempilo kanye neminye imikhakha.
+“Siyazi ngokuhlangenwe nakho kwethu ezindaweni eziningi ukuthi ukulalela nokusabela emazwini emiphakathi esiyisebenzelayo kubalulekile ukuze kubhekwane kahle nezinselelo zezempilo ebhekene nazo,” kusho uDkt Tedros Adhanom Ghebreyesus, uMqondisi-Jikelele weWHO.
+Ukujoyina iKhomishini Zingaphezu kwama-350 izinhlangano ezifake izicelo zokuba yingxenye yeKhomishini kuze kube manje.
+
+---
+
+Summary for language=am:
+ሁኔታው ይህ ባይሆንም እንኳን፣ ፖሊሲ አውጪዎች ይህ እርምጃ የተመረጠው ለምን እንደሆነ ለማስረዳት በውዝግብ ላይ ናቸው።
+የመጀመሪያው ቁልፍ ችግር፣ ተመራማሪዎች ፖሊሲ አውጪዎችን በምንረዳበት ወቅት ላይ፣ የእኛ ሥራ ምንጊዜም ከመጋረጃ ጀርባ እና ከቁም ነገር ውጭ ሆኖ መቆየቱ ነው።
+ያለመታደል ሆኖ ግን፣ ይህን የሳይንሳዊ ግንዛቤ ማግኘት ሰዎች ለሚደርስባቸው ጉዳት ወይም ለደረሰባቸው ጉዳት ተጠያቂ የሚሆን አካል ማፈላለጋቸውን ያቆማሉ ማለት አይደለም።
 
 ---
 
 Summary for language=en:
 Interviewer: In your opinion, why is evidence-informed policy-making crucial, in particular, in the context of public health and infectious diseases?
+The chances were that this was the best course of action, though we did not necessarily have all the evidence to support it.
+I felt that the compromise did not make sense but the policy-makers had to listen to the church leaders also, not just the scientists.
+
+---
+
+Summary for language=ha:
+Shin za ka iya bayyana misalin yanke shawara wanda yake shaida ta taka muhimmiyar rawa wajen bayyanar da sakamako da kuma tasiri mai inganci ga lafiyar jama'a?
+Saboda haka, duk da cewa dokar na nan, babu wanda ke bin ta.
+Irin wannan lamari mafi yawanci yana kasancewa a sirri, ba tare da bayyana wa jama’a ba.
+
+---
+
+Summary for language=sw:
+Katika hatua hiyo ya awali, kutokana na kukosekana kwa Data mahususi kuhusu UVIKO, kulingana na ujuzi wetu mdogo, hii ndio ilikuwa hatua bora zaidi ambayo tungeweza kuchukua.
+Tulichukua uamuzi huo mapema mnamo Aprili 2020 na tulielewa kwamba kiukweli hatukuwa na ushahidi thabiti kwa hilo, lakini tulikuwa na ushahidi wa kutosha wa kutoa wito kwamba kiukweli Barakoa huzuia Virusi.
+Kwa bahati mbaya, ufahamu huu wa kisayansi haimaanishi watu hawatatafuta mtu wa kulaumiwa kwa madhara waliyonayo au waliyopata.
+
+---
+
+Summary for language=yo:
+Ní gbogbo àsìkò rẹ̀ lẹ́nu iṣẹ́, Dr Karim ti tan iná wo pàtàkì sáyẹnsì gẹ́gẹ́ bí olùdásí ètò ìlera àgbayé àti ìmúlò, gbígbógun ti ìròyìn ẹlẹ́jẹ̀ àti sísẹ́ sáyẹnsì pẹ̀lú ṣíṣe àtìlẹ́yìn ànfààní sí ìròyìn àti lílo rẹ̀, gbígba àwọn ìjọba ní ìmọ̀ràn àti àwọn aṣòfin lórí àwọn èsì tó tọ́ àti kíkọ́ àwọn ará ìlú lẹ́kọ̀ọ́.
+Ìṣòro pàtàkì àkọ́kọ́ ni wí pé, gẹ́gẹ́ bí onímọ̀ sáyẹnsì tó ń ran àwọn aṣòfin lọ́wọ́, tiwa ni ó máa ń jẹ́ iṣẹ́ ìpìlẹ̀, kúrò ní ojú gbogbo ayé.
+Mo rò wí pé ìfẹnukò náà ò mú ọpọlọ dání ṣùgbọ́n àwọn aṣòfin ní láti tẹ́tí sí àwọn olórí ilé ìjọsìn bákan náà, kìí ṣe àwọn onímọ̀ sáyẹnsì nìkan.
+
+---
+
+Summary for language=zu:
+Ukuthi ibe nolwazi lobufakazi kwengeza ukukwazi ukuyihumusha leyo nqubomgomo ukuthi yenzeka.
+"Ososayensi bayala" kwakuyizindaba ezihamba phambili e-Afrika!
+Ngezwa sengathi uzwelo aluwenzanga umqondo kodwa abenzi benqubomgomo kwakumele balalele abaholi besonto, ayi ososayensi nje.
+
+---
+
+Summary for language=am:
+የአለም ጤና ድርጅት(WHO) የዲጂታል ጤና ስርዓት ለውጥን በፍጥነት ለመከታተል እና አለም አቀፍ ደረጃዎችን ለማስከበር ፣ ምርጥ ተሞክሮዎችን እና ግብአቶችን በማሰባሰብ የስልታዊ ትግበራ ሴክሬታሪያት ሆኖ ያገለግላል።
+"ማንኛችንም ብንሆን ብቻችንን ልናሳካው የማንችለውን በጋራ ለማከናወን የ ጂ20(G20)፣ የልማት አጋሮች እና የአለም አቀፍ ድርጅቶች ቀጣይ ድጋፍ እና ትብብር አስፈላጊ ነው።
+” በዲጂታል ጤና ጥበቃ ላይ ያለው አዲሱ ዓለም አቀፍ ተነሳሽነት የህንድ ጂ20 (G20) ፕሬዚዳንት ማድረግ ያለባቸው ቁልፍ ጉዳይ ነው።
 
 ---
 
 Summary for language=en:
+WHO launches a new Global Initiative on Digital Health supported by the G20 Presidency The World Health Organization (WHO) and the G20 India presidency announced a new Global Initiative on Digital Health (GIDH) today at the Health Minister’s Meeting of the G20 Summit hosted by the Government of India.
+“Continued support and collaboration of the G20, development partners and international organizations will be necessary to accomplish together what none of us can do alone.
 The GIDH initiative aims to bring countries and partners together to achieve measurable outcomes by: developing clear priority-driven investment plans for digital health transformation; improving reporting and transparency of digital health resources; facilitating knowledge exchange and collaboration across regions and countries to accelerate progress; supporting whole-of-government approaches for digital health governance in countries; and increasing technical and financial support to the implementation of the Global Strategy on Digital Health 2020–2025 and its next phase.
+
+---
+
+Summary for language=ha:
+Yayin da abubuwan da suka faru na baya-bayan nan na ɓullar annobar COVID-19 da ya haifar da haɓaka amfani da kiwon lafiya na zamani, ƙasashe da yawa suna bayyana buƙatar tallafi don matsawa daga tsohuwar hanyar kiwon lafiya da fara amfani da sabbin dabarun kiwon lafiya da kafa kayayyakin kiwon lafiya na dijital na ƙasa tare da ingantaccen shugabanci, manufofi da ƙwarewa.
+Da kuma ma'aikatan kiwon lafiya da ake buƙata don samar da kulawa da daidaita ayyukan kiwon lafiya ta dijital.
+WHO da abokan hulɗar ta sun ba da sanarwar samun alkawura masu yawa na kuɗi da makamantansu daga masu ruwa da tsaki da dama don tallafawa ƙaddamar da wannan sabon tsarin.
+
+---
+
+Summary for language=sw:
+WHO inazindua mpango mpya wa kimataifa wa afya wa kidijitali unaoungwa mkono na Urais wa G20 Shirika la afya Duniani (WHO) na Urais wa G20 India walitangaza mpango mpya wa kimataifa wa afya ya kidijitali (GIDH) leo katika mkutano wa waziri wa afya wa mkutano wa G20 ulioandaliwa na serikali ya India.
+WHO imejitolea kufanya kazi na nchi ili kuimarish uwezo wao na kuboresha ufikiaji wa suluhu za kidijitali zilizohakikishwa kwa ubora kwa siku zijazo zenye afya, salama na za haki".
+Afya ya kidijitali ni kichochezi kilichothibitishwa ili kuendeleza matokeo kufikia huduma ya afya kwa wote na malengo ya maendeleo endelevu yanayohusiana na afya ifikapo 2030.
+
+---
+
+Summary for language=yo:
+A dúpẹ́ lọ́wọ́ àwọn orílẹ̀-èdè G20 àti G20 tí Ìjọba Ilẹ̀ India fún mímọ rírì ipa aláìlẹ́gbẹ́ tí WHO kó àti àwọn agbára ní agbègbè yìí àti ṣíṣe ìrànlọ́wọ́ fún ìdásílẹ̀ ojú-òpóGIDH tuntun," Dr Tedros Adhanom Ghebreyesus, Olùdarí-Àpapọ̀ fún WHO ló sọ bẹ́ẹ̀.
+WHO ní ìfọkànsìn láti ṣiṣẹ́ pẹ̀lú àwọn orílẹ̀-èdè láti ṣe àtìlẹ́yìn fún àwọn ìkápá wọn àti láti mú àyípadà bá ànfààní sí àwọn ọ̀nà àbáyọ àkósódù aṣèdánilójú-ojúlówó fún ọjọ́ iwájú onílera, aláìléwu, tó dára.
+Ìpilẹ̀ṣẹ̀ GIDH ń gbèrò láti so àwọn orílẹ̀-èdè àti àwọn alájọṣepọ̀ papọ̀ láti ṣe àṣeyọrí àwọn àbájáde tó ṣe é ṣòdiwọ̀n pẹ̀lú: àgbékalẹ̀ àwọn ètò ìdókówò ajẹmọ́-pàtàkì tó fojú hàn fún àyípadà ètò ìlera àkósódù; ṣíṣe àtúnṣe ìjábọ̀ àti kíkó àkóyawọ́ àwọn ohun èlò ètò ìlera àkósódù; ìsọdìrọ̀rùn pàṣípáárọ̀ ìmọ̀ àti àjọṣepọ̀ káàkiri àwọn ẹkùn agbègbè àti àwọn orílẹ̀-èdè láti mú kí ìlọsíwájú yá; ṣíṣe àtìlẹ́yìn fún àwọn ìlànà gbogbo-ti-ìjọba fún àkóso ètò ìlera àkósódù ní àwọn orílẹ̀-èdè; àti ṣíṣe àlékún àtìlẹyìn ìmọ̀ ẹ̀rọ àti owó fún ṣíṣe àmúlò ìlànà-iṣẹ́ Àgbáyé lórí Ìlera Àkósódù 2020-2025 àti ìpele rẹ̀ tó kàn.
+
+---
+
+Summary for language=zu:
+I-WHO yethula umzamo omusha weGlobal kweZempilo zeDijithali owesekwe yiG20 Presidency Inhlangano yeZempilo yoMhlaba (WHO) neG20 India ukongamela kwethulwe iGlobal Initiative kuDigital Health entsha (GIDH) namhlanje kumhlangano woNgqongqoshe bezeMpilo kuSummit yeG20 ebisingethwe uHulumeni waseIndia.
+I-WHO isebenza njengoMabhalane wokwenziwa kwesu ukujika nokuqoqa amazinga omhlaba, ukwenza okuhle nezinsiza kusebenza ukusheshisa ukuguquka kohlelo lwezempilo yedijithali.
+Umzamo weGIDH uhlose ukuhlanganisa amazwe kanye nababambisani ukuthola imiphumelaemikhulu ngo: ukudevelophaizinhlelo zotshalomali oluqhutshwa okuphambili okucacile koguquko lwezempilo yedijithali; ukwenza ngcono ukubika nokuthembeka kwezinsizakusebenza zedijithali yezempilo; Ukusiza ngolwazi lokushintsha kanye nokubambisana kuzona zonke izifunda kanye namazwe ukubungaza inqubekela phambili; ukweseka zonke izindlela zikahulumeni zokuphathwa kwedijithali yezempilo emazweni; kanye nokwenyusa ukweseka kwezobuchwepheshe nezezimali ukwenza iGlobal Strategy kwezempilo yeDijithali 2020-2025 esigabeni esilandelayo.
+
+---
+
+Summary for language=am:
+የአለም ጤና ድርጅት(WHO) የማንቂያ ጥሪ ይህ በአፍጋኒስታን ያለ የጤና ጥበቃ መዋቀር፣ ዝቅተኛ የገንዘብ ድጋፍ ከቀጠለ የሚያስከትለውን አስከፊ ውጤት አጉልቶ ያሳያል።
+የጤና መስኩ በአፍጋኒስታን ህዝብ ፣ በተለይም ለሴቶች እና ህጻናት ሁሉን አቀፍ አገልግሎቶችን ለማዳረስ ከፍተኛ እንቅፋት እየገጠመው ነው ፣ በዚህም ምክንያት መበታተን እና ተጋላጭነት መጨመርን ፣ በተለይም በቂ አገልግሎት በማያገኙ አካባቢዎች ይበረታል።
+እርምጃ አለመውሰድም የሚያስከትለው መዘዝ አስከፊ ነው እናም በአፍጋኒስታን ህዝብ ጤና እና ደህንነት ላይ ዘላቂ ተጽእኖ ሊፈጥር ይችላል።
 
 ---
 
 Summary for language=en:
 Afghanistan's health system suffers critical underfunding, calls for donor support Launched today by the World Health Organization (WHO), a new Alert underscores the crucial importance of ramping up investment in healthcare services provision in Afghanistan, particularly in the underserved areas where the healthcare infrastructure is severely under-resourced and remain vulnerable due to the ongoing humanitarian crisis.
+To address the health emergency, 14 million people, including 7.5 million children and 3.1 million women, are currently targeted for health assistance, out of which 8.4 million have already been reached in the first six months of 2023.
+Much work still needs to be done to deliver on WHO’ strategic areas; Protecting people every day; Reaching everyone, everywhere, and putting mothers and children first; Leading the health sector by coordinating the health partners, and drive impact in delivering effective health services in Afghanistan.
+
+---
+
+Summary for language=ha:
+ya buƙaci al’ummomi na ƙasashen duniya da su haɗa kai da Hukumar Lafiya ta Duniya domin taimakawa wajen shawo kan matsalar rashin lafiyar da ake fama da ita a ƙasar Afganistan.
+Ga ƙasar da ta shafe shekaru da dama tana fama rikice-rikice, rashin tallafa wa tsarin kiwon lafiya mummunan haɗari ne ga al’umma.
+Har kawo yanzu akwai buƙatar gudanar da ayyuka masu yawa domin kai wa ga guraren da ke da matuƙar muhimmanci ga Hukumar Lafiya ta Duniya.
+
+---
+
+Summary for language=sw:
+Ili kushughulikia dharura za kiafya, watu milioni 14, wakiwemo watoto milioni 7.5 na wanawake milioni 3.1, kwa sasa wanalengwa kupata usaidizi wa kiafya, kati yao milioni 8.4 tayari wamefanikiwa katika miezi sita ya kwanza ya 2023.
+Kwa kuongezea, inakadiriwa watu milioni 1.6 walio na hali ya afya ya akili watakuwa na ufikiaji mdogo wa ushauri wa afya ya akili na msaada wa kisaikolojia.
+Dk Tedros Adhanom Ghebreyesus, mkurugenzi mkuu wa WHO, alisema: "Hali nchini Afghanistani ni mbaya, na ukosefu wa rasilimali na ufadhili wa kusaidia wahudumu wa afya na vituo unaweka maisha ya watu wengi hatarini.
+
+---
+
+Summary for language=yo:
+Ní àfikún, àpapọ 1.6 mílíọ̀nù àwọn ènìyàn tí wọ́n wà ní ipò ìpènijà ọpọlọ máa ní ànfààní díẹ̀ àbí kí wọ́n máà ní ànfààní rárá sí ìbánisọ̀rọ̀ ìpèníjà ọpọlọ àti ìrànlọ́wọ́ ipa àwùjọ lórí ọpọlọ.
+WHO Alert tọ́ka sí àwọn àbájáde burúkú tí yóò ṣẹlẹ̀ tí àìsí owó ìrànwọ́ bá tẹ̀síwájú nínú ètò ìlera Afghanistan.
+Iṣẹ́ tó pọ̀ ṣì wà láti ṣe láti ṣe àgbékalẹ̀ lórí àwọn agbègbè ìlànà-iṣẹ́ WHO; Ìdáàbò bo àwọn ènìyàn lójoojúmó; Kíkàn sí gbogbo ènìyàn, níbi gbogbo, àti fífi àwọn ìyálọ́mọ àti àwọn ọmọ ṣíwájú; Dídarí ẹ̀ka ètò ìlera pẹ̀lú dídarí àwọn onígbọ̀wọ́ ètò ìlera, àti dídarí ipa nínú àgbékalẹ̀ iṣẹ́ ètò ìlera tó lágbára ní Afghanistan.
+
+---
+
+Summary for language=zu:
+Ukubuyekezwa kweMpendulo yoBuntu baseAfghanistan kuhlelo lwango 2023 luveza ukunyuka okuthusayo enambeni yabantu abadinga usizo lwabantu oluphuthumayo.
+Ukuvezwa kweSixayiso seWHO kumiphumela esabekayo ezoletha umphumela wokuqhubeka koxhasomali oluncane kuhlelo lwezempilo eAfghanistan.
+Imiphumela yaloluxhaso oluncane ngeke igcizelelwe ukudlula lokhu.
+
+---
+
+Summary for language=am:
+የሙያ አማካሪ ቡድን ስለ አርቦቫይረስ (Arbovirus (TAG)) ስብሰባ ፣ በአክራ፣ በጋና የአለማቀፍ የአርቦቫይረስ (Arbovirus) ጅምር (GLAI) ባለፈው ዓመት በመጋቢት ወር የተጀመረው በአለም አቀፍ እና በሀገር ውስጥ ወረርሽኝ ሊያስከትሉ የሚችሉ ብቅ ያሉና እንደገና እየታዩ ያሉ አርቦቫይረሶችን(Arbovirus) ለመቋቋም ነው።
+ይህ ተነሳሽነት በዓለም የጤና ድርጅት የዓለም የጤና ድንገተኛ አደጋዎች መርሀግብር፣ ችላ በተባሉ የሞቃት በሽታዎች መቆጣጠሪያ ክፍል እና በክትባትና በ ስነ-ህይወት የስራ ክፍል መካከል የተደረገ የጋራ ጥረት ነው።
+የበሽታ አምጪ ነፍሳትን ለመቆጣጠር የተለያዩ ዘርፎችን አጋርነትን መገንባት እንዲሁም የቢጫ ወባ አምጪ ነፍሳትን በብቃት ለመቆጣጠር ተጋላጭ የሆኑ ከተሞችን ዝግጁነት ማጠናከር፤ 3. ምንም እንኳ የጄኖሚክስ በአርቦቫይረስ ክትትል ውስጥ ትልቅ ሚና ቢጫወትም መሠረታዊ የምርመራ አቅም ግንባታን ማቃለል የለበትም፤ ይሁን እንጂ ጄኖሚክስ ማግኘት ከሞለኪውላዊ የምርመራ ዒላማ ጋር የሚጣጣምበትን መንገድ ለማጠናከርና ከመስክ ተላላፊነትንና ከበሽታ ጋር ተያይዞ የሚመጣ የጂኖታይፕ ስርጭት ለማወቅ ወሳኝ ነው።
 
 ---
 
 Summary for language=en:
+Technical Advisory Group on Arbovirus (TAG) meeting, Accra, Ghana The Global Arbovirus Initiative (GLAI) was launched last year in March to tackle emerging and re-emerging arboviruses with epidemic and pandemic potential.
 The TAG highlighted the importance of: data sharing, collaboration and transparency the integration of epidemiological, laboratory, entomological, and environmental data that are pivotal to better understand the transmission dynamics of known arboviruses and to prepare for the emergence of arboviruses with epidemic and pandemic potential.
+3.
+
+---
+
+Summary for language=ha:
+An ƙaddamar da Ƙungiyar Arbocirua ta Duniya (GLAI) a shekarar da ta gabata a Maris don magance arbovirus mai aukuwa da mai tasowa masu yiwuwar zama annoba da addabar jama’a.
+Kawo cigaba a kan hanyoyin kariya wurin sa’ido buƙatar sa hannu don ƙaddamarwa a lokacin annoba tsakanin birane ya haɗa da: inganta dama a wurin haɗawa da sa’ido, bincike da kulawa a kan bayanan cutar gina haɗin gwiwar ɓangarori daban-daban don sa’ido, bincike da kulawa a kan bayanan cutar.
+3.
+
+---
+
+Summary for language=sw:
+Mkutano wa kikundi cha ushauri wa kiufundi kuhusu Arbovirus (TAG), Accra, Ghana Mpango wa kimataifa wa Arbovirus (GLAI) ulizinduliwa mwaka jana mwezi Machi ili kukabiliana na Arboviruses vinavyoibuka na vitakavyoibuka tena vyenye uwezekano wa janga na majanga.
+Ukuzaji wa ufuatiliaji wa awali wa udhibiti wa vekta na uingiliaji kati wa utekelezaji wakati wa vipindi kati ya milipuko katika mazingira ya mijini ikijumuisha: Kuimarisha uwezo katika ufuatiliaji na udhibiti wa Vekta jumuishi.
+3.
+
+---
+
+Summary for language=yo:
+Ẹgbẹ́ Olùbánidámọ́ràn Iṣẹ́ lórí ìpàdé Ààrùn Kòkòrò (TAG), Accra, Ghana Ìmọ̀ tuntun Ààrùn Kòkòrò Àgbáyé (GLAI) ni wọ́n gbékalẹ̀ ní ọdún tó kọjá ní oṣù Èrenà láti kojú àwọn ààrùn kòkòrò tó ṣúyọ àti àwọn tó tún ṣúyọ pẹ̀lú ààrùn àkóràn àti àjàkálẹ̀ ààrùn tó ṣeéṣe.
+1.
+Pàtàkì fún ètò ìṣàmúlò dátà tí ó ṣe kókó fún àmójútó àkóràn àwọn ààrùn kòkòrò tí ó ti di mímọ̀, àti tí tètè dá àfihàn àwọn ààrùn kòkòrò tó ń ṣúyọ mọ̀.
+
+---
+
+Summary for language=zu:
+UmhlanganoTechnical Advisory Group kuArbovirus (TAG) e-Accra, eGhana.
+Isidingo sezinhlelo zedtha ehlanganisiwe kubalulekile ekubhekeni ukudluliselwa kwamagciwane angaziwa, ukuwahlonza ngokushesha ekwethulweni kwamagciwane avelayo.
+3.
+
+---
+
+Summary for language=am:
+"ከትራኮማ ነጻ መሆን አሁን እንዲሁም ወደፊትም ይበልጥ ለአደጋ የተጋለጡ ሕዝቦችን ሕይወት አዎንታዊ በሆነ መንገድ ይቀይራል"።
+ከትራኮማ መጥፋት በኋላ፣ ኢራቅና የዓለም ጤና ድርጅት ቀደም ሲል በጣም የተስፋፋባቸውን አካባቢዎች ለይቶ ለማወቅና አስፈላጊ ሆኖ ከተገኘ ደግሞ በሽታን እንደገና ማንሰራራት ካለ በቅርበት መከታተላቸውን ይቀጥላሉ።
+የምሥራቅ ሜድትራኒያን የአካባቢ ዳይሬክተር የሆኑት ዶክተር አህመድ አል ማንዳሪ "የዐለም ጤና ድርጅት የኢራቅን ትራኮማን ከሕብረተሰብ የጤና ችግር በማስወገድ በምሥራቅ ሜድትራንያን ክልል ውስጥ ቢያንስ አንድ ችላ የተባለ የሐሩር ክልል በሽታን ያጠፋች ስምንተኛዋ አገር እንድትሆን አድርጓታል" ብለዋል።
 
 ---
 
 Summary for language=en:
 Iraq’s success in eliminating trachoma is also a true demonstration of our regional vision of Health for All by All.” Trachoma, the leading infectious cause of blindness worldwide, is still known to be endemic in six countries of WHO’s Eastern Mediterranean Region, but there has been substantial progress in the number of people in the region requiring antibiotic treatment for trachoma elimination purposes, which has fallen from 39 million in 2013 to 6.9 million in April 2023.
+This major milestone is the halfway mark to the 100-country target set for 2030 in the WHO road map for neglected tropical diseases.
+Progress against trachoma and other neglected tropical diseases alleviates the human and economic burden that they impose on the world’s most disadvantaged communities.
+
+---
+
+Summary for language=ha:
+Cigaban duniya A faɗin duniya, Iraqi ta shiga jerin wasu ƙasashe 17 da WHO ta amince dasu da kawar da trachoma a matsayin matsalar lafiyar jama’a.
+Gudunmawar cewa shirye-shiryen NTD suna cimma tsarin kiwon lafiya na duniya ya samu cigaba ta hanyar nuna nisan da shirin ke kai wa ga aljihun mutane da yawa_x009d_ a cewar Dr Ibrahima Soce Fall, Darakta, Shirin NTD na Ƙasa, Hukumar Lafiya ta Duniya.
+Ɓatar da trachoma a matsayin matsalar cutar da ta dami jama’a, Hukumar Lafiya ta Duniya tana shawartar dabarar AMINCI 1, hanya mai kyau da ta rage yaɗuwar halittun da ke yaɗa cutar, magance cutukan da ake dasu yanzu da kuma magance illarsu.
+
+---
+
+Summary for language=sw:
+"Mafanikio ya mpango wa kitaifa wa Trakoma ya Iraki, yameonyesha kile kinachoweza kupatikana kwa uongozi wa kitaifa na ushirikiano", alisema Dk Tedros Adhanom Ghebreyesus, mkurugenzi mkuu wa WHO.
+Pia Iraki ni nchi ya 50 kutambuliwa na WHO kwa kutokomeza angalau ugonjwa mmoja wa kitropiki uliosahaulika (NTD) ulimwenguni.
+Ili kutokomeza Trakoma kama tatizo la afya ya umma, WHO inapendekeza mkakati wa SAFE 1 mbinu ya kina ili kupunguza maambukizi yaliyopo na kukabiliana na athari zake.
+
+---
+
+Summary for language=yo:
+WHO ti fọwọ́sí sí Iraq gẹ́gẹ́ bí ẹni tó ti ṣẹ́gun àpólò gẹ́gẹ́ bíi ìṣòro ìlera àwùjọ, tí ó sọ ọ́ di orílẹ̀-èdè kẹ́jọ ní Ẹkùn Agbègbè Eastern Mediterranean tí ó ti ṣẹ́gun ó kéré jù ààrùn ìgbóná tí wọ́n ti patì kan" Dr Ahmed Al-Mandhari, Olùdarí Ẹkùn Agbègbè fún Eastern Mediterranean WHO ló sọ bẹ́ẹ̀.
+Àṣeyọrí aláìlẹ́gbẹ́ yìí jẹ́ ìsàmì ìdáméjì sí àfojúsùn 100-orílẹ̀-èdè tí wọ́n ṣe fún 2030 nínú ìlànà-iṣẹ́ WHO fún àwọn ààrùn ìgbóná tí wọ́n ti patì.
+Ìlọsíwájú tako àpólò àti àwọn ààrùn ìgbóná tí wọ́n ti patì míràn máa ń mú àdínkù bá ìṣòro ènìyàn àti ọrọ̀-ajétí wọ́n ń gbé lé orí àwọn àwùjọ tí ò lágbára jùlọ lágbàyé.
+
+---
+
+Summary for language=zu:
+"Ukuphumelela kohlelo lwesifo samehlo sezwe laseIraq selukhombisile ukuthi yini engazuzwa ngobuholi nokubambisana kwesizwe", kusho uDkt Tedros Adhanom Ghebreyesus, Umqondisi-oMkhulu weWHO.
+Ukuphumelela kweIraq ekuqedeni isifo samehlo kukhombisa ngeqiniso ukuthi umbono wesifunda sethu iHealth for All by All."
+Ukuqhubeka kwezomhlaba Ngokomhlaba, i-Iraq ijoyina amanye amazwe angu-17 aseqinisekiswe yiWHO ngokuqeda isifo samehlo njengenkinga yezempilo yomphakathi.
+
+---
+
+Summary for language=am:
+አዳዲስ ኢንፌክሽኖችን እና በሄፐታይተስ ቢ እና ሲ የሚመጣን ሞት ለመቀነስ አገሮች የሚከተሉትን ማድረግ አለባቸው፡- በሄፐታይተስ ቢ ለተጠቁ ነፍሰ ጡር እናቶች፣ በተወለዱበት ጊዜ ለልጆቻቸው የሄፐታይተስ ቢ ክትባቶችን መስጠት፣ 90% ሄፓታይተስ ቢ እና/ወይም ሄፓታይተስ ሲ ያለባቸውን ሰዎች መመርመር እና በሄፐታይተስ ከተያዙት ሰዎች ውስጥ 80% ህክምና መስጠት።
+ክትባት: ምርመራ እና ህክምና ፦ ጉበትዎን ከሄፐታይተስ ለመጠበቅ አስፈላጊ እድሎች ናቸው:: በልጆች የሄፐታይተስ ቢ ኢንፌክሽን በክትባት መቀነስ በአጠቃላይ የቫይረሱን ኢንፌክሽን ለመገደብ ቁልፍ ሚና አለው:: የሄፐታይተስ ቢ ክስተት ለመቀነስ ከተያዙት ሌሎች ዐላማዎች መካከል እ.ኤ.አ. በ2020 የተሳካው ብቸኛው የዘላቂ ልማት ግቦች (ኤስ ዲ ጂ) የጤና ግብ ሲሆን ለ2030 እ.ኤ.አ. በጥሩ መንገድ ላይ ይገኛል።
+የጉበት ጤናን ለመጠበቅ ለሚፈልጉ ሰዎች፤ የአለም ጤና ድርጅት እነዚህን ይመክራል፦ የሄፐታይተስ ምርመራ፤ ፓዘቲቭ ከሆነ ህክምና እና የሄፐታይተስ ቢ ክትባት :: የአልኮል መጠጥን መቀነስ፣ ጤናማ ክብደትን መኖር እና የስኳር በሽታን ወይም የደም ግፊትን መቆጣጠር ለጉበት ጤንነት ይጠቅማል።
 
 ---
 
 Summary for language=en:
-To reduce new infections and deaths from hepatitis B and C, countries must: ensure access to treatment for all pregnant women living with hepatitis B, provide hepatitis B vaccines for their babies at birth, diagnose 90% of people living with hepatitis B and/or hepatitis C, and provide treatment to 80% of all people diagnosed with hepatitis.
+Hepatitis C can be cured; however, only 21% of people living with hepatitis C infection are diagnosed and only 13% have received curative treatment.
+Gavi’s recent restart of its Vaccine Investment Strategy 2018 – which includes the birth dose hepatitis B vaccine – will jumpstart newborn vaccination programmes in west and central Africa, where mother-to-child hepatitis B transmission rates remain very high.
+For people who want to maintain liver health, WHO recommends hepatitis testing, treatment if diagnosed, and vaccination against hepatitis B. Reducing alcohol consumption, achieving a healthy weight, and managing diabetes or hypertension also benefit liver health.
+
+---
+
+Summary for language=ha:
+Hukumar Lafiya ta Duniya ta ƙaddamar da Mutum Ɗaya Hanta ɗaya, kamfen na rana ɗaya a kan Ranar Hepatitis Ta Duniya Don alamta Ranar Hepatitis ta Duniya, Hukumar Lafiya ta Duniya tana kira kan gwadawa da magance fitacciyar hepatitis, ana jan kunne a kan yadda cutar za ta iya kisa fiye da malaria, tarin tibi, da HIV idan aka haɗa su a 2040, matuƙar aka cigaba da yayin cutar da ake yi yanzu ya cigaba.
+Don taimakawa wurin kawar da kamuwar cuta daga uwa zuwa ɗanta, Hukumar Lafiya ta Duniya tana shawartar cewa duk mata masu juna-biyu su yi gwajin hepatitis B yayin da suke da ciki.
+Hukumar Lafiya ta Duniya tana shawartar amfani da damar raguwa a farashin magunguna da ya ɗaga nasarar da ake samu wurin faɗaɗa magancw cutar.
+
+---
+
+Summary for language=sw:
+Kati ya aina 5 za maambukizo ya Homa ya Ini, Hepatitis B na C husababisha magonjwa mengi na vifo.
+Hata hivyo, nchi nyingi barani Afrika hazina ufikiaji wa Dozi ya kuzaliwa ya chanjo ya Homa ya Ini B. Gavi kuanza upya kwa mkakati wake wa uwekezaji wa chanjo 2018 - ambao unajumuisha Dozi ya kuzaliwa ya chanjo ya hepatitis B - kutaanza programu za chanjo ya watoto wachanga Afrika Magharibi na kati, ambapo viwango vya maambukizi ya hepatitis B kutoka kwa mama kwenda kwa mtoto vinasalia juu sana.
+WHO inatetea kutumia fursa ya kupunguzwa kwa bei ya dawa ili kuharakisha maendeleo katika kupanua matibabu.
+
+---
+
+Summary for language=yo:
+"WHO ní àfọkànsìn láti ṣe àtìlẹ́yìn fún àwọn orílẹ̀-èdè láti mú ìtẹ̀síwájú bá lílo àwọn irinṣẹ́ wọ̀nyẹn, tó fi mọ́ àlékún fífún àwọn ènìyàn ní oògùn tí ò ga ju ara lọ, láti dóólà ẹ̀mí àti láti fòpin sí ààrùn jẹ̀dọ̀jẹ̀dọ̀."
+Láti mú àdínkù bá àkóràn àti ikú tuntun látara ààrùn jẹ̀dọ̀jẹ̀dọ̀ B àti C, àwọn orílẹ̀-èdè gbọ́dọ̀: ṣe àrídájú ànfààní sí ìtọ́jú fún gbogbo àwọn obìnrin tí wọ́n ní ààrùn jẹ̀dọ̀jẹ̀dọ̀ B, pèsè àjẹsára ààrùn jẹ̀dọ̀jẹ̀dọ̀ B fún gbogbo àwọn ọmọ wọn nígbà ìbí, ṣe àyẹ̀wò 90% àwọn ènìyàn tí wọ́n ní ààrùn jẹ̀dọ̀jẹ̀dọ̀ B àti/tàbí ààrùn jẹ̀dọ̀jẹ̀dọ̀ C, kí wọ́n sì pèsè ìtọ́jú fún 80% àwọn ènìyàn tí wọ́n ní ààrùn jẹ̀dọ̀jẹ̀dọ̀.
+Ìjábọ̀ náà tún fi hàn pé nínú àwọn orílẹ̀-èdè 103 tí wọ́n jábọ̀, 80% ní òfin láti ṣe àyẹ̀wò àti láti ṣàmójútó ààrùn jẹ̀dọ̀jẹ̀dọ̀ B ní ilé ìtọ́jú KASA, tí 65% yóò sì ṣe bẹ́ẹ̀ fún ààrùn jẹ̀dọ̀jẹ̀dọ̀ C. Àlékún àyẹ̀wò ààrùn jẹ̀dọ̀jẹ̀dọ̀ àti ìtọ́jú láàrín àwọn ètò KASA máa dáàbò bo àwọn ènìyàn tí wọ́n ní KASA látara ìdagbàsókè jẹjẹrẹ ẹ̀dọ̀ àti jẹjẹrẹ ẹ̀dọ̀.
+
+---
+
+Summary for language=zu:
+Isifo sesibindi C singalapheka kepha u-21% kuphela wabantu abaphila nokutheleleka kwesifo sesibindi C futhi baxilongwa futhi bangu-13% asebethole ukwelashwa balapheka.
+Ukwehlisa ukutheleleka okusha nokufa kwesifo sesibindi B no-C amazwe kumele: aqinisekise ukuthola ukwelashwa kubona bonke abantu besifazane abakhulelwe abaphila nesifo sesibindi B nikeza imigomo yesifo sesifuba B ezinganeni zabo zizelwe,xilonga ngaphezu kuka 90% wabantu abaphila nesifo sesibindi B noma isifo sesibindi C futhi unikeze ukwelashwa ku 80% kubona bonke abantu abatholakale nesifo sesibindi.
+Ngemva kweminyaka yokunyusa amazinga okwelapha,ukwenyuka kwenamba yabantu abathola ukwelashwa basinde kwesifo sesibindi C kuyehla.
+
+---
+
+Summary for language=am:
+"ከ40 አመታት በላይ በመላው አለም ያሉ ሀገራት በአለም ጤና ድርጅት ወሳኝ መድሃኒቶች ዝርዝር ላይ እንደ ቁርጥ ያለ፣ በማስረጃ ላይ የተመሰረተ መመሪያ ፣ አስፈላጊ መድሃኒቶችን ለማግኘት ሲተማመኑበት ቆይተዋል" ሲሉ ዶ/ር ቴዎድሮስ አድሃኖም ገብረእየሱስ ተናገሩ።
+በቀድሞው የኢ ኤም ኤል የባለሙያዎች ኮሚቴ የውሳኔ ሃሳቦች መሰረት ከበርካታ ሀገራት የተውጣጡ ሳይንቲስቶች የእነዚህ መድሃኒቶች ጥምረት የመጀመሪያ እና ሁለተኛ ደረጃ የልብ በሽታ መከላከል ጥቅም እንዳላቸው ለማረጋገጥ ሙከራዎችን አድርገዋል።
+ሌሎች አዳዲስ መረጃዎች ለስኳር በሽታ፣ አሁን ያለው የአዋቂዎችና የህጻናት አስፈላጊ መድሃኒቶች ዝርዝር በቆዳ የሚጣበቅ እና አስቀድመው የተሞሉ የብዕር ማቅረቢያ መንገዶችን አጠቃሏል፤ እነዚህ አማራጮችም በብልቃት እና በመርፌ ከሚሰጠው ኢንሱሊን (የስኳር በሽታ መድሃኒት) ይልቅ ለታካሚዎች አጠቃቀማቸው ቀላል ፣ መጠናቸው ትክክል እና የተሻሻሉ ናቸው።
 
 ---
 
 Summary for language=en:
 WHO endorses landmark public health decisions on Essential Medicines for Multiple Sclerosis New Model Essential List published today reaches a record number of medicines listed Today the World Health Organization (WHO) published the new editions of the Model Lists of Essential Medicines (EML) and Essential Medicines for Children (EMLc) which include important new medicines for the treatment of multiple sclerosis, cancer, infectious diseases, and cardiovascular conditions, among others.
+“For over 40 years, countries all over world have relied on the WHO Essential Medicines List as a definitive, evidence-based guide the most important medicines for delivering the biggest health impact,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General.
+Until now, no medicines for its treatment have been included on the EML.
+
+---
+
+Summary for language=ha:
+Cikakken bayanai na shawarwarin Kwamitin Kwararru, da ke bayyana ƙari, sauye-sauye da cire magunguna, da yanke shawarar rashin ba da shawarar magunguna suna cikin Taƙaitaccen bayani a nan.
+Bugu da ƙari, waɗanda ba a ba da shawarar a haɗa su ba sun ƙunshi magunguna da yawa daraja, masu tsada masu tsada saboda damuwa game da araha da yuwuwar cikin yanayin ƙarancin dukiya.
+Muhimman magunguna ga yara - an sabunta su zuwa jeri na magunguna sama da 70 EMLc don tabbatar da ingantattun nau'ikan sashe da inganci na amfani ga yara masu shekaru sama da 12 suka haɗa.
+
+---
+
+Summary for language=sw:
+Kuorodheshwa kwa dawa hizi kama njia za matibabu kwa MS kwa njia tofauti za usimamizi, bei tofauti (pamoja na upatikanaji wa Jenetiki na biosimilars) na matumizi tofauti yanayopendekezwa, inalenga kuwezesha upatikanaji bora wa matibabu kwa watu wanaoishi na MS kote ulimwenguni.
+Kulingana na mapendekezo ya kamati ya wataalamu za EML zilizopita, wanasayansi kutoka nchi nyingi walifanya majaribio muhimukuthibitisha manufaa ya mchanganyiko huu kwa kuzuia magonjwa ya msingi na ya pili ya ugonjwa wa moyo.
+Dawa muhimu kwa watoto - masasisho yaliyofanywa kwa uundaji ulioorodheshwa wa zaidi ya dawa 70 za EMLc ili kuhakikisha fomu zinazofaa za kipimo na nguvu za matumizi kwa watoto walio na umri wa hadi miaka 12 zinajumuishwa.
+
+---
+
+Summary for language=yo:
+Ní ọdún 2023 oògùn mẹ́ta tí ó lè dá ìtẹ̀síwájú rẹ̀ dúró tàbí kí ó lọ́ ọ lára - cladribine, glatitamer acetate àti rituximab - ni wọ́n fi kún EML, tí ó dí àlàfo pàtàkì pẹ̀lú ìṣòro àgbáyé ńlá tí MS ni.
+Àwọn ìsọdọ̀tun mìíràn Àtọ̀gbẹ - àwọn àkójọpọ̀ lọ́wọ́lọ́wọ́ fún oògùn insulin ènìyàn lórí EML àti EMLc ní wọ́n ti fẹ̀ lójú láti ní ètò àgbékalẹ̀ kátíríjì àti gègé tí wọ́n ti rọ kún tẹ́lẹ̀ nítorí àwọn ànfààní wọn tí wọ́n lè ṣe fún àwọn aláìsàn lórí ìbòjú àti abẹ́rẹ́ nípa rírọrùn láti lò, ìwọ̀n tó péye dáadáa àti àyípadà ìtẹ̀lé.
+Àkójọpọ̀ Àwòṣe náà ni wọ́n ń sọ dọ̀tun ní ọdún méjì-méjì láti ọ̀dọ̀ Ìgbìmọ̀ Àwọn Akọ́ṣẹ́mọṣẹ́ kan, níbi tí a ti rí àwọn alámọ̀já tó gbajúmọ̀ láti ilé ẹ̀kọ́, ìwádìí àti iṣẹ́ ìlera àti ìṣègùn, láti yanjú àwọn ìpèníjà tuntun, mú ìtọ́jú ìlera tó ń ṣiṣẹ́ gidi gan-an ní ọ̀kùkúdùn kí wọ́n sì mú àyípadà bá nínú ànfààní tó rọjú.
+
+---
+
+Summary for language=zu:
+Ngokubuyekezwa kuka-2023, ukufakwa kwezicelo ezingu-83 okubandakanya ngaphezu kwekhulu lemithi nokwakhiwa, kwacatshangwa yiKomidi loNgoti leWHO ekuKhetheni nokusebenzisa Imithi eBalulekile.
+Ngokweziphakamiso yiKomidi loNgoti le-EML yesikhathi esidlule,ososayensi bamazwe amaningi abenze imizuliswano yokuqinisekisa ukuzuza kwalezzinhlanganiso kwakokubili okokuqala nokwesibili kokuvikela isifo senhliziyo.
+Imodel Lists iyabuyekezwa ngemva kweminyaka emibili yiKomidi loNgoti, lwenziwe ongoti abahloniphekile kwezemfundo, ucwaningo nezekulapha nosolwazi kwezokulapha ukubhekana nezingqinamba ezintsha zezempilo, ukuhambisa phambili kokwenza kahle ukulapha nokuthuthukisa ukungena okukhonekayo.
+
+---
+
+Summary for language=am:
+የአለም ጤና ድርጅት አባል ሃገራት በግንቦት ወር 2024 እ.ኤ.አ. የስራቸውን ውጤት ለአለም ጤና ጉባኤ ለማቅረብ በማሰብ የወረርሽኝ መከላከል፤ ዝግጁነት እና ምላሽ ላይ ውይይታቸውን ቀጥለዋል።
+” ረዳት ሊቀመንበሩ ሮላንድ ድሪስ እንዲህ ብለዋል፡- “በአይ ኤን ቢ ቢሮ እና በራሴ ስም፤ ለአስተባባሪዎቹ ታታሪነት እና ተጨማሪ ጊዜ እና ጉልበት ለሚሰጡ ሁሉም አባል ሀገራት ልባዊ አድናቆት ማሳየት እፈልጋለሁ።
+ተሳታፊዎች በሁለቱ ሂደቶች እና መሳሪያዎች መካከል ያለውን ግንኙነት እና ቁልፍ ትርጓሜዎችን በተመለከተ አስተያየት እንዲለዋወጡ ተጋብዘዋል።
 
 ---
 
 Summary for language=en:
-Key issues are being discussed intensely and I highly appreciate the willingness of the Member States in the conference room to find solutions.” In addition, the first joint plenary meeting of the INB and the Working Group on Amendments to the International Health Regulations (WGIHR) was held on the afternoon of 21 July and morning of 24 July, and was publicly webcast.
+The Bureau’s text of the WHO CA+ was discussed 17-21 July during the sixth meeting of the Intergovernmental Negotiating Body (INB) to draft and negotiate an international instrument to strengthen pandemic prevention, preparedness and response.
+Co-Chair Precious Matsoso said: “We have a window of opportunity between now and the beginning of next year to make progress, the clock is ticking.
+We have reached a critical juncture where we need to narrow the gaps between the ways we look at some of the key issues, and it will take our collective efforts to take the next steps.” Mr Taguchi, the outgoing INB Bureau Member from the WPRO Region, added, “I am honoured to have served as Vice Chair and would like to thank the Member States and all for their support.
+
+---
+
+Summary for language=ha:
+Shugaban kungiyar Precious Matsoso ya ce: "Muna da taga dama daga yanzu zuwa farkon shekara mai zuwa don samun ci gaba, lokaci ya ƙure.
+A wannan taron haɗin gwiwa, babban daraktan hukumar ta Hukumar Lafiya ta Duniya ya gode wa mahalarta taron bisa jajircewarsu kan wadannan matakai masu ɗimbin tarihi da muhimmanci, ya kuma jaddada muhimmancin wannan aiki na haɗa kan duniya baki ɗaya.
+Hukumar INB da WGIHR za su shirya taƙaitaccen sakamakon tattaunawar a lokacin taro na haɗin gwiwa, wanda za a rarraba zuwa ga dukkan membobin ƙasashe.
+
+---
+
+Summary for language=sw:
+Ili kufikia hili, nina himiza nchi wanachama kushiriki katika kipindi cha mkutano.
+Masuala muhimu yanajadiliwa kwa kina na nina shukuru sana utayari wa nchi wanachama katika chumba cha mkutano kutafuta majibu".
+Washiriki walialikwa ili kubadilishana mawazo juu ya uhusiano kati ya michakato miwili na vyombo, na ufafanuzi muhimu, ikiwemo kuhusiana na dharura ya afya ya umma ya wasiwasi wa kimataifa na majanga.
+
+---
+
+Summary for language=yo:
+Àwọn Orílẹ̀-èdè tó jẹ́ Ọmọ Ẹgbẹ́ tẹ̀síwájú láti ṣiṣẹ́ lórí ìṣọ̀kan àjàkálẹ̀ ààrùn tó ṣeéṣe Àwọn Orílẹ̀-èdè tó jẹ́ Ọmọ Ẹgbẹ́ Àjọ Elétò Ìlera Lágbàyé (WHO) tẹ̀síwájú ìjíròrò wọn lórí ìṣọ̀kan àgbáyé lórí ìdènà àjàkálẹ̀ ààrùn, ìmúrasílẹ̀ àti ìdáhùn, pẹ̀lú àfojúsùn láti ṣe àgbékalẹ̀ àbájáde iṣẹ́ wọn fún Àpérò Ìlera Lágbàyé ní oṣù Èbìbí ọdún 2024.
+Àtẹ̀jíṣẹ́ ilé-iṣẹ́ WHO náà CA+ ni wọ́n jíròrò nípa ẹ̀ 17-21 lásìkò ìpàdé kẹfà Ẹgbẹ́ Ìdúnàdúrà Ìjọba-sí-ìjọba (INB) láti ṣe àkọsílẹ̀ kí wọ́n sì dúnàdúrà àwọn irinṣẹ́ ilẹ̀ òkèèrè láti ró ìdènà àjàkálẹ̀ ààrùn náà lágbára, ìmúrasílẹ̀ àti ìdáhùn.
+A ti dé ìkóríta tó lágbára níbi tí a ti nílò láti dí àwọn àlàfo láàrín àwọn ọ̀nà tí à ń gbà wo díẹ̀ lára àwọn ìṣẹ̀lẹ̀ pàtàkì, yóò sì gba ìgbìyànjú àjùmọ̀ṣe wa láti gbé ìgbésẹ̀ tó kàn."
+
+---
+
+Summary for language=zu:
+Ukufika kulokhu, ngigqugquzela iMember States ukuthi iqhubeke ixoxe ngesikhathi saphakathi namaseshini.
+Lesi sivumelwano singonga izigidi zabantu kuntsholongwane yekusasa nokuvikela izimpilo zabo.
+Emhlanganweni uMqondisi-oMkhulu weWHO ubonge ababambe iqhaza ngokuzimisela kwabo kulezizinhlelo zomlando futhi ezibalulekile,nokubaluleka kwalomsebenzi ukuhlanganisa umhlaba ndawonye nokuphepha.
+
+---
+
+Summary for language=am:
+በሁሉም የዕድሜ ክልሎች ውስጥ ከ1-4 አመት እና ከ5-9 አመት እድሜ ያላቸው ህጻናት ከፍተኛውን የመስጠም መጠን ያጋጥማቸዋል።
+ይህም የወደፊት ትውልዶችን ለመጠበቅ አፋጣኝ እርምጃ መውሰድ አስፈላጊ መሆኑን ያሳያል።
+ህብረቱ በአለም ጤና ድርጅት ቅድሚያ ከሚሰጣቸው ጉዳዮች ጋር በማጣጣም፤ በመስጠም የሚመጣ ሞትን ለመከላከል ጥረቶችን ለማስተባበር፣ ለማጠናከር፣ ለማሻሻል እና ለማስፋት የሚሰሩ የአጋሮች መረብ ነው።
 
 ---
 
 Summary for language=en:
+Each dollar invested in these actions can yield benefits up to nine times the original value.
+It has caused over 2.5 million deaths in the last decade, with an alarming 90% of these fatalities occurring in low- and middle-income countries.
 Now, by bringing together governments and partners from around the world, we can help spread this work and save many more lives.” WHO is also preparing a global status report on drowning prevention to better understand the impact of drowning and analyze government actions worldwide.
 
 ---
 
-Summary for language=en:
-A new product on the Diagnostics Landscape for Sexually Transmitted Infections highlights diagnostics available to support scale-up of screening for syphilis, chlamydia, gonorrhoea, trichomoniasis, mycoplasma, herpes, and human papillomavirus (HPV) to meet the growing test demands in low-and-middle income countries.
+Summary for language=ha:
+Ya yi sanadiyar mutuwar mutane sama da miliyan 2.5 a cikin shekaru goma da suka gabata, tare da firgita kashi 90% na wadannan mace-mace da ke faruwa a ƙasashe masu karamin karfi da matsakaita.
+A cikin kowane rukuni na shekaru, yara masu shekaru 1-4 shekaru da 5-9 suna fuskantar mafi girman adadin farfaɗiya, yana nuna buƙatar ɗaukar matakin gaggawa don kare al'ummomi masu zuwa.
+Hukumar Lafiya ta Duniya kuma na shirya rahoto na matsayin duniya kan rigakafin farfaɗiya don ƙarin fahimtar tasirin farfadiya da kuma nazarin ayyukan gwamnati a duniya.
+
+---
+
+Summary for language=sw:
+Kisa kipya cha uwekezaji kinaonyesha kuwa ifikapo mwaka 2050, ongezeko la uwekezaji Duniani katika hatua mbili pekee linaweza kuokoa maisha ya zaidi ya watoto 774,000, kuzuia karibu watoto milioni 1 kuzama majini, na kuepusha majeraha mabaya na ya kupunguza maisha kwa waraibu 178,000 wanaozama.
+Azimio hili linaitaka WHO kuongoza juhudi ndani ya mfumo wa umoja wa mataifa kuzuia kuzama na kuwezesha maadhimisho ya siku ya kuzuia kuzama Duniani tarehe 25 Julai kila mwaka.
+Muungano ni mtandao wa washirika ambao watafanya kazi pamoja kuratibu, kuimarisha, na kupanua juhudi za kuzuia vifo vya kuzama, kulingana na vipaumbele vya WHO.
+
+---
+
+Summary for language=yo:
+Síbẹ̀ àwọn ọ̀nà àbáyọ tó ń ṣiṣẹ́ wà.
+Ó tún lè dènà àdánù ọrọ̀-ajétó tó US$400 bílíọ̀nù to ṣeéṣe ní àwọn orílẹ̀-èdè tí ìpawówọlé wọn kéré àti agbede-méjì pẹ̀lú ìṣòro ńlá, tí yóò sì pèsè àpapọ̀ ànfààní tí iye rẹ̀ tó US$ 9 fún US$ 1 tí wọ́n bá ná.
+Ìṣọ̀kan náà jẹ́ àtagbà àwọn alájọṣepọ̀ tí wọn yóò ṣiṣẹ́ papọ̀ láti darí, ró lágbára, ṣe àtìlẹ́yìn, àti láti fẹ ìgbìyànjú láti dènà àwọn ikú rírì lójú, wà ní ìṣọ̀kan pẹ̀lú àwọn nǹkan pàtàkì WHO.
+
+---
+
+Summary for language=zu:
+I-WHO icela amazwe ukuthi itshale ekucwileni kokuvikela ukuvikela izingane Osukwini lokuVikela ukuMinza eMhlabeni kulonyaka, iWHO izokhipha indaba yotshalomali yokuvikela ukuminza ngokukhombisa ukwenza okubili-ukutshala ekunakekelweni kosuku enkulisa kwezingane nokufundisa amakhono okubhukuda ezinganeni ezisafunda-kungavikela izimpilo eziningi.
+Kuyona yonke iminyaka, izingane ezineminyaka 1-4 no-5-9 yizona ezinezinga eliphezulu lokuminza, okuveza isidingo sokungenelela ngokushesha ukuze kuvikelwe isizukulwane sakusasa.
+Kungaphinde kuvikele amandla okulahlekelwa kwezomnotho okungaphezu kwezigidigidi ezingu-US$400 emazweni anemali engenayo encane kuya kwephakathi nendawo anomthwalo omkhulu nokunikeza izinzuzo zosekuqoqiwe eziyinani elilinganiselwa ku-US$9 ngakodwa US$1 okutshaliwe.
+
+---
+
+Summary for language=am:
+በጉባኤው፣ የአለም ጤና ድርጅት ስለወቅታዊ የአባላዘር በሽታ ምርምር ግኝቶች እና ስለ ጨብጥ መድሃኒቶች ይወያያል።
+ሆኖም፣ ዝቅተኛ እና መካከለኛ ገቢ ባላቸው አገሮች ውስጥ የአዳዲስ የአባላዘር በሽታዎችን ሁኔታ መከታተል እና መረዳት እንዲሁም የመመርመሪያ ሙከራዎችን ማግኘት አስቸጋሪ ነው።
+ሆኖም፣ በአገሮች መካከል በኢንቨስትመንት፣ በብስለት እና በአባላዘር በሽታ ክትትል ስርአቶች አፈጻጸም ላይ ያለው ትልቅ ልዩነት ፈታኝ ሆኖ ቀጥሏል።
 
 ---
 
 Summary for language=en:
-Here is an overview of other key scientific and normative updates being released by WHO at IAS 2023 conference: HIV and mpox An analysis of global surveillance data reported to WHO during the multi-country outbreak of mpox, identified that among more than 82 000 mpox cases, around 32 000 cases had information on HIV status.
+STIs on the rise globally During the COVID-19 pandemic, many countries had reported low coverage for prevention, testing and treatment services for STIs, which has led to a resurgence of STIs globally.
+Syphilis, as well as congenital syphilis, are on the rise, and the lack of benzathine penicillin poses a considerable challenge to effectively treat them.
+“Our new guidance can help make low-cost point of care tests for STIs more accessible, enabling improved data collection and quality delivery of STI services for people in need”.
+
+---
+
+Summary for language=ha:
+A taron, Hukumar Lafiya ta Duniya za ta kuma tattauna sabon tsarin bincike na STI da maganin rigakafi (AMR) a cikin cutar gonorrhea.
+Syphilis, da kuma ciwon huhu, na karuwa, kuma rashin maganin benzathine penicillin yana haifar da babban kalubale don magance su yadda ya kamata.
+Sabuwar jagorar Hukumar Lafiya ta Duniya akan gwaji da bincike na ɗakin gwaje-gwaje A kowace rana, sama da sabbin cututtukan da ake kamuwa da su ta hanyar jima'i (STIs) sama da miliyan 1, ke haifar da babban kalubale na kiwon lafiya a duniya.
+
+---
+
+Summary for language=sw:
+Kaswende, pamoja na Kaswende ya kuzaliwa nayo, inaongezeka, na ukosefu wa penicillin ya benzathine huleta changamoto kubwa ya kuwatibu kwa ufanisi.
+Kila siku, zaidi ya maambukizi mapya milioni 1 ya magonjwa ya zinaa (STIs) hupatikana, jambo linaloleta changamoto kubwa ya afya Duniani.
+Hata hivyo, ufuatiliaji wa kuelewa muelekeo wa magonjwa mapya ya zinaa katika nchi nza kipato cha chini na cha kati (LMIc) unazuiwa na ufikiaji mdogo wa vipimo vya uchunguzi.
+
+---
+
+Summary for language=yo:
+WHO ṣe àgbékalẹ̀ ìlànà tuntun láti mú àyípadà bá àyẹ̀wò àti àyẹ̀wò fún àwọn àkóràn ààrùn Ìbálòpọ̀ Àjọ Elétò Ìlera Lágbàyé (WHO) ń sọ àwọn ìlànà tuntun rẹ̀ lórí àwọn àkóràn ààrùn Ìbálòpọ̀ (STI) níbi Àpérò Àgbáyé STI & KASA ti ọdún 2023 tó ń wáyé ní Chicago, United States of America, ní 24-27 oṣù Agẹmọ ọdún 2023.
+Síbẹ̀síbẹ̀, àmójútó àti nínú òye ìṣẹ̀lẹ̀ àwọn STI tuntun ní àwọn orílẹ̀-èdè tí ìpawówọlé wọn kéré àti agbede-méjì ń rí ìdènà pẹ̀lú àìní ànfààní tó tó sí àwọn àyẹ̀wò fún ààrùn.
+"Ìlànà tuntun wa lè ṣe ìrànwọ́ láti sọ àwọn àyẹ̀wò ibùdó ìtọ́jú olówó pọ́ọ́kú fún àwọn STI ṣe é lò lọ́pọ̀, tí yóò fi ààyè gba àyípadà dátà gbígbà àti ṣíṣe àgbékalẹ̀ ìtọ́jú STI tó jẹ́ ojúlówó fún àwọn ènìyàn tó nílò rẹ̀.
+
+---
+
+Summary for language=zu:
+Ukuvumbuka kokuthelelana okusha,njengepokisi nokuvumbuka futhi kwamaSTI ezinganakiwe kuletha ingqinamba yokuvikela nokulawula imizamo.
+Uma sishiywa singalasiwe, amaSTI athile angaholela kiwimuphela engalungiseki futhi amanye angaholela ekufeni," kusho uDkt Teodora Wi, uMholi wezifo ezithelelana ngokocansi weWHO Global HIV, isifo sesibindi nezinhlelo zamaSTI.
+Indawo yokuhlolelwa ukunakekela kungehlisa ukubiza kokunakekelwa kwezempilo, kwehlise izikhathi zokulinda,kusheshise ukuqala kunyuse nokulapha okuyikho futhi kuthuthukise ukulandelela kweziguli.
+
+---
+
+Summary for language=am:
+ዛሬ የወጣው አዲሱ የዓለም ጤና ድርጅት መመሪያ እና ስልታዊ ግምገማ ከቫይረሱ ጋር ለሚኖሩ ሰዎች በደማቸው የሚገኘውን ኤችአይቪ ቫይረስ መጠን መቀነስ እና በምርመራ የማይገኝ ደረጃ ማድረስ፤ የግለሰብን ጤና ለማሻሻል እና የኤችአይቪ ስርጭትን ለማስቆም ያለውን ሚና ይገልፃሉ።
+ኤች አይ ቪ በደማቸው የሌላቸው ሰዎች፤ በኮቪድ 19 የመሞት አደጋ ኦሚክሮን በሚባለው የኮቪድ 19 አይነት ጊዜ ከቅድመ-ዴልታ እና ዴልታ አይነቶች ጋር ሲነጻጸር በ53%-55% ቀንሷል።
+"ከቁጥጥር ውጭ የሆነ ኤችአይቪ ቫይረስ መጠን ለደካማ ውጤቶች እነዚህም በኤም ፖክስ ወረርሽኝ እንዲሁም በኮቪድ-19 ወረርሽኝ የመሞት አደጋ ያመጣል" ሲሉ የዓለም ጤና ድርጅት የኤችአይቪ፣ ሄፓታይተስ እና በጾታዊ ግንኙነት የሚተላለፉ ኢንፌክሽኖች ፕሮግራሞች ዳይሬክተር የሆኑት ዶ/ር ሜግ ዶሄርቲ ተናግረዋል።
 
 ---
 
 Summary for language=en:
-The partnership aims to strengthen Africa’s health security capabilities in the areas of biosecurity, integrated disease surveillance, event-based surveillance, genomic surveillance, and epidemic intelligence.
+New WHO guidance and an accompanying Lancet systematic review released today describe the role of HIV viral suppression and undetectable levels of virus in both improving individual health and halting onward HIV transmission.
+HIV and COVID-19 An updated analysis from WHO global clinical platform for COVID-19 up through May 2023 revealed a persistent high risk of death in people living with HIV hospitalized for COVID-19 across pre-Delta, Delta and Omicron variant waves, with an overall in-hospital mortality rate of 20%-24%.
+Optimizing HIV testing services through expanded testing options and simplified service delivery With new recommendations on HIV testing, WHO is calling on countries to expand use of HIV self-testing and promote testing through sexual and social networks to increase testing coverage and strengthen uptake of HIV prevention and treatment services in high-burden settings and in regions with the greatest gaps in testing coverage.
+
+---
+
+Summary for language=ha:
+Kusan kaso 51 cikin ɗari sun canja halayensu na jima'i (kamar rage yawan abokan jima'i), kuma kaso 35 cikin ɗari sun ci gaba da waɗannan canje-canje bayan shekara guda.
+Wannan bambanci ya haifar da haɗarin mutuwa sau 142 a tsakanin mutanen da ke fama da cutar HIV idan aka kwatanta da mutanen da ba su da cutar HIV a lokacin tasowar Omicron.
+Kiwon lafiya a matakin farko da kuma sabon jadawalin tsarin manufar HIVA a kan kula da kiwon lafiya a matakin farko (PHC) da kuma HIV za su taimaka wa mahukunta wajen inganta aiki da haɗin gwiwar da ke gudana don ci gaba da bunƙasa kula da kiwon lafiya a matakin farko da kuma amsoshin da suka shafi cututtuka, haɗi da HIV.
+
+---
+
+Summary for language=sw:
+Muongozo mpya wa WHO na mapitio ya kimfumo yanayoambatana na Lancet iliyotolewa leo unaelezea dhima ya ukandamizaji wa virusi vya UKIMWI na viwango visivyoweza kutambulika vya virusi katika kuboresha afya ya mtu binafsi na kusitisha maambukizi ya VVU.
+Hii inamaanisha kwamba kwa wale waliofubazwa na virusi afya zao zinalindwa vyema na hawapo katika hatari ya kuambukiza VVU kwa watu wengine.
+Mkutano huu unafanyika kila baada ya miaka miwili unatoa maendeleo muhimu katika utafiti wa kimsingi, wa kimatibabu na uendeshaji wa VVU ambao unaisogeza sayansi katika sera na vitendo.
+
+---
+
+Summary for language=yo:
+Nínú àwọn 16 000 ènìyàn tí wọ́n kẹ́fín ààrùn ìgbóná lára wọn tí wọ́n sì ní KASA, bíi ìdá kan nínú mẹ́rin (25%) ni wọ́n ní ààrùn KASA tó le tàbí apa sójà ara - tó sì ń yọrí sí àlékún ewu wíwà nílé ìwòsàn àti ikú.
+Ní ìbámu pẹ̀lú àwọn àwárí wọ̀nyìí, WHO dábàá pé kí àwọn orílẹ̀-èdè ó ṣàmúlò wíwá ààrùn ìgbóná, ìdènà, àti ìtọ́jú pẹ̀lú àwọn ètò àkóso àti ìdènà KASA àti ààrùn ìbálòpọ̀ tó ti wà nílẹ̀ tẹ́lẹ̀ àti ìmọ̀ ọ̀tun.
+Pẹ̀lú àwọn àbá tuntun lórí àyẹ̀wo KASA, WHO ń ké sí àwọn orílẹ̀-èdè láti fẹ lílo àwọn àyẹ̀wò-àdáṣe KASA lójú kí wọ́n sì ṣe àtìlẹ́yìn fún àyẹ̀wò nípasẹ̀ àwọn ojú-òpóìbálòpọ̀ àti àwùjọ láti mú àlékún bá àwùjọ àyẹ̀wò kí wọ́n sì ṣe ìrólágbára fún lílò ìdènà KASA àti àwọn ìpèsè iṣẹ́ ìtọ́jú ní àwọn agbègbè ọlọ́pọ̀-ewu àti ní àwọn ẹkùn agbègbè tó ní àlàfo tó pọ̀ nínú kíkárí àyẹ̀wò.
+
+---
+
+Summary for language=zu:
+Ingxubekwelapha ye-Antiretroviral iyaqhubeka nokuguqula izimpilo zabantu abaphila neHIV.
+Ngesikhathi kunokuqhubeka okuhle kubantu abadala abaphila neHIV ukwehliswa kwezinga legciwane ezinganeni eziphila neHIV kungu-46% - okuseqinisweni kudinga ukunakwa okuphuthumayo.
+Le nkomfa yeminyaka emibili yethula ukuphucuzeka okubucayi kokuyisisekelo,okokwelapha nokusebenza kocwaningo lweHIV okunyakazisa isayensi kunqubomgomo nokwenza.
+
+---
+
+Summary for language=am:
+አፍሪካ ሲዲሲ፣ የዓለም ጤና ድርጅት እና አር ኬ አይ በአፍሪካ የበሽታዎችን ክትትል እና ወረርሽኝ መረጃን ለማጠናከር የጤና ጥበቃ አጋርነት ዛሬ ጀመሩ።
+“በዚህ አጋርነት የዓለም ጤና ድርጅት በአፍሪካ ለበለጠ ውጤታማነት በባለድርሻ አካላት፣ በዘርፉ እና በድንበር ለማጠናከር ከአባል ሀገራት ጋር ለመስራት ቁርጠኛ ነው።
+የጤና ጥበቃ በአፍሪካ ውስጥ ለበሽታ ቁጥጥር እና ለወረርሽኝ ልህቀት አቅምን እና ችሎታን መገንባት እና ማቀናጀትን በማፋጠን ረገድ ትልቅ ሚና ይጫወታል።
 
 ---
 
 Summary for language=en:
+The partnership seeks to encourage strong country leadership.
+The COVID-19 pandemic highlighted the critical role of the public health laboratory in surveillance as well as the necessity for advancements in data collection, management, reporting, and dissemination to ensure evidence-based policy making during health security emergencies.
+The Health Security Partnership in Africa will contribute to the overall collaborative framework by delivering concrete results in the areas of emergency preparedness and response, surveillance and laboratory capabilities, and help protect the health of people in Africa through a better coordinated and more resilient health system.
+
+---
+
+Summary for language=ha:
+Afirka CDC, Hukumar Lafiya Ta Duniya da RKI Sun Ƙaddamar Da Haɗin Kan Lafiya Don Ƙarfafa Kula da Cututtuka a Afirka Cibiyoyin Kula da Cututtuka da Rigakafin Cututtuka na Afirka (Afirka CDC), Hukumar Lafiya ta Duniya (WHO) da Cibiyar Robert Koch (RKI) a yau sun ƙaddamar da Haɗin gwiwar Tsaro na Lafiya don ƙarfafa Kula da Cututtuka da leƙen asirin Annobar a Afirka.
+Haɗin gwiwar yana da niyyar ƙarfafa lafiyar tsaron Afirka a fannoni na tsaron rayuwa, haɗaɗɗiyar kulawa kan cututtuka, saka idanu kan abubuwan da suka faru, da kula da ƙwayoyin halitta na gado, da leƙen asirin annoba.
+An sami ci gaba mai mahimmanci a cikin sa ido kan cututtuka a duk faɗin Afirka a cikin shekaru goma da suka gabata, amma yana da muhimmanci a lura cewa hakan na fuskantar ƙarin ɓarkewar cututtuka da sauran taimakon lafiya na gaggawa fiye da wasu, wanda da yawa daga cikin su ana iya kare kamuwa da su ko sarrafa su tare da tabbatar da shiga sha'anin lafiyar jama'a.
+
+---
+
+Summary for language=sw:
+Africa CDC, WHO, na RKI zazindua ushirikiano wa usalama wa afya ili kuimarisha ufuatiliaji wa magonjwa barani Afrika Vituo vya Afrika vya kudhibiti na kuzuia magonjwa (Africa CDC), Shirika la afya Duniani (WHO) na Taasisi ya Robert Koch (RKI) leo wamezindua ushirikiano wa usalama wa afya ili kuimarisha uchunguzi wa magonjwa na ufuatiliaji wa mlipuko wa magonjwa barani Afrika.
+Maendeleo makubwa yamepatikana katika ufuatiliaji wa magonjwa barani Afrika katika kipindi cha muongo mmoja uliopita, lakini inafaa kufahamu kwamba inakumbwa na milipuko mingi na dharura nyingi za kiafya kuliko nyinginezo, nyingi zikiwa zinaweza kuzuilika au kudhibitiwa na afua zilizothibitishwa za afya ya umma.
+Ushirikiano wa usalama wa afya barani Afrika utachangia katika mfumo wa ushirikiano wa jumla kwa kutoa matokeo madhubuti katika maeneo ya maandalizi na majibu ya dharura, uchunguzi na uwezo wa maabara, na kusaidia kulinda afya ya watu barani Afrika kupitia mfumo bora wa afya ulioratibiwa na thabiti zaidi.
+
+---
+
+Summary for language=yo:
+Africa CDC, WHO àti RKI ṣe ìfilọ́lẹ̀ Àjọṣepọ̀ Ààbò Ìlera láti Ṣe Ìrónilágbára fún Ẹ̀sọ́ Ààrùn ní Ilẹ̀ Adúláwọ̀ Ààyè fún Ìdarí àti Ìdènà Ààrùn nílẹ̀ Adúláwọ̀ (Africa CDC), Àjọ Elétò Ìlera Lágbàyé (WHO) àti ilé-iṣẹ́ Robert Koch (RKI) lónì ṣe ìfilọ́lẹ̀ Àjọṣepọ̀ Ààbò Ìlera láti Ṣe Ìrónilágbára fún Ẹ̀sọ́ Ààrùn àti Ìmọ̀ Ìjìnlẹ̀ Àjàkálẹ̀ Ààrùn ní Ilẹ̀ Adúláwọ̀.
+Àjọṣepọ̀ náà gbèrò láti ṣe ìrónilágbára fún ìkápá ààbò ìlera ilẹ̀ Adúláwọ̀ ní àwọn ààyè ìdènà kòkòrò ààrùn, ìtọpinpin ààrùn aláfibọ̀, ìtọpinpin ajẹmọ́-ìṣẹ̀lẹ̀, ìtọpinpin apó ẹ̀yọ́-ìran, àti ìmọ̀ ìjìnlẹ̀ àjàkálẹ̀ ààrùn.
+Àjọṣepọ̀ Ààbò Ìlera ní ilẹ̀ Adúláwọ̀ máa dásí àpapọ ìlànà-iṣẹ́ àjọṣe pẹ̀lú ṣíṣe àgbékalẹ̀ àwọn èsì arídìmú ní àwọn agbègbè ìmúrasílẹ̀ fún pàjáwírì àti ìdáhùn, ìkápá ìtọpinpin àti ààyè fún ìmọ̀ ìjìnlẹ̀, yóò sì tún ṣe ìrànlọ́wọ́ láti dáàbò bo ìlera àwọn ènìyàn ní ilẹ̀ Adúláwọ̀ nípasẹ̀ ètò ìlera tó ní ètò tó dára tó sì ní àfaradà dáadáa.
+
+---
+
+Summary for language=zu:
+Ukubambisana kuhlose ukuqinisa amandla ezokuphepha zezempilo e-Afrika ezindaweni zokuphepha kwemvelo, okuhlanganisa ukubhekwa kwezifo,ukubhekwa okuncike emicimbini, ukubhekwa kwezomnotho,nokubheduka kwenkuthalo.
+Ukubambisana kufuna ukugqugquzela ubuholi bezwe obuqinile.
+Ukuxhaswa nguHulumeni weCanada Weapons Threat Reduction Program nokuhambisana nezinjongo zokuphepha kwezempilo kweG7-led Global Partnership okubhekene sokusabalala kwezikhali nezinto Zokwehlisa okukhulu, Ukubambisana kweZokuphepha kweZempilo e-Afrika kusho ukuzibophezela ndawonye nokubambisana kwiphambili lezokuphepha lwezempilo futhi kube indima yosizo ukuqhuba ukwakha nokuhlanganisa ukukwazi nobungoti bokubhekwa kwesifo nobuhlakani bobhubhane ku-Afrika.
+
+---
+
+Summary for language=am:
+በቫይረሱ ላይ የሚደረጉ ማናቸውንም ለውጦች በመለየት ቫይረሱ ሰዎችን ጨምሮ በአጥቢ እንስሳት መካከል በቀላሉ እንዲሰራጭ የሚረዱ ሁኔታዎችን ለመለየት ጥናቶች በመካሄድ ላይ ናቸው።
+በአቻ ግምገማ ከመታተማቸው በፊት፤ ከሰዎች፣ ከእንስሳት ወይም ከአካባቢያቸው የተገኘ የቫይረሶችን የዘረመል መረጃ በፍጥነት ለሕዝብ ተደራሽ በሆኑ የመረጃ ቋቶች ውስጥ ሊያካፍሉ ይገባል።
+በሁሉም ደረጃዎች የኢንፍሉዌንዛ (የመተንፈሻ አካል በሽታ) ወረርሽኝ ዝግጁነት ያረጋግጡ።
+
+---
+
+Summary for language=en:
+"With the information available so far, the virus does not appear to be able to transmit from one person to another easily, but vigilance is needed to identify any evolution in the virus that can change that,” said Dr Sylvie Briand, Director of Epidemic and Pandemic Preparedness and Prevention, WHO.
 “FAO brings attention to the need for vigilance and timely sharing of genetic sequences to monitor the molecular epidemiology for risk assessment and better disease control.” Curbing the spread of avian influenza Given the unprecedented spread of the A(H5N1) avian influenza virus among birds and mammals, and the potential risk to human health, the tripartite partners—FAO, WHO and WOAH—urge countries to take the following actions: Prevent avian influenza at its source, mainly through enhanced biosecurity measures in farms and in poultry value chains, and apply good hygiene practices.
+Conduct epidemiological and virological investigations around animal outbreaks and human infections.
+
+---
+
+Summary for language=ha:
+A 2023, wasu ƙasashe 14 sun ba da rahoton barkewar cutar, musamman a nahiyar Amurka, yayin da cutar ke ci gaba da yaɗuwa.
+Da akwai wani ɗan canji a muhalli da kuma ilimin sanin murar tsuntsaye wanda ya ƙara sa damuwa a duniya kamar yadda cutar ta yaɗu zuwa sababbin yankuna da kuma haifar da mutuwar tsuntsayen daji, da kuma ƙarin masu ɗauke da cutar a dabbobi masu shayarwa a lokuta,in ji Drokta Gregorio Torres, Shugaban Sashen Kimiyya a WOAH.
+Ya kamata a gudanar da jerin kwayoyin halitta a lokaci-lokaci don gano duk wani canje-canje a cikin ƙwayoyin cuta da suka riga sun kasance a yankin ko a gabatar da sababbin ƙwayoyin cuta.
+
+---
+
+Summary for language=sw:
+"WHO inafanya kazi kwa karibu na FAO na WOAH, na mitandao ya maabara kufuatilia mabadiliko ya virusi hivi, kutafuta ishara za mabadiliko yoyote ambayo yanaweza kuwa hatari zaidi kwa wanadamu.
+Hii ni muhimu hasa kwani virusi hivi sasa vinaathiri nchi ambazo hazina uzoefu wa awali katika ufuatiliaji wa mafua ya ndege.
+Kuenea kwa virusi katika mabara matano kunazungumzia haja ya ushirikiano wa kimataifa na tahadhari ili kulinda wanyama, watu na uchumi.
+
+---
+
+Summary for language=yo:
+Ní 2021, kòkòrò ààrùn náà tàn káàkiri North America, bẹ́ẹ̀ sì ni ní 2022, sí Central àti South America.
+Lára àwọn ènìyàn, àwọn wọ̀nyìí ni wọ́n gbọ́dọ̀ mú lọ́kùkúdùn: (I) ìtọpinpin fún àwọn ògidì kòkòrò ọ̀fìnkì líle àti àwọn àìsàn ajẹmọ́-ọ̀fìnkì, (ii) ṣe àgbéyẹ̀wò èyíkéyìí bátánì ẹ̀kọ́ nípa àjàkálẹ̀ ààrùn tó ṣàjòjì, (iii) jíjábọ̀ àwọn àkóràn ènìyàn lábẹ́ Àwọn Òfin Ìlera Ilẹ̀ Òkèrè, àti (iv) sísọ àwọn kòkòrò ààrùn ọ̀fìnkì pẹ̀lú Ètò ìtọpinpin àti Ìdáhùn Ọ̀fìnkì Lágbàyé WHO (GISRS) Àwọn Ààyè Onígbọ̀wọ́ fún Ìtọ́kasí àti Ìwádìí lórí ọ̀fìnkì.
+Wọ́n gbogbo gba àwọn ènìyàn àti àwọn òṣìṣẹ́ ẹranko nímọ́ràn láti sá fún sísún mọ́ àwọn ẹranko aláìsàn àti èyí tó ti kú, àti láti ṣe ìfisùn àwọn wọ̀nyìí fún àwọn aláṣẹ ìlera ẹranko.
+
+---
+
+Summary for language=zu:
+Yize noma ihlasela izilwane kakhulu, lokhu kubheduka okuqhubekayo kuyingcuphe kubantu.
+Ngo-2023 amanye amazwe angu-14 abika ukubheduka ikakhulukazi eMelika, njengoba sasiqhubeka isifo sisabalala.
+"Ucwaningo olwenziwayo lokuhlonza noma iziphi izinguquko ezingasiza igciwane ukuthi lisabalale kumamamali, okubandakanya abantu.
+
+---
+
+Summary for language=am:
+የጉባዔው ዋና ዋና ነጥቦች የሚከተሉትን ያካትታሉ: በሚመጡት ዓለም አቀፍ ማስረጃዎች (Evidence to Policy E2P) ስትራቴጂዎች፣ ማዕቀፎች እና መሳሪያዎች ላይ ውይይት ላይ መሳተፍ።
+ዓለም አቀፍ የፖሊሲ ማስረጃዎች (Evidence to Policy E2P) ስብሰባ ለሁሉም ክፍት ነው።
+ተመራማሪዎች፣ ፖሊሲ አውጭዎች እና በማስረጃ የተደገፈ ፖሊሲ ለማውጣት ቁርጠኛ የሆኑ ግለሰቦች ለዚህ ወደር የሌለው እድል እንዲቀላቀሉን ጥሪያችንን እናቀርባለን።
 
 ---
 
 Summary for language=en:
 World Health Organization (WHO) Global Evidence to Policy (E2P) Summit 2023 Evidence as a catalyst for policy and societal change: building trust and bridging the evidence-to-policy gap “Evidence as a catalyst for policy and societal change: building trust and bridging the evidence-to-policy gap” We invite you to join the virtual WHO Global Evidence to Policy (E2P) Summit 2023 from 29 to 31 August 2023.
+Highlights of the Summit include: Engage in debates on emerging E2P strategies, frameworks, and tools.
+Discover strategies to enhance trust in science and combat misinformation.
+
+---
+
+Summary for language=ha:
+Muna gayyatar ku ku shiga taron yanar gizo na Who Evidence Global Evidence to Policy (E2P) 2023 ta shirya daga 29 zuwa 31 Agusta 2023.
+Samun fahimta daga masu ba da kuɗi na E2P game da fifikon su da tsammaninsu.
+Yi amfani da wuraren sadarwar sadaukarwa don haɗi tare da takwarorinsu, masu ruwa da tsaki, da ƙwararru.
+
+---
+
+Summary for language=sw:
+Mambo muhimu ya mkutano huo ni pamoja na: Kushiriki katika mijadala kuhusu mikakati inayoibukia ya E2P, mifumo na nyenzo.
+Kugundua mikakati ya kuongeza imani katika sayansi na kupambana na taarifa potofu.
+Kutumia nafasi maalumu za mtandao na marafiki, wadau na wataalamu.
+
+---
+
+Summary for language=yo:
+Àpérò Ẹ̀rí Àgbáyé Àjọ Elétò Ìlera Lágbàyé (WHO) sí Òfin (E2P) 2023 Ẹ̀rí gẹ́gẹ́ bí ayáṣẹ́ fún òfin àti àyípadà àwùjọ: ṣíṣe àgbékalẹ̀ ìgbàgbọ́ àti dídí àlàfo ẹ̀rí-sí-òfin "Ẹ̀rí gẹ́gẹ́ bí ayáṣẹ́ fún òfin àti àyípadà àwùjọ: ṣíṣe àgbékalẹ̀ ìgbàgbọ́ àti dídí àlàfo ẹ̀rí-sí-òfin" A fi ìwé pè yín láti darapọ̀ mọ́ Àpérò Ẹ̀rí sí Òfin (E2P) Àgbáyé WHO 2023 orí ayélujára láti 29 sí 31 oṣù Ògún ọdún 2023.
+Ṣàwarí àwọn ìlànà-iṣẹ́ láti mú ìgbàgbọ́ wọ inú ìmọ sáyẹ́nsì àti láti kojú àhesọ ọ̀rọ̀.
+Àpérò E2P Àgbáyé 2023 náà wà fún gbogbo ènìyàn.
+
+---
+
+Summary for language=zu:
+Inhlangano yeZempilo yoMhlaba (WHO) Global Evidence to Policy (E2P) Summit 2023.
+Okuhamba phambili kuSummit kubandakanya: Ukubamba iqhaza kuzinkulumo mpikiswano zokuvela kwamasu e-E2P, imihlahlandlela kanye namathuluzi.
+Ukuthola imicabango kubaxhasi be-E2P kokuhamba phambili nabakulindele.
+
+---
+
+Summary for language=am:
+የአለም ጤና ድርጅት ዶ/ር ቫኔሳ ኬሪ በአየር ንብረት ለውጥ እና ጤና ላይ ለመጀመሪያ ጊዜ ዋና ዳይሬክተር ጄኔራል መልዕክተኛ ሆነው መሾማቸውን በማወጁ ደስ ብሎታል።
+ይህ የአየር ንብረት ለውጥን ከሰው ጤና ጋር በተገናኘ ያለውን ጥልቅ ጠቀሜታ ለማጉላት እንደ ወሳኝ አጋጣሚ ሆኖ ያገለግላል።
+ዶ/ር ኬሪ በአመራርዋ የአለም ጤና ድርጅት ፖሊሲዎችን በመቅረፅ፣ ትብብርን በማጎልበት እና የአየር ንብረት ተግዳሮቶችን በመጋፈጥ የህዝብን ጤና ለመጠበቅ እና ግንዛቤ ለመፍጠር ለሚደረገው እንቅስቃሴ የበኩሏን አስተዋፅኦ ታበረክታለች።
 
 ---
 
 Summary for language=en:
-As the Director-General Special Envoy for Climate Change and Health, Dr Kerry will undertake key responsibilities, including: amplifying WHO's climate and health messaging, disseminating WHO's crucial messages on the significance of climate change and health, influential figures, and policymakers to ignite a widespread understanding and sense of urgency; undertaking high-level advocacy for global impact; supporting WHO’s work and engaging in the work of global and regional organizations and national governments, in line with WHO's expert guidance; fostering the adoption and adaptation of WHO's recommendations, while considering the unique contexts of local, national, and regional circumstances; providing strategic advice to the Director-General and decision-makers, strengthening WHO's position as a trusted and authoritative source of information and support, aligning with WHO's own guidance; and help mobilize resources to advance the work of WHO, seeking out new partners and influential figures, including prominent personalities, recognizing their potential to lend their expertise and resources to amplify WHO's initiatives.
+"I am honoured to serve as the WHO Director-General Special Envoy for Climate Change and Health.
+Through her leadership, Dr Kerry will contribute to WHO's work in shaping policies, fostering collaborations, and driving transformative action to protect and promote the health of populations in the face of climate challenges.
+She has spoken and written about the effects of climate change on human health and health systems and the need to integrate a health-centered response into climate change mitigation and adaptation measures.
+
+---
+
+Summary for language=ha:
+Wannan shekara ce mai girma don samar da canje-canje a tsakanin abin da ya shafi sauyin yanayi da kula da lafiya.
+Saka kiwon lafiya a sahun gaba wajen tattaunawar sauyin yanayi zai taka muhimmiyar rawa wajen samar da haɗin gwiwa da haɗin kai don kare lafiyar wannan al’ummar ta yanzu, da ta gaba.
+Naɗin Dr Kerry a matsayin Darakta-Janar, Jakadiya ta Musamman me kula da Sauyin Yanayi da Harkokin Lafiya na Hukumar Lafiya ta Duniya ya jaddada ƙudirin hukumar na ba da fifiko kan sauyin yanayi da tasirinsa ga lafiyar duniya.
+
+---
+
+Summary for language=sw:
+Nitafanya kazi na WHO na washirika wake kuendeleza uhamasishaji, kuendeleza masuluhisha na kujenga mafanikio ya hatua kwa ajili ya maisha bora baadae kwa kila mtu kwenye sayari hii", alisema Dk Kerry.
+Uteuzi wa Dk Kerry kuwa mkurugenzi mkuu mjumbe maalumu wa WHO wa mabadiliko ya Tabianchi na Afya unasisitiza dhamira ya WHO ya kuweka kipaumbele mabadiliko ya hali ya hewa na athari zake kwa afya ya kimataifa.
+Chini ya uongozi wake, Seed imesaidia kusomesha zaidi ya matabibu, wauguzi na wakunga 34,000 katika nchi saba, na kusaidia kuboresha huduma za afya kwa zaidi ya watu milioni 37.
+
+---
+
+Summary for language=yo:
+Èyí máa dúró gẹ́gẹ́ bí ànfààní pàtàkì láti tẹnu mọ́ ìdí pàtàkì fún kíkojú àyípadà ojú ọjọ́ ní èyí tó níṣe pẹ̀lú ìlera àwọn ènìyàn.
+Nípasẹ̀ ìdarí rẹ̀, Dr Kerry máa dásí iṣẹ́ WHO nínú ìṣelọ́jọ̀ àwọn ìlànà-iṣẹ́, ṣíṣe àtìlẹ́yìn fún àjọṣepọ̀, àti gbígbé ìgbésẹ̀ àyípadà láti dáàbò bò àti láti ṣe àtìlẹ́yìn fún ìlera àwọn ènìyàn ní àkókò ìpèníjà ojú ọjọ́.
+Ó ti sọ̀rọ̀ ó sì ti kọ nípa àwọn ipa àyípadà ojú ọjọ́ lórí ìlera ènìyàn àti àwọn ètò ìlera àti ìdí láti ṣàmúlò ìdáhùn adálórí-ìlera sí ìdènà àyípadà ojú ọjọ́ àti àwọn ìlànà ìbádọ́gba.
+
+---
+
+Summary for language=zu:
+I-WHO iyajabula ukwethula ukuqokwa kukaDkt Vanessa Kerry njengoMqondisi Jikelele wokuqala weSpecial Convoy yezokuguquka kwezulu nezempilo.
+Ukuguquka kwesimo sezulu kuyaqala njengengqinamba enkulu yezempilo lushuminyaka lesi-21, kunomthelela ezintweni eziningi zokuphila komuntu.
+Ngobuholi bakhe, uDkt Kerry uzofaka isandla emsebenzini weWHO wokulungisa izinqubomgomo, ukulondoloza ukubambisana, ukwenza ukuhambisa koguquko ukuze kuvikelwwe futhi kugqugquzelwe ezempilo zesibalo sabantu ebusweni bezingqinamba zesimo sezulu.
+
+---
+
+Summary for language=am:
+በጦርነቱ በተጎዱ አካባቢዎች 67% የሚሆኑ ሆስፒታሎች ተዘግተዋል፣እና በርካታ የወሊድ ሆስፒታሎች ከስራ ውጪ ሲሆኑ ይህም በሱዳን ውስጥ ትልቁ ሪፈራል ሆስፒታል ኦምዱርማን ሆስፒታልን ጨምሮ ነው።
+ዳርፉርን ጨምሮ በተለያዩ ግዛቶች የሚገኙ የጤና ተቋማት ከባድ የህክምና አቅርቦት እጥረት እያጋጠማቸው መሆኑን አስጠንቅቀዋል።
+የዓለም ጤና ድርጅት እና ጤና ጥበቃ ሚኒስቴር እንዲሆም ሌሎች አጋሮች አስፈላጊ የሆኑትን የፆታዊ፣ የስነ ተዋልዶ፣ የእናቶች እና የህፃናት ህክምና እንዲሁም የድንገተኛ ጊዜ የወሊድ እና አዲስ ለተወለደ ልጅ እንክብካቤ ለመስጠት በካርቱም፤ በገዚራ እና በክልሎች ለተፈናቀሉ ዜጎች ለማድረስ በቅርበት እየሰራ ነው።
 
 ---
 
 Summary for language=en:
+Health facilities in several states, including the Darfurs, have warned that they are facing critical shortages of medical supplies.
+Most of them attend 3–4 births a day, according to the head of a UNFPA-supported midwife network.
 WHO is working closely with the Ministry of Health and other partners to ensure provision of essential sexual, reproductive, maternal and paediatric care as well as emergency obstetric and neo-natal care in Khartoum and Gezira, and in states sheltering internally displaced people.
 
 ---
 
-Summary for language=en:
-Discussions were based on the text prepared by the Bureau of the INB and distributed to all WHO’s Member States in May 2023 (the “Bureau’s text”), first through an open plenary session where Member States and relevant stakeholders provided their general comments, followed by a closed session in the Drafting Group.
+Summary for language=ha:
+UNFPA ta samar da kiwon lafiyar jima'i da haihuwa a wuraren kula da lafiya da asibitoci a faɗin Sudan.
+WHO na ba da magunguna da kayayyakin ceton rai, tare da biyan kuɗin tafiyar da cibiyoyin kiwon lafiya da ke samar da waɗannan ayyuka.
+WHO kuma na horar da ma'aikatan kiwon lafiya a kan tallafi na farko, samar da magani bayan fyaɗe da kula da lafiyar ƙwaƙwalwa ga waɗanda suka tsira daga cin zarafin jima'i da jinsi (GBV), kuma suna tallafawa ƙungiyoyi masu zaman kansu na ƙasa da ke ba da ayyukan GBV.
+
+---
+
+Summary for language=sw:
+Kati ya watu milioni 11 nchini Sudani wanaohitaji msaada wa dharura wa afya ni wanawake na wasichana milioni 2.64 walio katika umri wa kuzaa.
+Vifaa na rasilimali za afya pia zimeporwa, na wahudumu wa afya wamefanyiwa ukatili.
+WHO inafanya kazi kwa karibu na wizara ya afya na washirika wengine ili kuhakikisha utoaji wa huduma muhimu za ngono, uzazi, uzazi na watoto pamoja na huduma ya dharura ya uzazi na uzazi huko Khartoum na Gezira, na katika majimbo yanayohifadhi wakimbizi wa ndani.
+
+---
+
+Summary for language=yo:
+67% àwọn ilé-ìwòsàn ní àwọn agbègbè tí ìjà náà kóbá ni wọ́n ti tìpa, bẹ́ẹ̀ sì ni ọ̀pọ̀lọpọ àwọn ilé-ìwòsàn agbẹ̀bí ni wọn ò ṣiṣẹ́ mọ́, tó fi mọ́ ilé-ìwòsàn Omdurman, ilé-ìwòsàn ìfiṣọwọ́ tó tóbi jùlọ ní orílẹ̀-èdè Sudan.
+Ní oṣù Èbìbí, UNFPA àti àwọn onígbọ̀wọ́ ìbílẹ̀, ilé-iṣẹ́ Onídágbàsókè CAFA, pèsè epo fún ilé-ìwòsàn agbẹ̀bí méje ní Khartoum láti rí i dájú pé ìpèsè iṣẹ́ ìlera wà fún àwọn obìnrin àti àwọn ọmọ tuntun.
+WHO ń ṣiṣẹ́ papọ̀ pẹ̀lú ilé-iṣẹ́ Ìjọba fún Ètò Ìlera àti àwọn onígbọ̀wọ́ mìíràn láti ṣe àrídájú ìpèsè ìtọ́jú ìbálòpọ̀, ìbímọ, ìyá ọlọ́mọ àti ìkókó bákan náà ni ìtọ́jú ìbímọ àti ọmọtuntun pàjáwírì ní Khartoum àti Gezira, àti ní àwọn ìpínlẹ̀ tí wọ́n ń gba àwọn ènìyàn tí ò nílé lábẹ́lé sílé.
+
+---
+
+Summary for language=zu:
+Bonke badinga ukuthola imisebenzi yezempilo ebhekene nokuzala okubucayi.
+Kusukela ngoMbasa, ngesikhathi ukulwa kuqala, iWHO yabhekisisa ukuhlaselwa okungu-46 kubasebenzi bezempilo nezindawo osekubulale abantu abayisishagalombili futhi kwalimala abanye abangu-18.
+Kodwa ukwesekwa okwengeziwe kudingeka kakhulu ukugcina ifuweli namasaplayi ezibhedlela ezibalulekile ukugcina imisebenzi ebalulekile.
+
+---
+
+Summary for language=am:
+የዓለም ጤና ድርጅት (WHO) አገሮች እ.ኤ.አ. በግንቦት 2024 ለዓለም ጤና ጉባኤ ረቂቅ ስምምነትን ለማቅረብ በማሰብ በዓለም አቀፍ ደረጃ በወረርሽኙ መከላከል፣ ዝግጁነት እና ምላሽ መስጠት ላይ ድርድሮችን ቀጥለዋል።
+ውይይቶች በመንግስታቱ ድርጅት ተደራዳሪ አካል ቢሮ ተዘጋጅተው እ.ኤ.አ. በግንቦት 2023 ለሁሉም የአለም ጤና ድርጅት አባል ሀገራት ተሰራጭቶ በነበረው የቢሮው ፅሁፍ (“Bureau’s text”)፤ በመጀመሪያ ክፍት የምልአተ ጉባኤ ስብሰባ አባል ሀገራት እና የሚመለከታቸው ባለድርሻ አካላት አጠቃላይ አስተያየታቸውን የሰጡ ሲሆን በመቀጠልም በረቂቅ ቡድን ውስጥ በተዘጋ ክፍለ ጊዜ ተወያይተዋል።
+ስብሰባው በመቀጠል እነዚህን በርካታ አንቀጾች በአርቃቂ ቡድን መደበኛ ባልሆኑ ስብሰባዎች ላይ ማጤን እንዲቀጥል ተስማምቷል።
 
 ---
 
 Summary for language=en:
-This consultation will be a milestone embodying the political commitment of governments to enhancing global collaboration and mutual support to improve the health of migrants and refugees, and to inform upcoming high-level health and migration meetings and forums.” Othman Belbeisi, IOM MENA Regional Director Note to editors: The Third Global Consultation on the Health of Refugees and Migrants served as a valuable platform for meaningful and sustained dialogue on refugee and migrant health across various sectors.
+Countries set out way forward for continued negotiations on global agreement on pandemic prevention, preparedness, and response Countries of the World Health Organization (WHO) have moved forward negotiations on a global accord on pandemic prevention, preparedness and response, with a view to presenting a draft accord to the World Health Assembly in May 2024.
+Discussions were based on the text prepared by the Bureau of the INB and distributed to all WHO’s Member States in May 2023 (the “Bureau’s text”), first through an open plenary session where Member States and relevant stakeholders provided their general comments, followed by a closed session in the Drafting Group.
+The meeting then agreed to continue consideration of several of these articles through informal meetings of the Drafting Group.
+
+---
+
+Summary for language=ha:
+Tattaunawar ta ta'allaƙa ne ga rubutun da Hukumar INB suka tsara kuma suka raba wa duka 'Yan Majalissar WHO a watan Mayu 2023 (Rubutun Hukumar), a zangon farko inda 'Yan Majalissa da masu faɗa a ji suka yi sharhi, bayan an yi zaman ƙarshe a Ƙananun 'Yan Majalissa.
+A matsayin matakin gwaji, tarurruka na yau da kullum a kan maƙala ta 9 (bincike da haɓakawa) na rubutun Hukumar an gudanar da su su biyu a gefen taron wakilai.
+Don neman ƙarin bayani:
+
+---
+
+Summary for language=sw:
+Nchi ziliweka njia ya kuendelea kwa mazungumzo juu ya makubaliano ya kimataifa juu ya kuzuia janga, kujiandaa, na kukabiliana Nchi za shirika la afya Duniani (WHO) zimesogeza mbele mazungumzo juu ya makubaliano ya kimataifa kuhusu kuzuia, kujitayarisha na kukabiliana na janga hili, kwa nia ya kuwasilisha rasimu ya makubaliano kwenye baraza la afya duniani mnamo Mei 2024.
+Jana jioni, majadiliano juu ya rasimu ya makubaliano ya janga hilo yalifanyika wakati wa kikao cha siku tano cha mkutano wa tano wa Bodi ya majadiliano ya kiserikali (INB), unaojumuisha nchi 194 wanachama wa WHO.
+Kikao kilikubali kuendelea kuzingatiwa kwa baadhi ya ibara hizi kupitia mikutano isiyo rasmi ya kikundi cha waandishi.
+
+---
+
+Summary for language=yo:
+Àwọn orílẹ̀-èdè ṣe àgbékalẹ̀ ọ̀nà láti tẹ̀síwájú ìdúnàdúrà lórí àdéhùn àgbáyé lórí ìdènà àjàkálẹ̀ ààrùn, ìmúrasílẹ̀, àti ìdáhùn Àwọn orílẹ̀-èdè Àjọ Elétò Ìlera Lágbàyé (WHO) ti tẹ̀síwájú ìdúnàdúrà lórí ìṣọ̀kan àgbáyé lórí ìdènà àjàkálẹ̀ ààrùn, ìmúrasílẹ̀ àti ìdáhùn, pẹ̀lú àfojúsùn láti ṣe àgbékalẹ̀ àkọsílẹ̀ ìṣọ̀kan fún Àpérò Ìlera Àgbáyé ní oṣù Èbìbí ọdún 2024.
+Ìjírórò dá lórí àkọsílẹ̀ tí Ọ́fíísì INB ṣètò rẹ̀ tí wọ́n sì pín fún gbogbo àwọn Orílẹ̀-èdè tó jẹ́ Ọmọ Ẹgbẹ́ ní oṣù Èbìbí ọdún 2023 ("àkọsílẹ̀ ọ́fíísì"), ní àkọ́kọ́ nípasẹ̀ sáà ìjírórò níbi tí àwọn orílẹ̀-èdè tó jẹ́ ọmọ ẹgbẹ́ àti àwọn alẹ́nulọ́rọ̀ tó ṣe pàtàkì bá ṣe àgbékalẹ̀ àríwísí àpapọ wọn, tí sáà ìdákọ́nkọ́ yóò sì tẹ̀le nínú Ẹgbẹ́ Aṣàkọsílẹ̀.
+Fún àfikún àlàyé:
+
+---
+
+Summary for language=zu:
+Amazwe abeke indlela eya phambili yokuqhubeka nezingxoxo kusivumelwano somhlaba sokuvikela ubhubhane, ukuzilungiselela kanye nokuphendula.
+Roland Driece, ibamba Sihlalo we-INB Bureau waseNetherlands: uthe Amazwe akuzona zonke izingxenye zomhlaba akawazile ukuxoxa imibono yabo, ukukhathazeka nemibono yezivumelwano yokuningi okwahlukene komhlangano khona wonke umuntu ezozwa futhi acabange.
+Ngokohlelo oluvunywe ohulumeni kuseshini ekhethekile yeWorld Assembly ngokuphela kuka-2021 izingxoxo ngokubhalwa komzamo wobhubhane zihlose ukukhiqiza umzamo wokugcina ukuthi ubhekisiswe ngo-2024.
+
+---
+
+Summary for language=am:
+መግለጫው ስደተኞችን እና ተፈናቃዮች ጨምሮ ማንኛውም ሰው አካላዊ እና አእምሮአዊ ጤንነትን የመጠቀም መብቱን በድጋሚ ያረጋግጣል።
+" ካሊድ አይት ታሌብ፤ የሞሮኮ መንግሥት የጤና እና ማህበራዊ ጥበቃ ሚኒስትር "ስደተኞች እና ተፈናቃዮች በጤና ላይ ከፍተኛ ስጋት አለባቸው፤ የሚያስፈልጋቸውን የጤና አገልግሎቶችን ለማግኘት ከፍተኛ እንቅፋት ያጋጥማቸዋል።
+' ያሉት ኦትማን ቤልቤሰ, የዓለም አቀፍ የስደተኞች ድርጅት ክልላዊ ዳይሬክተር ናቸው።
+
+---
+
+Summary for language=en:
+The Rabat Declaration was adopted during the high-level segment of the Third Global Consultation on the Health of Refugees and Migrants that took place on 13–15 June 2023 (1).
+Countries supporting it commit to including refugee and migrant populations and their host communities in policies and plans for prevention, preparedness, response and recovery to pandemics and other public health emergencies, while strengthening international and cross-border collaboration.
+Because health for all means all, including refugees and migrants.” Tedros Adhanom Ghebreyesus, Director-General, World Health Organization “Our ultimate goal for this consultation is to promote the appropriate interventions that improve, protect and preserve the health and well-being of all refugees and migrants, and host communities.
+
+---
+
+Summary for language=ha:
+Sanarwar Rabat da aka amince da ita don inganta lafiyar 'yan gudun hijira da baƙin haure Wakilan minista da gwamnati sun karɓi sanarwa ta siyasa, Sanarwar Rabat, don ƙarfafa dagewa ta duniya don bunƙasa lafiyar 'yan gudun hijira da baƙi.
+Ƙasashen da ke tallafa mata sun himmatu wajen haɗawa da ƴan gudun hijira da bakin haure da al'ummominsu masu masaukin baki a cikin manufofi da tsare-tsare na rigakafi, zama cikin shitu, kai dauki da murmurewa daga annoba da sauran matsalolin gaggawa na lafiyar jama'a, tare da ƙarfafa haɗin gwiwar kasa da kasa da kan iyaka.
+Khalid Ait Taleb, Ministan Lafiya da Kariyar Al'umma na Masarautar Morocco Yan gudun hijira da bakin haure na fuskantar babbar barazana ga lafiya, da kuma cikas ga samun damar ayyukan kiwon lafiya da suke buƙata.
+
+---
+
+Summary for language=sw:
+Nchi zinazounga mkono zinajitolea kujumuisha idadi ya wakimbizi na wahamiaji na jumuia zinazowakaribisha katika sera na mipango ya kuzuia, kujiandaa, kukabiliana na kuponya magonjwa ya mlipuko na dharura nyingine za afya ya umma, huku zikiimarisha ushirikiano wa kimataifa na mipakani.
+Pia washikadau wanaahidi kuendeleza taratibu za ufadhili jumuishi ili kupunguza shinikizo la bajeti kwenye mifumo ya kitaifa na kukuza ushiriki kamili wa wakimbizi na wahamiaji katika mijadala ya sera ya afya ili kutambua na kubuni afua zinazofaa kwa mahitaji yao ya kiafya.
+Mashauriano ya tatu ya kiulimwengu yalilenga kufahamisha maamuzi ya sera, kuchagiza katika shabaha zinazofaa za kimataifa na kukuza utendaji wa afua zinazofaa ambazo zinaboresha, kulinda na kuhifadhi afya na ustawi wa wakimbizi na wahamiaji na jumuia zinazowapokea.
+
+---
+
+Summary for language=yo:
+Ètò náà, tí Kingdom of Morocco, Àjọ Elétò Ìlera Lágbàyé (WHO), IOM, Àjọ Aṣíkiri UN, àti UNHCR, Àjọ Asásàálà UN jọ ṣe àgbékalẹ̀ rẹ̀, ni àwọn aṣojú ìjọba láti 50 Àwọn Orílẹ̀-èdè Tó Jẹ́ Ọmọ Ẹgbẹ́ Àjọ Ìṣọ̀kan Àgbáyé àti àwọn alákíyèsí láti àwọn ilé-iṣẹ́ ajàfẹ́tọ ọmọnìyàn, àwọn lẹ́gbẹ́-lẹ́gbẹ́ láwùjọ àti àwùjọ àwọn asásàálà àti aṣíkiri àti àwọn àjọ UN péjú sí.
+Àwọn orílẹ̀-èdè tí wọ́n ń ṣe àtìlẹ́yìn fún-un ní àfọkànsìn láti ṣe àfikún àwọn asásàálà àti aṣíkiri àti àwọn àwùjọ tí wọ́n gbà wọ́n wọlé sínú àwọn òfin àti ètò fún ìdènà, ìmúrasílẹ̀, ìdáhùn àti ìpadàbọ̀sípò fún àjàkálẹ̀ ààrùn àti àwọn pàjáwírì ìlera àwùjọ, nígbà tí wọ́n tún ró àjọṣepọ̀ ilẹ̀ òkèèrè àti ẹnu-bodè lágbára.
+Fún àlàyé kíkún jọ̀wọ́ kàn sí: WHO Algeria dúró sí ipò rẹ̀ lórí àkàsọ̀ kẹ́ta fún ìṣíde Ìkéde Rabat.
+
+---
+
+Summary for language=zu:
+Umhlangano uhlosi ukugqugquzela ukufakwa kwabangenandawo nabafudukile ezinhlelweni zempilo zezwe njengengxenye yomnyakazo womhlaba wokukhavwa kwezempilo emhlabeni nomsebenzi oya ekubekezeleni nokugcineka kokuvikelwa kokuphuthumayo kwezempilo, ukuzilungiselela kanye namandla okuphendula.
+Oyedwa kwabayisishagalombili emhlabeni kungaba ufudukile noma uphoqwe ngenkathi ukuthi athuthe ngezinto ezifana nengxabano, ukushushiswa, ukuguguka kwendawo noma ukwentuleka kwezokuphepha kwabantu kanye namathuba.
+Inothi kubahleli: Global Consultation yesithathu yeHealth of Refugees and Migrants isebenza njengenkundla ebalulekile engxoxweni egcinekile futhi enengqondo kwezempilo zabangenandawo kanye nabafuduki kuyona yonke imikhakha eyahlukene.
 
 ---
 

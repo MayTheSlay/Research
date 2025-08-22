@@ -2,6 +2,7 @@ from sentence_transformers import SentenceTransformer, util
 from nltk.tokenize import sent_tokenize
 from load_dataset import lang_list, val_ds
 from sklearn.cluster import KMeans
+from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 from scipy.spatial import distance
 from sklearn.metrics.pairwise import cosine_similarity
 import re
@@ -24,13 +25,19 @@ def tokenize_am(text):
 
     return sentences
 
+def tokenize(text):
+    punkt_params = PunktParameters()
+    punkt_params.abbrev_types = set(['e.g'])
+
+    tokenizer = PunktSentenceTokenizer(punkt_params)
+    return tokenizer.tokenize(text)
 
 def extractive_summary(language, text, clusters):
     # 1. Sentence splitting
     if language == 'am':
         sentences = tokenize_am(text)
     else:
-        sentences = sent_tokenize(text)
+        sentences = tokenize(text)
 
     # if len(sentences) <= num_sentences:
     #     return ' '.join(sentences)
@@ -60,27 +67,30 @@ def extractive_summary(language, text, clusters):
     return summaries
 
 
-# Save to a .txt file
-# with open("output.txt", "w", encoding="utf-8") as f:
-#     for row in val_ds:
-#         for lang in lang_list:  # lang_list should be ['am', 'en', 'ha', 'sw', 'yo', 'zu']
-#             text = row[lang]
-
-#             # Skip empty text
-#             # if not text.strip():
-#             #     continue
-
-#             # Get summary for this language's text
-#             summary_sentences = extractive_summary(lang, text, clusters=3)
-
-#             # Save to file
-#             f.write(f"Summary for language={lang}:\n")
-#             for sent in summary_sentences:
-#                 f.write(sent + "\n")
-#             f.write("\n---\n\n")
-
+#Save to a .txt file
 '''''
 with open("output.txt", "w", encoding="utf-8") as f:
+    for row in val_ds:
+        for lang in lang_list:  # lang_list should be ['am', 'en', 'ha', 'sw', 'yo', 'zu']
+            text = row[lang]
+
+            # Skip empty text
+            # if not text.strip():
+            #     continue
+
+            # Get summary for this language's text
+            summary_sentences = extractive_summary(lang, text, clusters=3)
+
+            # Save to file
+            f.write(f"Summary for language={lang}:\n")
+            for sent in summary_sentences:
+                f.write(sent + "\n")
+            f.write("\n---\n\n")
+
+'''''
+
+
+with open("eng_sum.txt", "w", encoding="utf-8") as f:
     for row in val_ds:
         #for lang in lang_list:  # lang_list is ['am', 'en', 'ha', 'sw', 'yo', 'zu']
             text = row['en']
@@ -92,7 +102,7 @@ with open("output.txt", "w", encoding="utf-8") as f:
                 f.write(sentence + "\n")
             f.write("\n---\n\n")
 
-print("Summaries saved to output.txt")
-'''''
+print("Summaries saved to eng_sum.txt")
+
 #extractive_summary(lang_list[0], amh_text2, 1)
 #print(amh_text)
