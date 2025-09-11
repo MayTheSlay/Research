@@ -13,11 +13,8 @@ model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniL
 
 def tokenize_am(text):
     # Return sentences with full stop ። re-attached
-    punc = re.split(r'\s*(?:።|፡ ፡)\s*', text)
+    punc = re.split(r'\s*(?:።|፡ ፡|፧)\s*', text)
     sentences=[]
-    # for sentence in text.split('።') or text.split('::'):
-    #     if sentence.strip():
-    #         sentences.append(sentence+'።')
 
     for parts in punc:
         if parts.strip():  # skip empty parts
@@ -25,12 +22,24 @@ def tokenize_am(text):
 
     return sentences
 
-def tokenize(text):
-    punkt_params = PunktParameters()
-    punkt_params.abbrev_types = set(['e.g'])
+punkt_params = PunktParameters()
+punkt_params.abbrev_types = set(['e.g', 'i.e', 'etc', 'Dr', 'Mr', 'Ms', '1', '2', '3', '4', '5'])
+tokenizer = PunktSentenceTokenizer(punkt_params)
 
-    tokenizer = PunktSentenceTokenizer(punkt_params)
-    return tokenizer.tokenize(text)
+def tokenize(text):
+    # 1. Insert special marker after sentence-ending punctuation with quotes
+    text = re.sub(r'([.!?][”"])', r'\1 <SPLIT>', text)
+
+    # 2. First pass: use Punkt tokenizer
+    sentences = tokenizer.tokenize(text)
+
+    # 3. Second pass: split by our <SPLIT> marker
+    result = []
+    for sent in sentences:
+        parts = [p.strip() for p in sent.split("<SPLIT>") if p.strip()]
+        result.extend(parts)
+
+    return result
 
 def extractive_summary(language, text, clusters):
     # 1. Sentence splitting
@@ -38,9 +47,6 @@ def extractive_summary(language, text, clusters):
         sentences = tokenize_am(text)
     else:
         sentences = tokenize(text)
-
-    # if len(sentences) <= num_sentences:
-    #     return ' '.join(sentences)
 
     # 2. Embedding
     sentence_embeddings = model.encode(sentences, convert_to_tensor=True)
@@ -89,20 +95,20 @@ with open("output.txt", "w", encoding="utf-8") as f:
 
 '''''
 
-
-with open("eng_sum.txt", "w", encoding="utf-8") as f:
-    for row in val_ds:
+file_path=r"C:\Users\mayur\OneDrive\Desktop\Research\Code\base_summaries"
+lang=lang_list[0]
+with open(f"{file_path}/{lang}_sum.txt", "w", encoding="utf-8") as f:
+    for i, row in enumerate(val_ds):
         #for lang in lang_list:  # lang_list is ['am', 'en', 'ha', 'sw', 'yo', 'zu']
-            text = row['en']
+        
+            text = row[lang]
 
-            summaries= extractive_summary(lang_list[1], text, 1)
+            summaries= extractive_summary(lang, text, 5)
+            f.write(f"Document {i+1}\n")
 
-            f.write(f"Summary for language={lang_list[1]}:\n")
             for sentence in summaries:
                 f.write(sentence + "\n")
+            
             f.write("\n---\n\n")
 
-print("Summaries saved to eng_sum.txt")
-
-#extractive_summary(lang_list[0], amh_text2, 1)
-#print(amh_text)
+print(f"Summaries saved to base summaries/{lang}_sum.txt")

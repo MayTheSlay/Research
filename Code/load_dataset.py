@@ -16,6 +16,8 @@ val_ds= load_dataset("masakhane/AfriDocMT", "doc_health_10", split="validation")
 test_ds= load_dataset("masakhane/AfriDocMT", "doc_health_10", split="test")
 '''''
 
+
 lang_list=list(val_ds.features)
-print(val_ds)
-print(lang_list)
+# print(val_ds)
+# print(lang_list)
+# print(lang_list[1])
