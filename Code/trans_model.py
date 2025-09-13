@@ -43,19 +43,19 @@ def translation(source_lang, target_lang, text):
 
     source_code = language_map[source_lang]
     target_code = language_map[target_lang]
+    batch_size=5
 
-    # Split into sentences
+    # Split into managabel token sizes
     if source_lang == 'am':
-        sentences = tokenize_am(text)
+        sentences = tokenize_am(" ".join(text))
     else:
-        sentences = re.split(r'(?<=[.!?])\s+', text)
+        sentences = re.split(r'(?<=[.!?,])\s+', " ".join(text))
 
     translated_chunks = []
-    for sent in sentences:
-        sent = sent.strip()
-        if sent:
-            result = translator(sent, src_lang=source_code, tgt_lang=target_code)
-            translated_chunks.append(result[0]['translation_text'])
+    for i in range(0, len(sentences), batch_size):
+        batch = sentences[i:i+batch_size]
+        results = translator(batch, src_lang=source_code, tgt_lang=target_code)
+        translated_chunks.extend([r['translation_text'] for r in results])
 
     return " ".join(translated_chunks)
 
@@ -71,12 +71,12 @@ def translation(source_lang, target_lang, text):
 #                 f.write(sentence + "\n")
 #             f.write("\n---\n\n")
 
-with open("trans_output.txt", "w", encoding="utf-8") as f:
-    text='ከእናት ወደ ልጅ መተላለፍን ለማስወገድ እንዲረዳ የአለም ጤና ድርጅት ሁሉም ነፍሰ ጡር እናቶች በእርግዝና ወቅት የሄፐታይተስ ቢ ምርመራ እንዲያደርጉ ይመክራል:: የምርመራው ውጤት ፓዘቲቭ ከሆነ ህክምና ሊደረግላቸው እና ለሚወልዶቸው ልጆች ክትባቶች ሊሰጣቸው ይገባል:: ይሁን እንጂ አዲሱ የዓለም ጤና ድርጅት ሪፖርት እንደሚያሳየው ፖሊሲ ካላቸው 64 አገሮች ውስጥ 32 አገሮች ብቻ በቅድመ ወሊድ ክሊኒኮች ውስጥ ሄፓታይተስ ቢን ለመመርመር እና ለመቆጣጠር እንደሚተገብሩ ዘግበዋል:: ሪፖርቱ ከ103 አገሮች ውስጥ 80% የሚሆኑት በኤች አይ ቪ ክሊኒኮች ውስጥ ሄፓታይተስ ቢን ለመመርመር እና ለመቆጣጠር ፖሊሲ እንዳላቸው ያሳያል፤ 65% ደግሞ ለሄፐታይተስ ሲ ተመሳሳይ ፓሊሲ አላቸው:: በኤች አይ ቪ ፕሮግራሞች ውስጥ የሄፐታይተስ ምርመራ እና ህክምና መጨመር ኤችአይቪ ያለባቸውን ሰዎች በጉበት ሲሮሲስ (የጉበት ቆሚ እና የማይመለስጉዳት) እና በጉበት ካንሰር እንዳይያዙ ይከላከላል:: ከዓመታት ወዲህ እየጨመረ የመጣው ሕክምና፤ የሄፐታይተስ ሲ የፈውስ ሕክምናን የሚያገኙ ሰዎች ቁጥር እየጨመረ ነው:: ህክምናን በማስፋፋት ላይ ያለውን እድገት ለማፋጠን የመድሃኒት ዋጋ መቀነስን የአለም ጤና ድርጅት ያበረታታል:: ሄፓታይተስ ሲን ለመፈወስ የ12 ሳምንት የመድሃኒት ህክምና አሁን ዝቅተኛ ገቢ ላላቸው ሀገራት 60 የአሜሪካ ዶላር ያስወጣል፤ ይህም ከፍተኛ ገቢ ባላቸው ሀገራት ለመጀመሪያ ጊዜ ሲገባ ከነበረው ከ90 000 ዶላር በላይ ከነበረው ዋጋ ቀንሷል።'
-    translated_text= translation(lang_list[0], lang_list[1], text)
-    f.write(translated_text)
+# with open("trans_output.txt", "w", encoding="utf-8") as f:
+#     text='ከእናት ወደ ልጅ መተላለፍን ለማስወገድ እንዲረዳ የአለም ጤና ድርጅት ሁሉም ነፍሰ ጡር እናቶች በእርግዝና ወቅት የሄፐታይተስ ቢ ምርመራ እንዲያደርጉ ይመክራል:: የምርመራው ውጤት ፓዘቲቭ ከሆነ ህክምና ሊደረግላቸው እና ለሚወልዶቸው ልጆች ክትባቶች ሊሰጣቸው ይገባል:: ይሁን እንጂ አዲሱ የዓለም ጤና ድርጅት ሪፖርት እንደሚያሳየው ፖሊሲ ካላቸው 64 አገሮች ውስጥ 32 አገሮች ብቻ በቅድመ ወሊድ ክሊኒኮች ውስጥ ሄፓታይተስ ቢን ለመመርመር እና ለመቆጣጠር እንደሚተገብሩ ዘግበዋል:: ሪፖርቱ ከ103 አገሮች ውስጥ 80% የሚሆኑት በኤች አይ ቪ ክሊኒኮች ውስጥ ሄፓታይተስ ቢን ለመመርመር እና ለመቆጣጠር ፖሊሲ እንዳላቸው ያሳያል፤ 65% ደግሞ ለሄፐታይተስ ሲ ተመሳሳይ ፓሊሲ አላቸው:: በኤች አይ ቪ ፕሮግራሞች ውስጥ የሄፐታይተስ ምርመራ እና ህክምና መጨመር ኤችአይቪ ያለባቸውን ሰዎች በጉበት ሲሮሲስ (የጉበት ቆሚ እና የማይመለስጉዳት) እና በጉበት ካንሰር እንዳይያዙ ይከላከላል:: ከዓመታት ወዲህ እየጨመረ የመጣው ሕክምና፤ የሄፐታይተስ ሲ የፈውስ ሕክምናን የሚያገኙ ሰዎች ቁጥር እየጨመረ ነው:: ህክምናን በማስፋፋት ላይ ያለውን እድገት ለማፋጠን የመድሃኒት ዋጋ መቀነስን የአለም ጤና ድርጅት ያበረታታል:: ሄፓታይተስ ሲን ለመፈወስ የ12 ሳምንት የመድሃኒት ህክምና አሁን ዝቅተኛ ገቢ ላላቸው ሀገራት 60 የአሜሪካ ዶላር ያስወጣል፤ ይህም ከፍተኛ ገቢ ባላቸው ሀገራት ለመጀመሪያ ጊዜ ሲገባ ከነበረው ከ90 000 ዶላር በላይ ከነበረው ዋጋ ቀንሷል።'
+#     translated_text= translation(lang_list[0], lang_list[1], text)
+#     f.write(translated_text)
 
-print("Translation saved to trans_output.txt")
+# print("Translation saved to trans_output.txt")
 
 
 #reference?

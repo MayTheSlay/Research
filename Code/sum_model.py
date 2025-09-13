@@ -95,20 +95,20 @@ with open("output.txt", "w", encoding="utf-8") as f:
 
 '''''
 
-file_path=r"C:\Users\mayur\OneDrive\Desktop\Research\Code\base_summaries"
-lang=lang_list[0]
-with open(f"{file_path}/{lang}_sum.txt", "w", encoding="utf-8") as f:
-    for i, row in enumerate(val_ds):
-        #for lang in lang_list:  # lang_list is ['am', 'en', 'ha', 'sw', 'yo', 'zu']
+# file_path=r"C:\Users\mayur\OneDrive\Desktop\Research\Code\base_summaries"
+# lang=lang_list[0]
+# with open(f"{file_path}/{lang}_sum.txt", "w", encoding="utf-8") as f:
+#     for i, row in enumerate(val_ds):
+#         #for lang in lang_list:  # lang_list is ['am', 'en', 'ha', 'sw', 'yo', 'zu']
         
-            text = row[lang]
+#             text = row[lang]
 
-            summaries= extractive_summary(lang, text, 5)
-            f.write(f"Document {i+1}\n")
+#             summaries= extractive_summary(lang, text, 5)
+#             f.write(f"Document {i+1}\n")
 
-            for sentence in summaries:
-                f.write(sentence + "\n")
+#             for sentence in summaries:
+#                 f.write(sentence + "\n")
             
-            f.write("\n---\n\n")
+#             f.write("\n---\n\n")
 
-print(f"Summaries saved to base summaries/{lang}_sum.txt")
+# print(f"Summaries saved to base summaries/{lang}_sum.txt")

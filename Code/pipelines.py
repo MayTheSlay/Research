@@ -6,6 +6,7 @@ from load_dataset import val_ds, lang_list
 def summarize_then_translate(source_lang, target_lang, text, clusters):
 
     summary=extractive_summary(source_lang, text, clusters)
+    print("Summary:", summary)
     translated=translation(source_lang, target_lang, summary)
 
     return translated
@@ -18,16 +19,22 @@ def translate_then_summarize(source_lang, target_lang, text, clusters):
 
     return summary
 
-with open("am_sum.txt", "w", encoding="utf-8") as f:
-    for row in val_ds:
+
+file_path=r"C:\Users\mayur\OneDrive\Desktop\Research\Code\SumTrans_results"
+source='en'
+target=lang_list[5]
+with open(f"{file_path}/eng_to_{target}_sum.txt", "w", encoding="utf-8") as f:
+    for i, row in enumerate(val_ds):
         #for lang in lang_list:  # lang_list is ['am', 'en', 'ha', 'sw', 'yo', 'zu']
-            text = row['am']
 
-            summaries= extractive_summary(lang_list[0], text, 1)
+        print(f"Translating doc {i+1}")
+        text = row[source]
 
-            f.write(f"Summary for language={lang_list[0]}:\n")
-            for sentence in summaries:
-                f.write(sentence + "\n")
-            f.write("\n---\n\n")
+        summaries=summarize_then_translate(source, target, text, 5)
+        f.write(f"Document {i+1}\n")
 
-print("Summaries saved to am_sum.txt")
+        f.write(summaries + "\n")
+            
+        f.write("\n---\n\n")
+
+print(f"Summaries saved to sumtrans summaries/{target}_sum.txt")

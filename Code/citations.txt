@@ -49,3 +49,6 @@ QAGS reference:
    author={Wang, Alex and Cho, Kyunghyun and Lewis, Mike},
    year={2020}
 }
+
+• Model performance measures: NLLB-200 model was evaluated using BLEU, spBLEU, and chrF++ metrics widely adopted by machine translation community. 
+Additionally, we performed human evaluation with the XSTS protocol and measured the toxicity of the generated translations.
